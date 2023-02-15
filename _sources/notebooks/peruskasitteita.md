@@ -13,8 +13,8 @@ Atomissa protoneita ja elektroneita on aina yhtä paljon, jolloin atomi on sähk
 **{index}`Järjestysluku (Z)`** kertoo atomin ytimessä olevien protonien määrän.
 **{index}`Massaluku (M)`** kertoo atomin ytimessä olevien protonien ja neutronien lukumäärän yhteensä. Jos atomin järjestysluku ja massaluku tunnetaan, voidaan neutronien lukumäärä laskea vähentämällä massaluvusta järjestysluku: neutronien lkm = M – Z
 
-**{index}`Atomimassayksikkö (1 u)`** on tapa ilmaista perushiukkasten ja atomien massoja yksinkertaisesti. Atomimassan perusyksikkö on 1/12-osaa hiili-12 isotoopin massasta, mikä vastaa suunnilleen yhden protonin massaa. Tällöin $ 1 \text{u} = 1,66 \cdot 10^{-27} \text{kg} = m(p^+) $.
-- Varaus tarkoittaa tässä yhteydessä niin sanottua alkeisvarausta, jonka suuruus on $ 1,602 \cdot 10^{-19} \text{C} $ eli Coulombia. Kun asiaa ajatellaan sähkövirran mielessä, yksi ampeeri kuvastaa sitä, että virtajohtimen läpi kulkee yhden Coulombin verran alkeisvarauksia sekunnissa. Tämä vastaa $ \frac{1}{(1.602 \cdot 10^{-19}} \approx 6.24 \cdot 10^{18} $ kappaletta elektroneita.
+**{index}`Atomimassayksikkö (1 u)`** on tapa ilmaista perushiukkasten ja atomien massoja yksinkertaisesti. Atomimassan perusyksikkö on 1/12-osaa hiili-12 isotoopin massasta, mikä vastaa suunnilleen yhden protonin massaa. Tällöin $ 1 \ \text{u} = 1,66 \cdot 10^{-27} \ \text{kg} = m(p^+) $.
+- Varaus tarkoittaa tässä yhteydessä niin sanottua alkeisvarausta, jonka suuruus on $ 1,602 \cdot 10^{-19} \ \text{C} $ eli Coulombia. Kun asiaa ajatellaan sähkövirran mielessä, yksi ampeeri kuvastaa sitä, että virtajohtimen läpi kulkee yhden Coulombin verran alkeisvarauksia sekunnissa. Tämä vastaa $ \frac{1}{1.602 \cdot 10^{-19}} \approx 6.24 \cdot 10^{18} $ kappaletta elektroneita.
 
 **{index}`Perusvuorovaikutukset`**
 - Sähkömagneettisen vuorovaikutuksen mukaan samanmerkkiset sähkövaraukset hylkivät toisiaan ja vastakkaismerkkiset varaukset vetävät toisiaan puoleensa.
