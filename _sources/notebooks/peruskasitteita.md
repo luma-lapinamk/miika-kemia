@@ -5,16 +5,16 @@
 **{index}`Atomi`** on alkuaineen perusyksikkö. Se koostuu ytimestä sekä elektroneista, jotka kiertävät ydintä elektronipilvessä. Atomien koko eri alkuaineilla vaihtelee <font color="red">linkki.</font>
 
 Protoni, neutroni ja elektroni ovat tärkeimmät **{index}`perushiukkaset`**.
-- Protoni (p^+^) on ytimessä sijaitseva positiivisesti varautunut hiukkanen. Yksinkertaisimmalla alkuaineella, vedyllä (H), on yksi protoni ytimessään.
+- Protoni (p<sup>+</sup>) on ytimessä sijaitseva positiivisesti varautunut hiukkanen. Yksinkertaisimmalla alkuaineella, vedyllä (H), on yksi protoni ytimessään.
 - Neutroni (n) on ytimessä sijaitseva hiukkanen, jolla ei ole varausta. Neutronin massa on melkein yhtä suuri kuin protonin massa.
-- Elektroni (e^-^) on negatiivisesti varautunut hiukkanen, joka kiertää ydintä kaukana elektronipilvessä tietyllä energiatasolla. Elektronit, tarkemmin sanottuna ulkoelektronien lukumäärä, vastaa alkuaineiden kemiallisista ominaisuuksista.
+- Elektroni (e<sup>-</sup>) on negatiivisesti varautunut hiukkanen, joka kiertää ydintä kaukana elektronipilvessä tietyllä energiatasolla. Elektronit, tarkemmin sanottuna ulkoelektronien lukumäärä, vastaa alkuaineiden kemiallisista ominaisuuksista.
 Atomissa protoneita ja elektroneita on aina yhtä paljon, jolloin atomi on sähköisesti varaukseton. Lähes kaikki atomin massasta on keskittynyt ytimeen, sillä protonin massa on lähes 2000-kertainen elektronin massaan verrattuna.
 
 **{index}`Järjestysluku (Z)`** kertoo atomin ytimessä olevien protonien määrän.
 **{index}`Massaluku (M)`** kertoo atomin ytimessä olevien protonien ja neutronien lukumäärän yhteensä. Jos atomin järjestysluku ja massaluku tunnetaan, voidaan neutronien lukumäärä laskea vähentämällä massaluvusta järjestysluku: neutronien lkm = M – Z
 
-**{index}`Atomimassayksikkö (1 u)`** on tapa ilmaista perushiukkasten ja atomien massoja yksinkertaisesti. Atomimassan perusyksikkö on 1/12-osaa hiili-12 isotoopin massasta, mikä vastaa suunnilleen yhden protonin massaa. Tällöin $$ 1 u = 1,66 * 10^-27 kg = m(p^+) $$.
-- Varaus tarkoittaa tässä yhteydessä niin sanottua alkeisvarausta, jonka suuruus on $$ 1,602 * 10^-19 C $$ eli Coulombia. Kun asiaa ajatellaan sähkövirran mielessä, yksi ampeeri kuvastaa sitä, että virtajohtimen läpi kulkee yhden Coulombin verran alkeisvarauksia sekunnissa. Tämä vastaa $$ 1/(1,602 * 10^-19) = 6.24 * 10^18 $$ kappaletta elektroneita.
+**{index}`Atomimassayksikkö (1 u)`** on tapa ilmaista perushiukkasten ja atomien massoja yksinkertaisesti. Atomimassan perusyksikkö on 1/12-osaa hiili-12 isotoopin massasta, mikä vastaa suunnilleen yhden protonin massaa. Tällöin $ 1 \text{u} = 1,66 \cdot 10^{-27} \text{kg} = m(p^+) $.
+- Varaus tarkoittaa tässä yhteydessä niin sanottua alkeisvarausta, jonka suuruus on $ 1,602 \cdot 10^{-19} \text{C} $ eli Coulombia. Kun asiaa ajatellaan sähkövirran mielessä, yksi ampeeri kuvastaa sitä, että virtajohtimen läpi kulkee yhden Coulombin verran alkeisvarauksia sekunnissa. Tämä vastaa $ \frac{1}{(1.602 \cdot 10^{-19}} \approx 6.24 \cdot 10^{18} $ kappaletta elektroneita.
 
 **{index}`Perusvuorovaikutukset`**
 - Sähkömagneettisen vuorovaikutuksen mukaan samanmerkkiset sähkövaraukset hylkivät toisiaan ja vastakkaismerkkiset varaukset vetävät toisiaan puoleensa.
@@ -32,8 +32,7 @@ Atomissa protoneita ja elektroneita on aina yhtä paljon, jolloin atomi on sähk
 - molekyyliyhdiste
 - kompleksiyhdiste
 
-**{index}`Seos`** koostuu kahdesta tai useammasta eri alkuaineesta tai yhdisteestä. Seokset eivät ole yhdisteitä, sillä niissä ainesosat eivät ole kemiallisesti sitoutuneet toisiinsa.
-Homogeenisessa seoksessa aineita ei voida erottaa silmin, toisin kuin heterogeenisessa seoksessa, jossa aineet ovat eri faaseissa. Esimerkkejä homogeenisista seoksista ovat mm. betoni ja teräs, öljy ja hanavesi sekä nestekaasu ja ilma. Heterogeenisiä seoksia ovat mm.
+**{index}`Seos`** koostuu kahdesta tai useammasta eri alkuaineesta tai yhdisteestä. Seokset eivät ole yhdisteitä, sillä niissä ainesosat eivät ole kemiallisesti sitoutuneet toisiinsa. Homogeenisessa seoksessa aineita ei voida erottaa silmin, toisin kuin heterogeenisessa seoksessa, jossa aineet ovat eri faaseissa. Esimerkkejä homogeenisista seoksista ovat mm. betoni ja teräs, öljy ja hanavesi sekä nestekaasu ja ilma. Heterogeenisiä seoksia ovat mm.
 - suspensiot: kiinteitä hiukkasia sekoittuneena nesteeseen. Liukenemattomat hiukkaset voivat laskeutua astian pohjalle, jos seos jätetään seisomaan. Esimerkkejä suspensioista ovat hiekka-vesi-seos ja maalit.
 - geelit: vain vähän kiinteää ainetta sekoittuneena nesteeseen. Geelin rakenne muodostuu kiinteiden hiukkasten ja nesteen välisestä kolmiulotteisesta verkosta. Esimerkkejä geelistä ovat hyytelö ja hammastahna.
 - emulsiot: kahden toisiinsa liukenemattoman nesteen seos. Toinen nesteistä on jakautunut toiseen nesteen pieninä pisaroina. Ajan kuluessa kerrokset voivat jakautua erilleen tiheyserojen mukaisesti. Esimerkkejä emulsioista ovat rasvainen maito sekä ja öljyn ja veden seos.
