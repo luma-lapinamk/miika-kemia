@@ -12,6 +12,14 @@ J.J. Thomson oli yhdessä oppilaansa G.J. Stoney kanssa päätelleet kuuluisalla
 ## 1909 Rutherfordin atomimalli
 Uusiseelantilainen Ernest Rutherford onnistui luomaan alpha-säteilyä, ”kanavapartikkeleita”, joilla hän pommitti ohutta kultakalvoa. Hän huomasi, että suurin osa alpha-säteilystä läpäisi atomit mutta pieni osa siitä heijastui takaisin eri kulmissa. Tämä johti Rutherfordin päätelmään, että atomi koostui suurimmalta osin tyhjästä tilasta, jonka keskellä oli suurimassainen mutta pieni positiivisesti varautunut ydin, jota elektronit kiertävät.
 
+Tutki appletin avulla, mitä Rutherfordin sirontakokeessa tapahtui.
+
+<iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_fi.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
+
 ## 1913 Bohrin atomimalli
 Tanskalainen Nils Bohr kehitti atomimallinsa tutkiessaan, miten kuuma vetykaasu tuottaa valoa. Siinä missä tavallisen hehkulampun lanka tuottaa lähes kaikkia näkyvän valon aallonpituuksia, kuuma vetykaasu tuottaa vain tiettyjä aallonpituuksia: yksi aallonpituus punaisen värin alueella sekä mahdollisesti yksi aallonpituus sinistä ja keltaista sekä muutamia muita linjoja. Täten Bohr ehdotti, että elektronit voivat ottaa vastaan vain tiettyjä energioita johtuen siitä, että ne sijaitsevat tietyillä energiatasoilla. Kun näin korkeammalle energiatasolle virittyneet elektronit palaavat matalammalle energiatasolle, se havaitaan kvantittuneiden valonsäteiden, fotonien, muodossa.
 Bohrin atomimalli loi perustan seuraaville käsityksille atomin elektronirakenteesta:
@@ -23,3 +31,11 @@ Bohrin atomimalli loi perustan seuraaville käsityksille atomin elektronirakente
 
 ## 1917-1932 Atomin ydin hahmottuu
 Teorian ytimessä olevista positiivisista protoneista kehitti Rutherford Hans Geigerin ja Ernest Marsdenin jatkotutkimusten perusteella vuonna **1917**. Teoria ytimessä olevista toisista hiukkasista, varauksettomista neutroneista, vahvistui vuonna **1932** James Chadwickin toimesta.
+
+Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla.
+
+<iframe src="https://phet.colorado.edu/sims/cheerpj/hydrogen-atom/latest/hydrogen-atom.html?simulation=hydrogen-atom&locale=fi"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
