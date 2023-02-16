@@ -13,7 +13,7 @@ Bohrin atomimallissa on kuitenkin myös rajoituksia. Malli toimii hyvin käytän
 
 Bohrin atomimalli perustuu ajatukselle, että atomi koostuu ytimessä olevista protoneista ja neutroneista, joiden ympärillä liikkuu elektroneja eri energiatasoilla. Bohrin mallin mukaan elektronit liikkuvat ytimen ympärillä tietyillä, tarkkaan määritellyillä elektronikuorilla, joita merkintään kirjaimilla K, L, M, N jne. Nämä radat vastaavat eri energiatasoja, joilla elektroni voi olla.
 
-Elektronit täyttävät elektronikuoret sisimmältä kuorelta alkaen siten, että jokaiselle kuorelle mahtuu enintään $ 2n^2 @ elektronia, jossa $ n $ on kuoren numero, kuitenkin niin, että **uloimmalla elektronikuorella voi olla enintään 8 ulkoelektronia**. Tämä on nimeltään **{index}`oktettisääntö`**.
+Elektronit täyttävät elektronikuoret sisimmältä kuorelta alkaen siten, että jokaiselle kuorelle mahtuu enintään $ 2n^2 $ elektronia, jossa $ n $ on kuoren numero, kuitenkin niin, että **uloimmalla elektronikuorella voi olla enintään 8 ulkoelektronia**. Tämä on nimeltään **{index}`oktettisääntö`**.
 
 | Kuoren nro | elektronien suurin mahdollinen määrä |
 | ---------- | ------------------------------------ |
@@ -31,14 +31,14 @@ Tarkastellaan esimerkiksi natriumia $ (Na) $.
 Elektronien sijoittuminen natriumin elektronikuorille
 ```
 
-Natriumin järjestysluku $ Z = 11 $ ja elektronit täyttyvät elektronikuorille seuraavasti:
-- K-kuorelle 2 elektronia, minkä jälkeen kuori on täynnä
-- L-kuorelle 8 elektronia
-- ja viimeinen elektroni M-kuorelle, sillä L-kuorelle mahtuu enintään 8 kpl. Myös oktettisäännön mukaan L-kuorella ei voi olla yhdeksää elektronia, joten yhdennentoista elektronin on oltava kolmannella, eli M-kuorella.
+Natriumin järjestysluku on $ Z = 11 $ ja elektronit täyttyvät elektronikuorille seuraavasti:
+- K-kuorelle mahtuu 2 elektronia, minkä jälkeen kuori on täynnä.
+- L-kuorelle mahtuu 8 elektronia $($koska $2 \cdot 2^2=8)$.  
+- Täten viimeinen elektroni sijaitsee M-kuorelle Myös oktettisäännön mukaan L-kuorella ei voi olla yhdeksää elektronia, joten yhdennentoista elektronin on oltava kolmannella, eli M-kuorella.
 
 Kun atomi saa energiaa, esimerkiksi lämpötilan tai valon vaikutuksesta, elektroni siirtyy korkeammalle energiatasolle. Kun elektroni palaa takaisin matalammalle energiatasolle, se vapauttaa energiaa sähkömagneettisena säteilynä. Jos energia vapautuu näkyvän valon aallonpituuden alueella, ilmiö näkyy spektrissä, jossa jokainen väri vastaa tiettyä energiatasoa. Esimerkiksi metalliesineen laittaminen mikroaaltouuniin aiheuttaa näkyvän reaktion, kun metalliatomien absorboima energia vapautuu kipinöiden kera.
 ```{figure-md} Natriumin virittyminen
-<img src="../images/natrium.png" alt="Elektroni hyppää natriumin K-kuorelta M-kuorelle ja palautuu vapauttaen tietyn suuruisen energiakvantin, fotonin." class="bg-primary mb-1" width="220px" align="center">
+<img src="../images/virittyminen.png" alt="Elektroni hyppää natriumin K-kuorelta M-kuorelle ja palautuu vapauttaen tietyn suuruisen energiakvantin, fotonin." class="bg-primary mb-1" width="220px" align="center">
 
 Elektronin siirtyminen korkeammalle energiatasolle, M-kuorelle, ja palautuminen perustilaan
 ```
