@@ -22,11 +22,11 @@ Tutki alla olevan appletin avulla, mitä Rutherfordin sirontakokeessa tapahtui j
 </iframe>
 
 ## 1913 Bohrin atomimalli
-Tanskalainen Nils Bohr kehitti atomimallinsa tutkiessaan, miten kuuma vetykaasu tuottaa valoa. Siinä missä tavallisen hehkulampun lanka tuottaa lähes kaikkia näkyvän valon aallonpituuksia, kuuma vetykaasu tuottaa vain punertavaa väriä, joka koostuu tietyistä aallonpituuksista: voimakkain aallonpituus punaisen värin alueella sekä muutamia muita linjoja.
-```{figure-md} Balmer series
-<img src="../images/Balmer_series.png" alt="Balmer juu" class="bg-primary mb-1" width="600px" align="center">
+Tanskalainen Nils Bohr kehitti atomimallinsa tutkiessaan, miksi kuuma vetykaasu tuottaa vain tietynlaista valoa. Siinä missä tavallisen hehkulampun lanka tuottaa lähes kaikkia näkyvän valon aallonpituuksia, olivat Gustav Kirchoff ja Robert Bunsen havainneet vuonna 1859, että kuuma vetykaasu tuottaa näkyvän valon aallonpituudella vain punertavaa väriä, joka koostuu tietyistä aallonpituuksista. Näistä voimakkain sijoituu punaisen värin aallonpituudelle ja muut pienemmille aallonpituuksille.
+```{figure-md} Balmerin sarja
+<img src="../images/Balmerin_sarja.png" alt="Balmer sarjan näkyvän valon spektriviivat" class="bg-primary mb-1" width="600px" align="center">
 
-Balmer jaa
+Vetyatomin näkyvän valon aallonpituudella tuottamaa spektriä kutsutaan Balmerin sarjaksi. Johann Balmer kehitti sarjalle matemaattisen mallin vuonna 1885.
 ```
 
 Täten Bohr ehdotti, että elektronit voivat ottaa vastaan vain tiettyjä energioita johtuen siitä, että ne sijaitsevat tietyillä energiatasoilla. Kun näin korkeammalle energiatasolle virittyneet elektronit palaavat matalammalle energiatasolle, se havaitaan kvantittuneiden valonsäteiden, fotonien, muodossa.
