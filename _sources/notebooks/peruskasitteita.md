@@ -24,6 +24,7 @@ Atomissa protoneita ja elektroneita on aina yhtä paljon, jolloin atomi on sähk
 
 Järjestysluku Z ja Massaluku M
 ```
+Voit tutustua ja rakentaa atomeja seuraavan linkin takaa löytyvän appletin avulla. Valittavissa on myös <a href="https://phet.colorado.edu/sims/html/build-an-atom/latest/build-an-atom_fi.html" target="_blank">PhET: rakenna atomi</a>
 
 **{index}`Atomimassayksikkö`** (1 u) on tapa ilmaista perushiukkasten ja atomien massoja yksinkertaisesti. Atomimassan perusyksikkö on 1/12-osaa hiili-12 isotoopin massasta, mikä vastaa suunnilleen yhden protonin massaa. Tällöin $ 1 \ \text{u} = 1.66 \cdot 10^{-27} \ \text{kg} = m(p^+) $.
 
@@ -38,6 +39,7 @@ Järjestysluku Z ja Massaluku M
 
 Vedyn isotoopit: tavallinen vety, deuterium ja radioaktiivinen tritium
 ```
+Voit tarkastella kymmenen pienimmän alkuaineen isotooppeja ja niin suhteellista osuutta luonnossa seuraavan linkin avulla: <a href="https://phet.colorado.edu/sims/html/isotopes-and-atomic-mass/latest/isotopes-and-atomic-mass_fi.html" target="_blank">PhET: isotoopit ja atomimassat</a>
 
 **{index}`Ioni`** syntyy atomista, joka on luovuttanut tai vastaanottanut elektroneita. Ionilla on täten varaus, joko positiivinen tai negatiivinen. Metalliatomeilla on kyky luovuttaa elektroneja, joten ne voivat esiintyvät positiivisina ioneina. Epämetalleilla on kyky vastaanottaa elektroneja, joten ne voivat esiintyvät yhdisteissä negatiivisina ioneina.
 

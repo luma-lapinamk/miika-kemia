@@ -40,7 +40,7 @@ Bohrin atomimalli loi perustan seuraaville käsityksille atomin elektronirakente
 ## 1917-1932 Atomin ydin hahmottuu
 Teorian ytimessä olevista positiivisista protoneista kehitti Rutherford Hans Geigerin ja Ernest Marsdenin jatkotutkimusten perusteella vuonna **1917**. Teoria ytimessä olevista toisista hiukkasista, varauksettomista neutroneista, vahvistui vuonna **1932** James Chadwickin toimesta.
 
-Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla. Valitse vasemmalta valikosta kohta **-Ennustus** ja tutki, miten atomallit eroavat toisistaan. Jos appletin käynnistymisessä kestää liian pitkään, voit kokeilla avata sen osoitteesta <a href="https://phet.colorado.edu/fi/simulations/hydrogen-atom" target="_blank">PhET Interactive Simulations</a>
+Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla. Valitse vasemmalta valikosta kohta **-Ennustus** ja tutki, miten atomallit eroavat toisistaan. Jos appletin käynnistymisessä kestää liian pitkään, voit kokeilla avata sen osoitteesta <a href="https://phet.colorado.edu/fi/simulations/hydrogen-atom" target="_blank">PhET Interactive Simulations</a>.
 
 <iframe src="https://phet.colorado.edu/sims/cheerpj/hydrogen-atom/latest/hydrogen-atom.html?simulation=hydrogen-atom&locale=fi"
         width="800"
