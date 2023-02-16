@@ -10,9 +10,9 @@ Brittiläinen John Dalton esitti teoreettisen atomimallin, jonka mukaan atomit o
 J.J. Thomson oli yhdessä oppilaansa G.J. Stoney kanssa päätelleet kuuluisalla katodisädekokeellaan, että katodilta lähtevä säteily koostuikin atomia vielä pienemmistä negatiivisesti varautuneista hiukkasista, ”corpuscle”:ista, joita Stoney nimitti elektroneiksi.  Thomsonin atomimallissa atomit koostuivat positiivisesta aineksesta, jonka sisällä elektronit olivat, mistä nimitys rusinakakku. ”Corpuscle”:t muodostivat yhdessä positiivisen aineksen kanssa sähköisesti neutraalin tasapainotilan.
 
 ## 1909 Rutherfordin atomimalli
-Uusiseelantilainen Ernest Rutherford onnistui luomaan alpha-säteilyä, ”kanavapartikkeleita”, joilla hän pommitti ohutta kultakalvoa. Hän huomasi, että suurin osa alpha-säteilystä läpäisi atomit mutta pieni osa siitä heijastui takaisin eri kulmissa. Tämä johti Rutherfordin päätelmään, että atomi koostui suurimmalta osin tyhjästä tilasta, jonka keskellä oli suurimassainen mutta pieni positiivisesti varautunut ydin, jota elektronit kiertävät.
+Uusiseelantilainen Ernest Rutherford onnistui luomaan alpha-säteilyä, ”kanavapartikkeleita”, joilla hän pommitti ohutta kultakalvoa. Hän huomasi, että suurin osa alpha-säteilystä läpäisi kulta-atomit mutta pieni osa säteilystä heijastui takaisin eri kulmissa. Tämä johti Rutherfordin päätelmään, että atomi koostui suurimmalta osin tyhjästä tilasta, jonka keskellä oli suurimassainen mutta pieni positiivisesti varautunut ydin, jota elektronit kiertävät.
 
-Tutki appletin avulla, mitä Rutherfordin sirontakokeessa tapahtui.
+Tutki alla olevan appletin avulla, mitä Rutherfordin sirontakokeessa tapahtui ja mitä Thomsonin rusinakakkumallin mukaan pitäisi tapahtua.
 
 <iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_fi.html"
         width="800"
@@ -32,7 +32,9 @@ Bohrin atomimalli loi perustan seuraaville käsityksille atomin elektronirakente
 ## 1917-1932 Atomin ydin hahmottuu
 Teorian ytimessä olevista positiivisista protoneista kehitti Rutherford Hans Geigerin ja Ernest Marsdenin jatkotutkimusten perusteella vuonna **1917**. Teoria ytimessä olevista toisista hiukkasista, varauksettomista neutroneista, vahvistui vuonna **1932** James Chadwickin toimesta.
 
-Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla.
+Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla. Valitse vasemmalta valikosta kohta **-Ennustus** ja tutki, miten atomallit eroavat toisistaan.
+
+Jos appletin käynnistymisessä kestää liian pitkään, voit kokeilla avata sen osoitteesta [PhET Interactive Simulations](https://phet.colorado.edu/fi/simulations/hydrogen-atom).
 
 <iframe src="https://phet.colorado.edu/sims/cheerpj/hydrogen-atom/latest/hydrogen-atom.html?simulation=hydrogen-atom&locale=fi"
         width="800"
