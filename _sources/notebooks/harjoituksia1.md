@@ -1,4 +1,4 @@
-# Harjoituksia (kesken)
+# Harjoituksia
 
 :::{admonition} 1. Kuinka monta protonia, neutronia ja elektronia on seuraavien alkuaineiden isotoopteissa? a) $^{235}U$ b) $^{238}U$ c) $^{60}Co$ d) $^{127}Cs$
 :class: tip, dropdown
@@ -25,7 +25,7 @@ Hiilidioksidimolekyyli koostuu yhdestä hiiliatomista ja kahdesta happiatomista.
 :class: tip, dropdown
 **Ratkaisu**
 
-luetellaan tarvittavien atomien atomimassat.
+Luetellaan tarvittavien atomien atomimassat.
 Cu: 63.546 u
 O: 15.999 u
 S: 32.06 u
@@ -50,6 +50,21 @@ Täten yhdiste $ CuO $ sisältää kuparia suhteellisesti enemmän.
 a) vedyn atomimassa on 1.008 u ja hapen 15.999 u. Vesimolekyyli molekyylimassa on täten $ 2 \cdot 1.008 \ u + 15.999 \ u = 18.015 \ u $
 
 Lasketaan vedyn ja hapen prosentuaaliset osuudet vesimolekyylissä.
+
 Vety $ \frac{2 \cdot 1.008 \ u}{18.015 \ u}=0.1119... \approx 11.2 \% $
+
 Hapen osuus voidaan laskea samoin kuin vedyn, mutta helpommin se saadaan suoraan vähennyslaskulla $ 100 \% - 11.2 \% = 88.8 \% $.
+:::
+
+:::{admonition} 5. Onko seuraava aine alkuaine vai yhdiste ja puhdas aine vai jokin seoksista? a) $HCl$ b) hernekeitto c) $O_2$ d) uretaani
+:class: tip, dropdown
+**Ratkaisu**
+
+a) HCl on kemialliselta nimeltään vetykloriri, joka sellaisenaan on yhdiste ja puhdas aine. Jos vetykloridia on lisätty veteen, liuosta sanotaan suolahapoksi, jonka faaseja ei voi silmin erottaa. Kyseessä olisi siis homogeeninen seos. Kaikki liuokset, joissa liuetettava aine liukenee täysin nesteeseen, ovat homogeenisia seoksia.
+
+b) Hernekeitto koostuu kiinteistä herneistä, sipulista ja palvikinkun paloista nesteessä. Kyseessä on siis suspensio.
+
+c) $O_2$ on happikaasu. Kyseessä on täten alkuaine ja puhdas aine.
+
+d) Uretaanilla tarkoittaa kemiassa polyuretaania, joka koostuu toisiinsa liittyneistä lukuisista molekyyleistä nimeltä karbamiinihappo. Kyseessä on siis yhdiste ja puhdas aine. Käytännössä kaupalliset uretaanipullot sisältävät myös paineessa olevia kaasuja sekä muita yhdisteitä. Täten tuore pursotettu uretaanio sisältää kaasuja, ilmaa ja itse muovia, joten se on heterogeeninen seos, vaahto. Kuivunutta uretaania voidaan pitää kolloidina. 
 :::
