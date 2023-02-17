@@ -5,7 +5,7 @@ Vuonna 1869 venäläinen kemisti Dmitri Mendelejev kehitti ensimmäisen jaksolli
 Alkuaineiden jaksollinen järjestelmä on taulukko, jossa alkuaineet on järjestetty kasvavan järjestysluvun mukaan. Vaakarivit ovat nimeltään jaksoja ja pystysarakkeet ryhmiä.
 
 ```{figure-md} Alkuaineiden jaksollinen järjestelmä, lähde: ptable.com
-<img src="../images/jaksollinen_jarjestelma.png" alt="Alkuaineiden jaksollinen järjestelmä, lähde ptable.com" class="bg-primary mb-1" width="600px" align="center">
+<img src="../images/jaksollinen_jarjestelma.png" alt="Alkuaineiden jaksollinen järjestelmä, lähde ptable.com" class="bg-primary mb-1" width="1422px" align="center">
 
 Alkuaineiden jaksollinen järjestelmä, lähde: ptable.com
 ```
