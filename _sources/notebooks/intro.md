@@ -1,9 +1,9 @@
 # Alkusanat
 
 Tervetuloa opiskelemaan kemiaa! Tämä sähköinen oppikirja sisältää materiaalia opintojaksoille
-**Rakennusalan kemia**
-**Maatalousalan matematiikka** sekä
-**Kasvien kasvu**.
+- Rakennusalan kemia
+- Maatalousalan matematiikka
+- Kasvien kasvu
 
 Kirjassa esiintyvät matemaattiset merkinnät saa näkymään suurempana (ainakin Chrome- ja Edge- selaimilla) seuraavasti:
 - klikkaa merkintää hiiren 2. napilla

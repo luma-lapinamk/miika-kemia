@@ -1,4 +1,3 @@
-# Alkuaineiden jaksollinen järjestelmä
+# Jaksollinen järjestelmä
 
-ptablee kehiin
-
+Alkuaineiden jaksollisen järjestelmän kehitti
