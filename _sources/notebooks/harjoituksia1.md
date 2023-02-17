@@ -60,11 +60,11 @@ Hapen osuus voidaan laskea samoin kuin vedyn, mutta helpommin se saadaan suoraan
 :class: tip, dropdown
 **Ratkaisu**
 
-a) HCl on kemialliselta nimeltään vetykloriri, joka sellaisenaan on yhdiste ja puhdas aine. Jos vetykloridia on lisätty veteen, liuosta sanotaan suolahapoksi, jonka faaseja ei voi silmin erottaa. Kyseessä olisi siis homogeeninen seos. Kaikki liuokset, joissa liuetettava aine liukenee täysin nesteeseen, ovat homogeenisia seoksia.
+a) HCl on kemialliselta nimeltään vetykloridi, joka sellaisenaan on yhdiste ja puhdas aine. Jos vetykloridia on lisätty veteen, liuosta sanotaan suolahapoksi, jonka faaseja ei voi silmin erottaa. Kyseessä olisi siis homogeeninen seos. **Kaikki liuokset, joissa liuetettava aine liukenee täysin liuottimeen, ovat homogeenisia seoksia.**
 
-b) Hernekeitto koostuu kiinteistä herneistä, sipulista ja palvikinkun paloista nesteessä. Kyseessä on siis suspensio.
+b) Hernekeitto koostuu mm. kiinteistä herneistä, sipulista ja palvikinkun paloista nesteessä. Kyseessä on siis suspensio.
 
-c) $O_2$ on happikaasu. Kyseessä on täten alkuaine ja puhdas aine.
+c) $O_2$ on happikaasumolekyyli, joka koostuu kahdesta happiatomista. Kyseessä on täten alkuaine ja puhdas aine.
 
-d) Uretaanilla tarkoittaa kemiassa polyuretaania, joka koostuu toisiinsa liittyneistä lukuisista molekyyleistä nimeltä karbamiinihappo. Kyseessä on siis yhdiste ja puhdas aine. Käytännössä kaupalliset uretaanipullot sisältävät myös paineessa olevia kaasuja sekä muita yhdisteitä. Täten tuore pursotettu uretaanio sisältää kaasuja, ilmaa ja itse muovia, joten se on heterogeeninen seos, vaahto. Kuivunutta uretaania voidaan pitää kolloidina. 
+d) Uretaanilla tarkoittaa kemiassa polyuretaania, joka koostuu toisiinsa liittyneistä lukuisista molekyyleistä nimeltä karbamiinihappo. Kyseessä on siis yhdiste ja puhdas aine. Käytännössä kaupalliset uretaanipullot sisältävät myös paineessa olevia kaasuja sekä muita yhdisteitä. Täten tuore pursotettu uretaani sisältää kaasuja, ilmaa ja itse muovia, joten se on heterogeeninen seos, vaahto. Kuivunutta uretaania voidaan pitää kolloidina. 
 :::
