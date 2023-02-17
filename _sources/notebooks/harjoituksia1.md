@@ -1,12 +1,17 @@
 # Harjoituksia
 
-:::{admonition} 1. Laske hiilidioksidin molekyylimassa.
+:::{admonition} 1. Kuinka monta protonia, neutronia ja elektronia on seuraavissa atomeissa?
+:class: tip, dropdown
+a) $^{235}U$ b) $^{238}U$ c) $^{60}Co$ d) $^{127}Cs$
+:::
+
+:::{admonition} 2. Laske hiilidioksidin molekyylimassa.
 :class: tip, dropdown
 
 Ratkaisu: hiilidioksidimolekyyli koostuu yhdestä hiiliatomista ja kahdesta happiatomista. Täten sen molekyylimassa on $ 12.011 \ u + 2 \cdot 15.999 \ u = 44.007 \ u \approx 44 \ u $
 :::
 
-:::{admonition} 2. Kumpi seuraavista kupariyhdisteistä sisältää enemmän kuparia, $ CuO $ vai $ Cu_2SO_4 $?
+:::{admonition} 3. Kumpi seuraavista kupariyhdisteistä sisältää enemmän kuparia, $ CuO $ vai $ Cu_2SO_4 $?
 :class: tip, dropdown
 
 Ratkaisu: luetellaan tarvittavien atomien atomimassat.
@@ -24,4 +29,9 @@ Kuparia $ Cu_2SO_4 $:ssa:
 $ \frac{2 \cdot 63.546}{2 \cdot 63.546+32.06+4 \cdot 15.999} = 0.5695... \approx 57.0 \% $
 
 Täten yhdiste $ CuO $ sisältää kuparia suhteellisesti enemmän.
+:::
+
+:::{admonition} 4. Laske atomimassojen avulla seuraavien yhdisteiden prosentuaaliset alkuainekoostumukset.
+:class: tip, dropdown
+a) $H_2O$ b) $CO_2$ c) $H_2SO_4$
 :::
