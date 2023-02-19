@@ -24,6 +24,8 @@ Sivuryhmien alkuaineita nimitetään nimellä **{index}`siirtymämetallit`**. N�
 
 Lisäksi jaksollisen järjestelmän alareunaan on erikseen sijoitettu lantanoidit ja aktinoidit syystä, että näiden kuudennen ja seitsemännen jakson alkunaineiden atomeilla on on samalla kuorella niin paljon elektroneja, että jaksollisesta järjestelmästä tulisi hyvin leveä. Ptable avulla on kuitenkin mahdollista tehdä jaksollisesta järjestelmästä leveä yläreunassa olevasta napista.
 
+**Alla oleva teksti kesken**
+
 Jaksollisen järjestelmän avulla voidaan ennustaa eri alkuaineiden ominaisuuksia, kuten atomisäteen koon, ionisaatioenergian, elektronegatiivisuuden ja kemiallisen reaktiivisuuden. Järjestelmää voidaan käyttää myös uusien alkuaineiden ennustamiseen ja niiden ominaisuuksien tutkimiseen. Jaksollinen järjestelmä on siten erittäin tärkeä työkalu kemian tutkimuksessa ja sovelluksissa.
 
 Ominaisuudet:
