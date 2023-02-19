@@ -3,8 +3,10 @@
 Bohrin atomimallin jälkeen Werner Heisenberg, Erwin Schrödinger, Max Born sekä Nils Bohr jatkoivat uuden atomimallin kehittämistä, joka selittäisi siirtymämetallien elektronikonfiguraation. Kvanttiluvut tulivat käyttöön 1920-luvulla, kun kvanttiteoria alkoi saada muotoaan. Kvanttimekaaninen atomimalli on edelleen käytössä oleva malli. Se perustuu kvanttiteoriaa, jonka mukaan ainetta koostavia hiukkasia (kuten elektronien), voidaan mallintaa aaltoina. Elektroneilla on tietty liike-energia, joka ilmenee aaltomuodossa.
 
 Schrödingerin aaltoyhtälö yhdelle elektronille kolmessa ulottuvuudessa
+
 $ \left(-\frac{\hbar^2}{2m}\nabla^2 + V(x,y,z)\right)\psi(x,y,z) = E\psi(x,y,z) $, jossa
-$\psi(x,y,z)$ on aallonfunktio, $V(x,y,z)$ on potentiaalifunktio, $m$ on elektronin massa, $\hbar$ on Planckin vakio ja $E$ on energian oma-arvo. $\nabla^2$ on Laplacen operaattori kolmessa ulottuvuudessa, joka voidaan ilmaista seuraavasti:
+
+$\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaali, $m$ elektronin massa, $\hbar$ Planckin vakio ja $E$ energia. $\nabla^2$ on Laplacen operaattori kolmessa ulottuvuudessa, joka voidaan ilmaista seuraavasti:
 
 $ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $
 
