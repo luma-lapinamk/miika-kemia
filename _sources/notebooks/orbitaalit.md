@@ -10,10 +10,72 @@ $\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaalifunktio, $m$ elektronin mas
 
 $ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $
 
-Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. Orbitaali kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. 
+Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. 
 
-Kvanttimekaanisessa atomimallissa käytetään neljää kvanttilukua, jotka kertovat elektronin sijainnista ja energiatilasta atomissa. Nämä kvanttiluvut ovat pääkvanttialuku (n), sivukvanttiluku (l), magneettikvanttiluku (m) ja spin-kvanttiluku (s).
-- Pääkvanttialuku (n) kertoo elektronin etäisyyden ytimeen. Mitä suurempi pääkvanttialuku on, sitä kauempana elektroni on ytimen keskipisteestä ja sitä suurempi sen energia on.
-- Sivukvanttiluku (l) määrää elektronin liikemäärän suunnan. Se kertoo myös, kuinka monta erilaista muotoa orbitaalilla voi olla. Luku l on aina pienempi kuin n ja sen arvot ovat 0, 1, 2, 3, ... n-1.
-- Magneettikvanttiluku (m) kertoo elektronin liikemäärän suunnan avaruudessa. Magneettikvanttiluvun arvot ovat -l, -l+1, -l+2, ... 0, ... l-2, l-1, l.
-- Spin-kvanttiluku (s) kertoo elektronin pyörimisliikkeestä ympäri omaa akseliaan. Elektronit voivat pyöriä joko ylöspäin tai alaspäin, joten spin-kvanttiluku on aina ½ tai -½.
+Orbitaalien muodot löytyvät Ptablesta valitsemalla ylävalikosta
+```{figure-md} Orbitaalit
+<img src="../images/orbitaalit.png" alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1" width="220px" align="center">
+
+Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
+```
+
+## Elektronien täyttyminen orbitaaleille
+> Minimienergiaperiaatteen mukaan elektronit täyttyvät kaikken matalaenergisimmille orbitaaleille.
+>
+> Yhdelle orbitaalille mahtuu enintään kaksi elektronia.
+>
+> {index}`Hundin sääntö`: elektronit täyttyvät orbitaaleille yhdellä elektronilla samansuuntaisin spinein (spin-kvanttiluku) mahdollisimman pitkään.
+>
+> {index}`Paulin kieltosääntö`: samassa kvanttitilassa ei voi olla kuin yksi elektroni. Täten samalla orbitaalilla olevilla elektroneilla on vastakkaiset spin-kvanttiluvut.
+
+:::{admonition} Esimerkki: litiumatomin elektronikonfiguraatio
+:class: tip
+Jaksollisen järjestemän perusteella litiumin järjestysluku on 3, joten litiumilla on kolme elektronia.
+1. Ensimmäinen elektroni menee 1s-orbitaalille (minimienergiaperiaate).
+2. 1s-orbitaalille mahtuu vain kaksi elektronia, joten toisella elektronilla pitää olla vastakkainen spini (Paulin kieltosääntö).
+3. Kolmas elektroni menee seuraavaksi matalimmalle orbitaalille eli 2s-orbitaalille.
+
+Litiumin elektronikonfiguraatio on täten $1s^22s$.
+:::
+
+Elektronien täyttyminen orbitaaleille voidaan käytännössä tiiviistää seuraavaan kuvaan.
+```{figure-md} Elektronien täyttyminen orbitaaleille
+<img src="../images/orbitaalien_taytto.png" alt="Elektronien täyttyminen orbitaaleille taulukon muodossa." class="bg-primary mb-1" width="220px" align="center">
+
+Elektronien täyttyminen orbitaaleille
+```
+
+## Kvanttiluvut
+Kvanttimekaanisessa atomimallissa käytetään neljää kvanttilukua, jotka kertovat elektronin sijainnista ja energiatilasta atomissa. Nämä kvanttiluvut ovat pääkvanttiluku (n), sivukvanttiluku (l), magneettinen kvanttiluku (m) ja spin-kvanttiluku (s).
+- Pääkvanttiluku $(n = 1, 2, 3, 4, \dots)$ kertoo elektronin etäisyyden ytimeen. Mitä suurempi pääkvanttiluku on, sitä kauempana elektroni on ytimen keskipisteestä ja sitä suurempi sen energia on. Pääkvanttiluvut vastaavat Bohrin atomimallin elektronikuoria $K, L, M, N \cdots $.
+- Sivukvanttiluku $(l = 0, \dots , n-1)$ määrää elektronin liikemäärän suunnan. Se kertoo myös, kuinka monta erilaista muotoa orbitaalilla voi olla. Sivukvanttiluvun arvoja vastaavia energiatiloja kutsutaan myös *alikuoriksi* ja niitä merkitään kirjaimilla $s, p, d \text{ja} f$
+- Magneettinen kvanttiluku $(m= 0, \pm 1, \dots , \pm l)$ kertoo elektronin liikemäärän suunnan avaruudessa.
+- Spin-kvanttiluku $(s=\pm \frac{1}{2})$ kertoo elektronin pyörimisliikkeestä oman akseliansa ympäri. Elektronit voivat pyöriä joko "ylös-" tai "alaspäin", joten spin-kvanttiluku on aina $\frac{1}{2}$ tai $-\frac{1}{2}$.
+
+:::{admonition} Esimerkki: litiumatomin elektronikonfiguraatio kvanttiluvuilla
+:class: tip
+Jaksollisen järjestelmän perusteella litiumin järjestysluku on 3. Koska ensimmäiselle L-kuorelle mahtuu vain 2 elektronia, on kolmas elektroni toisella kuorella, joten $n = 2$.
+- K-kuoren elektronien kvanttiluvut ovat $n = 1, l = 0, m = 0, s=\pm \frac{1}{2}$.
+- L-kuorella olevan yksittäisen elektronin kvanttiluvut ovat mahdollisimmat pienet, eli $n = 2, l = 0, m = 0, s=\frac{1}{2}$.
+:::
+
+:::{admonition} Esimerkki: täynnä oleva toisen elektronikuoren elektronikonfiguraatio
+:class: tip
+Toisella elektronikuorella eli L-kuorella voi olla seuraavia kvanttilukuyhdistelmiä, kun $n = 2$:
+- $l = 0 \text{tai} 1 $
+- $m = 0 \text{tai} \pm 1$
+- Lisäksi jokaisella orbitaalilla voi olla enintään kaksi elektronia eri spin-kvanttiluvulla, joten kaikki mahdolliset elektronit ovat
+
+| elektroni nro | kvanttilukuyhdistelmä               |
+| ------------- | ----------------------------------- |
+| 1             | $n=2, l=0, m = 0, s=\frac{1}{2})$   |
+| 2             | $n=2, l=0, m = 0, s=-\frac{1}{2})$  |
+| 3             | $n=2, l=1, m = 0, s=\frac{1}{2})$   |
+| 4             | $n=2, l=1, m = 0, s=-\frac{1}{2})$  |
+| 5             | $n=2, l=1, m = 1, s=\frac{1}{2})$   |
+| 6             | $n=2, l=1, m = 1, s=-\frac{1}{2})$  |
+| 7             | $n=2, l=1, m = -1, s=\frac{1}{2})$  |
+| 8             | $n=2, l=1, m = -1, s=-\frac{1}{2})$ |
+:::
+
+Eli toiselle kuorelle mahtuu enintään 8 elektronia $(2n^2=2\cdot\2^2=8).

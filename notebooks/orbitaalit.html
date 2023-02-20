@@ -294,12 +294,41 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#elektronien-tayttyminen-orbitaaleille">
+   Elektronien täyttyminen orbitaaleille
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#kvanttiluvut">
+   Kvanttiluvut
+  </a>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
@@ -311,6 +340,24 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#elektronien-tayttyminen-orbitaaleille">
+   Elektronien täyttyminen orbitaaleille
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#kvanttiluvut">
+   Kvanttiluvut
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -325,14 +372,101 @@ title="Print to PDF"
 <p><span class="math notranslate nohighlight">\( \left(-\frac{\hbar^2}{2m}\nabla^2 + V(x,y,z)\right)\psi(x,y,z) = E\psi(x,y,z) \)</span>, jossa</p>
 <p><span class="math notranslate nohighlight">\(\psi(x,y,z)\)</span> on aaltofunktio, <span class="math notranslate nohighlight">\(V(x,y,z)\)</span> potentiaalifunktio, <span class="math notranslate nohighlight">\(m\)</span> elektronin massa, <span class="math notranslate nohighlight">\(\hbar\)</span> Planckin vakio ja <span class="math notranslate nohighlight">\(E\)</span> energia. <span class="math notranslate nohighlight">\(\nabla^2\)</span> on Laplacen operaattori kolmessa ulottuvuudessa, joka voidaan ilmaista seuraavasti:</p>
 <p><span class="math notranslate nohighlight">\( \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} \)</span></p>
-<p>Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. <strong>orbitaaleilla</strong>. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. Orbitaali kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee.</p>
-<p>Kvanttimekaanisessa atomimallissa käytetään neljää kvanttilukua, jotka kertovat elektronin sijainnista ja energiatilasta atomissa. Nämä kvanttiluvut ovat pääkvanttialuku (n), sivukvanttiluku (l), magneettikvanttiluku (m) ja spin-kvanttiluku (s).</p>
+<p>Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. <strong>orbitaaleilla</strong>. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. <span class="target" id="index-0"></span>Orbitaali kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee.</p>
+<p>Orbitaalien muodot löytyvät Ptablesta valitsemalla ylävalikosta</p>
+<figure class="align-default" id="orbitaalit">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/orbitaalit.png"><img alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1 align-center" src="../_images/orbitaalit.png" style="width: 220px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 9 </span><span class="caption-text">Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a></span><a class="headerlink" href="#orbitaalit" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+<section id="elektronien-tayttyminen-orbitaaleille">
+<h2>Elektronien täyttyminen orbitaaleille<a class="headerlink" href="#elektronien-tayttyminen-orbitaaleille" title="Permalink to this headline">#</a></h2>
+<blockquote>
+<div><p>Minimienergiaperiaatteen mukaan elektronit täyttyvät kaikken matalaenergisimmille orbitaaleille.</p>
+<p>Yhdelle orbitaalille mahtuu enintään kaksi elektronia.</p>
+<p><span class="target" id="index-1"></span>Hundin sääntö: elektronit täyttyvät orbitaaleille yhdellä elektronilla samansuuntaisin spinein (spin-kvanttiluku) mahdollisimman pitkään.</p>
+<p><span class="target" id="index-2"></span>Paulin kieltosääntö: samassa kvanttitilassa ei voi olla kuin yksi elektroni. Täten samalla orbitaalilla olevilla elektroneilla on vastakkaiset spin-kvanttiluvut.</p>
+</div></blockquote>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: litiumatomin elektronikonfiguraatio</p>
+<p>Jaksollisen järjestemän perusteella litiumin järjestysluku on 3, joten litiumilla on kolme elektronia.</p>
+<ol class="simple">
+<li><p>Ensimmäinen elektroni menee 1s-orbitaalille (minimienergiaperiaate).</p></li>
+<li><p>1s-orbitaalille mahtuu vain kaksi elektronia, joten toisella elektronilla pitää olla vastakkainen spini (Paulin kieltosääntö).</p></li>
+<li><p>Kolmas elektroni menee seuraavaksi matalimmalle orbitaalille eli 2s-orbitaalille.</p></li>
+</ol>
+<p>Litiumin elektronikonfiguraatio on täten <span class="math notranslate nohighlight">\(1s^22s\)</span>.</p>
+</div>
+<p>Elektronien täyttyminen orbitaaleille voidaan käytännössä tiiviistää seuraavaan kuvaan.</p>
+<figure class="align-default" id="id1">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/orbitaalien_taytto.png"><img alt="Elektronien täyttyminen orbitaaleille taulukon muodossa." class="bg-primary mb-1 align-center" src="../_images/orbitaalien_taytto.png" style="width: 220px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 10 </span><span class="caption-text">Elektronien täyttyminen orbitaaleille</span><a class="headerlink" href="#id1" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
+</section>
+<section id="kvanttiluvut">
+<h2>Kvanttiluvut<a class="headerlink" href="#kvanttiluvut" title="Permalink to this headline">#</a></h2>
+<p>Kvanttimekaanisessa atomimallissa käytetään neljää kvanttilukua, jotka kertovat elektronin sijainnista ja energiatilasta atomissa. Nämä kvanttiluvut ovat pääkvanttiluku (n), sivukvanttiluku (l), magneettinen kvanttiluku (m) ja spin-kvanttiluku (s).</p>
 <ul class="simple">
-<li><p>Pääkvanttialuku (n) kertoo elektronin etäisyyden ytimeen. Mitä suurempi pääkvanttialuku on, sitä kauempana elektroni on ytimen keskipisteestä ja sitä suurempi sen energia on.</p></li>
-<li><p>Sivukvanttiluku (l) määrää elektronin liikemäärän suunnan. Se kertoo myös, kuinka monta erilaista muotoa orbitaalilla voi olla. Luku l on aina pienempi kuin n ja sen arvot ovat 0, 1, 2, 3, … n-1.</p></li>
-<li><p>Magneettikvanttiluku (m) kertoo elektronin liikemäärän suunnan avaruudessa. Magneettikvanttiluvun arvot ovat -l, -l+1, -l+2, … 0, … l-2, l-1, l.</p></li>
-<li><p>Spin-kvanttiluku (s) kertoo elektronin pyörimisliikkeestä ympäri omaa akseliaan. Elektronit voivat pyöriä joko ylöspäin tai alaspäin, joten spin-kvanttiluku on aina ½ tai -½.</p></li>
+<li><p>Pääkvanttiluku <span class="math notranslate nohighlight">\((n = 1, 2, 3, 4, \dots)\)</span> kertoo elektronin etäisyyden ytimeen. Mitä suurempi pääkvanttiluku on, sitä kauempana elektroni on ytimen keskipisteestä ja sitä suurempi sen energia on. Pääkvanttiluvut vastaavat Bohrin atomimallin elektronikuoria <span class="math notranslate nohighlight">\(K, L, M, N \cdots \)</span>.</p></li>
+<li><p>Sivukvanttiluku <span class="math notranslate nohighlight">\((l = 0, \dots , n-1)\)</span> määrää elektronin liikemäärän suunnan. Se kertoo myös, kuinka monta erilaista muotoa orbitaalilla voi olla. Sivukvanttiluvun arvoja vastaavia energiatiloja kutsutaan myös <em>alikuoriksi</em> ja niitä merkitään kirjaimilla <span class="math notranslate nohighlight">\(s, p, d \text{ja} f\)</span></p></li>
+<li><p>Magneettinen kvanttiluku <span class="math notranslate nohighlight">\((m= 0, \pm 1, \dots , \pm l)\)</span> kertoo elektronin liikemäärän suunnan avaruudessa.</p></li>
+<li><p>Spin-kvanttiluku <span class="math notranslate nohighlight">\((s=\pm \frac{1}{2})\)</span> kertoo elektronin pyörimisliikkeestä oman akseliansa ympäri. Elektronit voivat pyöriä joko “ylös-” tai “alaspäin”, joten spin-kvanttiluku on aina <span class="math notranslate nohighlight">\(\frac{1}{2}\)</span> tai <span class="math notranslate nohighlight">\(-\frac{1}{2}\)</span>.</p></li>
 </ul>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: litiumatomin elektronikonfiguraatio kvanttiluvuilla</p>
+<p>Jaksollisen järjestelmän perusteella litiumin järjestysluku on 3. Koska ensimmäiselle L-kuorelle mahtuu vain 2 elektronia, on kolmas elektroni toisella kuorella, joten <span class="math notranslate nohighlight">\(n = 2\)</span>.</p>
+<ul class="simple">
+<li><p>K-kuoren elektronien kvanttiluvut ovat <span class="math notranslate nohighlight">\(n = 1, l = 0, m = 0, s=\pm \frac{1}{2}\)</span>.</p></li>
+<li><p>L-kuorella olevan yksittäisen elektronin kvanttiluvut ovat mahdollisimmat pienet, eli <span class="math notranslate nohighlight">\(n = 2, l = 0, m = 0, s=\frac{1}{2}\)</span>.</p></li>
+</ul>
+</div>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: täynnä oleva toisen elektronikuoren elektronikonfiguraatio</p>
+<p>Toisella elektronikuorella eli L-kuorella voi olla seuraavia kvanttilukuyhdistelmiä, kun <span class="math notranslate nohighlight">\(n = 2\)</span>:</p>
+<ul class="simple">
+<li><p><span class="math notranslate nohighlight">\(l = 0 \text{tai} 1 \)</span></p></li>
+<li><p><span class="math notranslate nohighlight">\(m = 0 \text{tai} \pm 1\)</span></p></li>
+<li><p>Lisäksi jokaisella orbitaalilla voi olla enintään kaksi elektronia eri spin-kvanttiluvulla, joten kaikki mahdolliset elektronit ovat</p></li>
+</ul>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>elektroni nro</p></th>
+<th class="head"><p>kvanttilukuyhdistelmä</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>1</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=0, m = 0, s=\frac{1}{2})\)</span></p></td>
+</tr>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=0, m = 0, s=-\frac{1}{2})\)</span></p></td>
+</tr>
+<tr class="row-even"><td><p>3</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=1, m = 0, s=\frac{1}{2})\)</span></p></td>
+</tr>
+<tr class="row-odd"><td><p>4</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=1, m = 0, s=-\frac{1}{2})\)</span></p></td>
+</tr>
+<tr class="row-even"><td><p>5</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=1, m = 1, s=\frac{1}{2})\)</span></p></td>
+</tr>
+<tr class="row-odd"><td><p>6</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=1, m = 1, s=-\frac{1}{2})\)</span></p></td>
+</tr>
+<tr class="row-even"><td><p>7</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=1, m = -1, s=\frac{1}{2})\)</span></p></td>
+</tr>
+<tr class="row-odd"><td><p>8</p></td>
+<td><p><span class="math notranslate nohighlight">\(n=2, l=1, m = -1, s=-\frac{1}{2})\)</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Eli toiselle kuorelle mahtuu enintään 8 elektronia $(2n^2=2\cdot\2^2=8).</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
