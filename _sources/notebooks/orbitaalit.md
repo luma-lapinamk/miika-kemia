@@ -10,27 +10,24 @@ $\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaalifunktio, $m$ elektronin mas
 
 $ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $
 
-Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. 
+Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. Orbitaalit on nimetty järjestyksessä @s, p, d \text{ja} f$. Jokaisella Bohrin atomimallia vastaavalla energiakuorella on energiataso siten, että energitasolla voi olla yksi s-orbitaali, kolme p-orbitaalia, viisi d-orbitaalia ja seitsemän f-orbitaalia.
 
 Orbitaalien muodot löytyvät Ptablesta valitsemalla ylävalikosta
 ```{figure-md} Orbitaalit
-<img src="../images/orbitaalit.png" alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1" width="220px" align="center">
+<img src="../images/orbitaalit.png" alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1" width="1315px" align="center">
 
 Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
 ```
 
 ## Elektronien täyttyminen orbitaaleille
-> Minimienergiaperiaatteen mukaan elektronit täyttyvät kaikken matalaenergisimmille orbitaaleille.
->
-> Yhdelle orbitaalille mahtuu enintään kaksi elektronia.
->
-> {index}`Hundin sääntö`: elektronit täyttyvät orbitaaleille yhdellä elektronilla samansuuntaisin spinein (spin-kvanttiluku) mahdollisimman pitkään.
->
-> {index}`Paulin kieltosääntö`: samassa kvanttitilassa ei voi olla kuin yksi elektroni. Täten samalla orbitaalilla olevilla elektroneilla on vastakkaiset spin-kvanttiluvut.
+- Minimienergiaperiaatteen mukaan elektronit täyttyvät kaikken matalaenergisimmille orbitaaleille.
+- Yhdelle orbitaalille mahtuu enintään kaksi elektronia.
+- **{index}`Hundin sääntö`**: elektronit täyttyvät orbitaaleille yhdellä elektronilla samansuuntaisin spinein (spin-kvanttiluku) mahdollisimman pitkään.
+- **{index}`Paulin kieltosääntö`**: samassa kvanttitilassa ei voi olla kuin yksi elektroni. Täten samalla orbitaalilla olevilla elektroneilla on vastakkaiset spin-kvanttiluvut.
 
 :::{admonition} Esimerkki: litiumatomin elektronikonfiguraatio
 :class: tip
-Jaksollisen järjestemän perusteella litiumin järjestysluku on 3, joten litiumilla on kolme elektronia.
+Jaksollisen järjestelmän perusteella litiumin järjestysluku on 3, joten litiumilla on kolme elektronia.
 1. Ensimmäinen elektroni menee 1s-orbitaalille (minimienergiaperiaate).
 2. 1s-orbitaalille mahtuu vain kaksi elektronia, joten toisella elektronilla pitää olla vastakkainen spini (Paulin kieltosääntö).
 3. Kolmas elektroni menee seuraavaksi matalimmalle orbitaalille eli 2s-orbitaalille.
@@ -40,7 +37,7 @@ Litiumin elektronikonfiguraatio on täten $1s^22s$.
 
 Elektronien täyttyminen orbitaaleille voidaan käytännössä tiiviistää seuraavaan kuvaan.
 ```{figure-md} Elektronien täyttyminen orbitaaleille
-<img src="../images/orbitaalien_taytto.png" alt="Elektronien täyttyminen orbitaaleille taulukon muodossa." class="bg-primary mb-1" width="220px" align="center">
+<img src="../images/orbitaalien_taytto.png" alt="Elektronien täyttyminen orbitaaleille taulukon muodossa." class="bg-primary mb-1" width="300px" align="center">
 
 Elektronien täyttyminen orbitaaleille
 ```
@@ -48,7 +45,7 @@ Elektronien täyttyminen orbitaaleille
 ## Kvanttiluvut
 Kvanttimekaanisessa atomimallissa käytetään neljää kvanttilukua, jotka kertovat elektronin sijainnista ja energiatilasta atomissa. Nämä kvanttiluvut ovat pääkvanttiluku (n), sivukvanttiluku (l), magneettinen kvanttiluku (m) ja spin-kvanttiluku (s).
 - Pääkvanttiluku $(n = 1, 2, 3, 4, \dots)$ kertoo elektronin etäisyyden ytimeen. Mitä suurempi pääkvanttiluku on, sitä kauempana elektroni on ytimen keskipisteestä ja sitä suurempi sen energia on. Pääkvanttiluvut vastaavat Bohrin atomimallin elektronikuoria $K, L, M, N \cdots $.
-- Sivukvanttiluku $(l = 0, \dots , n-1)$ määrää elektronin liikemäärän suunnan. Se kertoo myös, kuinka monta erilaista muotoa orbitaalilla voi olla. Sivukvanttiluvun arvoja vastaavia energiatiloja kutsutaan myös *alikuoriksi* ja niitä merkitään kirjaimilla $s, p, d \text{ja} f$
+- Sivukvanttiluku $(l = 0, \dots , n-1)$ määrää elektronin liikemäärän suunnan. Se kertoo myös, kuinka monta erilaista muotoa orbitaalilla voi olla. Sivukvanttiluvun arvoja vastaavat orbitaalit $s, p, d \ \text{ja} \ f$
 - Magneettinen kvanttiluku $(m= 0, \pm 1, \dots , \pm l)$ kertoo elektronin liikemäärän suunnan avaruudessa.
 - Spin-kvanttiluku $(s=\pm \frac{1}{2})$ kertoo elektronin pyörimisliikkeestä oman akseliansa ympäri. Elektronit voivat pyöriä joko "ylös-" tai "alaspäin", joten spin-kvanttiluku on aina $\frac{1}{2}$ tai $-\frac{1}{2}$.
 
@@ -59,11 +56,11 @@ Jaksollisen järjestelmän perusteella litiumin järjestysluku on 3. Koska ensim
 - L-kuorella olevan yksittäisen elektronin kvanttiluvut ovat mahdollisimmat pienet, eli $n = 2, l = 0, m = 0, s=\frac{1}{2}$.
 :::
 
-:::{admonition} Esimerkki: täynnä oleva toisen elektronikuoren elektronikonfiguraatio
+:::{admonition} Esimerkki: täynnä olevan toisen elektronikuoren elektronikonfiguraatio
 :class: tip
 Toisella elektronikuorella eli L-kuorella voi olla seuraavia kvanttilukuyhdistelmiä, kun $n = 2$:
-- $l = 0 \text{tai} 1 $
-- $m = 0 \text{tai} \pm 1$
+- $l = 0 \ \text{tai} \ 1 $
+- $m = 0 \ \text{tai} \ \pm 1$
 - Lisäksi jokaisella orbitaalilla voi olla enintään kaksi elektronia eri spin-kvanttiluvulla, joten kaikki mahdolliset elektronit ovat
 
 | elektroni nro | kvanttilukuyhdistelmä               |
@@ -78,4 +75,4 @@ Toisella elektronikuorella eli L-kuorella voi olla seuraavia kvanttilukuyhdistel
 | 8             | $n=2, l=1, m = -1, s=-\frac{1}{2})$ |
 :::
 
-Eli toiselle kuorelle mahtuu enintään 8 elektronia $(2n^2=2\cdot\2^2=8).
+Eli toiselle kuorelle mahtuu enintään 8 elektronia $(2n^2=2\cdot\2^2=8)$.
