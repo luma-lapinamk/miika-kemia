@@ -10,9 +10,14 @@ $\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaalifunktio, $m$ elektronin mas
 
 $ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $
 
-Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. Orbitaalit on nimetty järjestyksessä @s, p, d \text{ja} f$. Jokaisella Bohrin atomimallia vastaavalla energiakuorella on energiataso siten, että energitasolla voi olla yksi s-orbitaali, kolme p-orbitaalia, viisi d-orbitaalia ja seitsemän f-orbitaalia.
+Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. Orbitaalit on nimetty järjestyksessä $s, p, d \ \text{ja} \ f$. Jokaisella Bohrin atomimallia vastaavalla energiakuorella on energiataso siten, että energitasolla voi olla yksi s-orbitaali, kolme p-orbitaalia, viisi d-orbitaalia ja seitsemän f-orbitaalia.
 
-Orbitaalien muodot löytyvät Ptablesta valitsemalla ylävalikosta
+```{figure-md} Orbitaalit jaksollisessa järjestelmässä
+<img src="../images/orbitaalit_jaksollisessa.png" alt="Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä." class="bg-primary mb-1" width="1255px" align="center">
+
+Atomien orbitaalit jaksollisessa järjestelmässä
+```
+
 ```{figure-md} Orbitaalit
 <img src="../images/orbitaalit.png" alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1" width="1315px" align="center">
 
@@ -56,7 +61,7 @@ Jaksollisen järjestelmän perusteella litiumin järjestysluku on 3. Koska ensim
 - L-kuorella olevan yksittäisen elektronin kvanttiluvut ovat mahdollisimmat pienet, eli $n = 2, l = 0, m = 0, s=\frac{1}{2}$.
 :::
 
-:::{admonition} Esimerkki: täynnä olevan toisen elektronikuoren elektronikonfiguraatio
+:::{admonition} Esimerkki: täynnä olevan toisen elektronikuoren elektronien kvanttiluvut
 :class: tip
 Toisella elektronikuorella eli L-kuorella voi olla seuraavia kvanttilukuyhdistelmiä, kun $n = 2$:
 - $l = 0 \ \text{tai} \ 1 $
