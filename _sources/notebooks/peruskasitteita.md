@@ -36,7 +36,7 @@ Voit tarkastella kymmenen pienimmän atomin isotooppeja ja niiden suhteellista o
 
 **{index}`Atomimassayksikkö`** (1 u) on tapa ilmaista perushiukkasten ja atomien massoja yksinkertaisesti. Atomimassan perusyksikkö on 1/12-osaa hiili-12 isotoopin massasta, mikä vastaa suunnilleen yhden protonin massaa. Tällöin $ 1 \ \text{u} = 1.661 \cdot 10^{-27} \ \text{kg} = m(p^+) $. Taulukkoarvot atomien massoista on ilmaistu atomimassayksikössä. Esimerkiksi hiilen taulukkoarvo on 12.011, mikä johtuu siitä, että suurimmalla osalla luonnossa esiintyvistä hiiliatomeista on 6 neutronia ytimessään, mutta pienellä määrällä on 7 neutronia tai jopa 8 neutronia. <a href="https://www.taulukot.com/kemia/orgaanisetaineet/#alkuaineiden_suhteelliset_atomimassat" target="_blank">Taulukkoarvot</a> ovat siis keskimääräisiä atomimassoja, koska emme voi tarkasti tietää, mitä isotooppia näytteessä on.
 
-> **{index}`Perusvuorovaikutukset`**
+**{index}`Perusvuorovaikutukset`**
 > - **Sähkömagneettisen vuorovaikutuksen** mukaan samanmerkkiset sähkövaraukset hylkivät toisiaan ja vastakkaismerkkiset varaukset vetävät toisiaan puoleensa.
 > - **Vahva vuorovaikutus** on voimakkain perusvuorovaikutuksista. Sen vaikutus ulottuu vain lyhyelle etäisyydelle ytimen sisällä ja se pitää atomin ytimen koossa, vaikka positiiviset protonit hylkivät toisiaan. Sen vuoksi kaukana ytimestä olevat elektronit eivät ole vahvan vuorovaikutuksen alaisuudessa ja niiden voima- ja varausominaisuudet määrittyvät sähkömagneettisen vuorovaikutuksen kautta.
 > - Muut perusvuorovaikutukset ovat **heikko vuorovaikutus**, joka liittyyy atomin ytimen ilmiöihin, sekä **gravitaatiovuorovaikutus**, jonka vaikutus atomitasolla on häviävän pieni.
