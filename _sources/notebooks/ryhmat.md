@@ -14,6 +14,11 @@ Alkalimetallit ovatkin erittäin reaktiivisia ja muodostavat helposti yhdisteit�
 Esimerkiksi natriumkloridia (NaCl) käytetään ruokasuolana ja kaliumkloridia (KCl) kaupoista saatavana mineraalisuolana. Natriumhydroksidi (NaOH) tunnetaan myös nimellä lipeä, jota käytettiin vielä hetkin sitten pyykinpesuaineen. Tänä päivänä natriumhydroksidi on tärkeä teollisuuden kemikaali sen emäksisyyden johdosta. Litiumkobolttioksidia (LiCoO<sub>2</sub>) puolestaan käytetään litiumakkujen katodimateriaalina.
 
 ## II {index}`Maa-alkalimetallit`
+Maa-alkalimetalleilla on aina kaksi ulkoelektronia (samalla s-orbitaalilla eri merkkisin spinein), mikä tekee niistä hieman vähemmän reaktiivisia kuin vastaavat alkali-metallit. Maa-alkalimetallit pyrkivät pääsemään oktettiin luovuttamalla nämä kaksi ulkoelektroniaan, minkä johdosta ne esiintyvät aina +2 ionina. Maa-alkalimetallien vesiliuokset ovat emäksisiä, mistä tulee niiden nimitys "alkali"-emäs.
+
+Kalsium on yksi tärkeimmistä maa-alkalimetalleista. Se esiintyy luonnossa monissa muodoissa, kuten **kalkkikivessä** kalsiumkarbonaatttina (CaCO<sub>3</sub>). Kalsiumoksidia (CaO) eli **poltettua kalkkia** käytetään laajasti eri teollisuudenaloilla, mm. maataloudessa, jossa se auttaa vähentämään maaperän happamuutta. Kalsiumhydroksidia (Ca(OH)<sub>2</sub>) eli **sammutettua kalkkia** käytetään laajasti esimerkiksi rakennusmateriaalien valmistuksessa ja vesienkäsittelyssä. kalsiumhydroksidia valmistetaan kuumentamalla kakkikiveä, jolloin vapautuu hiilidioksidia kaasuna ja jäljelle jää sammutettu kalkki.
+
+Toinen tärkeä maa-alkalimetalli on magnesium, joka on kevyt mutta kestävä metalli. Sitä käytetään laajasti autoteollisuudessa, lentokoneissa ja avaruusaluksissa. Magnesiumoksidi (MgO) on yksi yleisimmistä magnesiumyhdisteistä, ja sitä käytetään muun muassa lääketieteellisissä sovelluksissa ja maataloudessa.
 
 ## III {index}`Booriryhmä`
 
