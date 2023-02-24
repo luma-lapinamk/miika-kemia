@@ -35,5 +35,8 @@ Fluori (F) on halogeeni, jolla on kaksi elektronikuorta ja seitsemän ulkoelektr
 
 Fosfori-atomeilla (P) on kolme elektronikuorta ja viisi ulkoelektronia. Päästäkseen oktettiin se vastaanottaa kolme elektronia lisää ja saavuttaa Argonin elektronirakenteen. Tällöin syntyy negatiivinen fosfidi-ioni. Fosfori pystyy kuitenkin myös luovuttamaan kolme elektronia, mitä Bohrin atomimalli ei pysty selittämään. Orbitaaleja tarkastellessa voidaan havaita, että fosforin korkeimmalla energiatasolla, 3p-orbitaalilla, on kolme elektronia saman suuntaisin spinein (Hundin sääntö). Täten kvanttimekaaninen atomimalli pystyy selittämään fosforin kyvyn myös luovuttaa elektroneja.
 
-Hiili (C) on ainoa epämetalli pääryhmässä IV. Sillä on kaksi elektronikuorta ja neljä ulkoelektronia. Hiili ei esiinny &pm4 ionina, vaan se jakaa ulkoelektroneitaan yhteiseen käyttöön toisten epämetalliatomien kanssa. Asiaan palataan kovalenttisen sidoksen yhteydessä.
+Hiili (C) on ainoa epämetalli pääryhmässä IV. Sillä on kaksi elektronikuorta ja neljä ulkoelektronia. Hiili ei esiinny $\pm$4 ionina, vaan se jakaa ulkoelektroneitaan yhteiseen käyttöön toisten epämetalliatomien kanssa. Asiaan palataan kovalenttisen sidoksen yhteydessä.
 :::
+
+## {index}`Puolimetallit`
+Puolimetallien ryhmä ei ole selkeästi määritelty tai rajattu, vaan se voi lähteestä riippuen sisältää hieman eri alkuaineita. Tyypillistä puolimetalleille kuitenkin on, että niillä on sekä metallien että epämetallien ominaisuuksia tietyissä olosuhteissa. Ne myös johtavat sähköä, mutta yleensä heikommin kuin metallit. Siksi piitä, telluuria ja antimonia kutsutaan puolijohteiksi. Esimerkiksi pii on tärkeä puolijohtajien ja mikrosirujen valmistuksessa, sillä sen sähkönjohtokykyyn voidaan vaikuttaa.
