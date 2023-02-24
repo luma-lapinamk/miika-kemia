@@ -1,6 +1,6 @@
 # Kvanttimekaaninen atomimalli
 
-Bohrin atomimallin jälkeen Werner Heisenberg, Erwin Schrödinger, Max Born sekä Nils Bohr jatkoivat uuden atomimallin kehittämistä, joka selittäisi siirtymämetallien elektronikonfiguraation. Kvanttiluvut tulivat käyttöön 1920-luvulla, kun kvanttiteoria alkoi saada muotoaan. Kvanttimekaaninen atomimalli on edelleen käytössä oleva malli. Se perustuu kvanttiteoriaa, jonka mukaan ainetta koostavia hiukkasia (kuten elektronien), voidaan mallintaa aaltoina. Elektroneilla on tietty liike-energia, joka ilmenee aaltomuodossa.
+Bohrin atomimallin jälkeen Werner Heisenberg, Erwin Schrödinger, Max Born sekä Nils Bohr jatkoivat uuden atomimallin kehittämistä, joka selittäisi siirtymämetallien elektronikonfiguraation. Kvanttimekaaninen atomimalli on edelleen käytössä oleva malli. Se perustuu kvanttiteoriaa, jonka mukaan ainetta koostavia hiukkasia (kuten elektronien), voidaan mallintaa aaltoina. Elektroneilla on tietty liike-energia, joka ilmenee aaltomuodossa. Kvanttiluvut tulivat käyttöön 1920-luvulla, kun kvanttiteoria alkoi saada muotoaan.
 
 Ajasta riippumaton Schrödingerin aaltoyhtälö yhdelle elektronille kolmessa ulottuvuudessa
 
@@ -10,7 +10,7 @@ $\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaalifunktio, $m$ elektronin mas
 
 $ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $
 
-Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. Orbitaalit on nimetty järjestyksessä $s, p, d \ \text{ja} \ f$. Jokaisella Bohrin atomimallia vastaavalla energiakuorella on energiataso siten, että energitasolla voi olla yksi s-orbitaali, kolme p-orbitaalia, viisi d-orbitaalia ja seitsemän f-orbitaalia.
+Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. Jokainen Bohrin atomimallia vastaava elektronikuori jaetaan useisiin energiatasoihin eli $s, p, d \ \text{ja} \ f$ -orbitaaleihin. Ensimmäinen K-kuori vastaa yhtä 1s-orbitaalia ja toinen L-kuori vastaa yhtä 2s- ja kolmea 2p-orbitaalia. Tätä korkeammat energiatasot (elektronikuoret M, N jne.) voivat jakautua useisiin energiatasoihin, joissa on s-orbitaalin ja kolmen p-orbitaalin lisäksi viisi d-orbitaalia ja seitsemän f-orbitaalia.
 
 ```{figure-md} Orbitaalit jaksollisessa järjestelmässä
 <img src="../images/orbitaalit_jaksollisessa.png" alt="Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä." class="bg-primary mb-1" width="1255px" align="center">

@@ -6,7 +6,7 @@ Vuonna 1869 venäläinen kemisti Dmitri Mendelejev kehitti ensimmäisen jaksolli
 Katso aiheeseen liittyvä 10 minuutin video <a href="https://areena.yle.fi/1-50065555" target="_blank">YLE Areenasta</a>.
 
 ## Taulukon rakenne
-Alkuaineiden jaksollinen järjestelmä on taulukko, jossa alkuaineet on järjestetty kasvavan järjestysluvun mukaisesti. Suurin osa alkuaineista on metalleja. Epämetalleja on 11 kpl (kuvassa vihreällä pohjalla), vaikkakin useissa kemian lähdemateriaaleissa jaksollisen järjestelmän oikeassa reunassa olevat jalokaasut luetaan myös epämetalleihin. Jaksollisen järjestelmän vaakarivit ovat nimeltään jaksoja ja pystysarakkeet ryhmiä.
+Alkuaineiden jaksollinen järjestelmä on taulukko, jossa alkuaineet on järjestetty kasvavan järjestysluvun mukaisesti. Suurin osa alkuaineista on **metalleja**. **Epämetalleja** on 11 kpl (kuvassa vihreällä pohjalla), vaikkakin useissa kemian lähdemateriaaleissa jaksollisen järjestelmän oikeassa reunassa olevat jalokaasut luetaan myös epämetalleihin. Lisäksi on olemassa **puolimetalleja**, joilla voi esiintyä niin metallien ja epämetallien ominaisuuksia. Jaksollisen järjestelmän vaakarivit ovat nimeltään jaksoja ja pystysarakkeet ryhmiä.
 
 ```{figure-md} Alkuaineiden jaksollinen järjestelmä, lähde: ptable.com
 <img src="../images/jaksollinen_jarjestelma.png" alt="Alkuaineiden jaksollinen järjestelmä, lähde ptable.com" class="bg-primary mb-1" width="1422px" align="center">
