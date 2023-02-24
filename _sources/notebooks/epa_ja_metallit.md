@@ -5,7 +5,7 @@ Jaksollinen järjestelmä jakaa alkuaineet karkeasti metalleihin, epämetalleihi
 Kemiallisisten reaktioiden tarkempi tarkastelu osoittaa niiden olevan elektronien siirtoreaktioita. Atomit voivat siis luovuttaa tai vastaanottaa elektroneitaan, tai jakaa niitä yhteiseen käyttöön. Taustalla vaikuttaa atomien pyrkimys pysyvään energiaminimitilaan eli **{index}`oktetti`in**, jossa atomilla on Bohrin atomimallin mukaisesti kahdeksan ulkoelektronia.
 
 ## {index}`Metallit`
-:::{admonition}Metallit
+:::{admonition} Metallit
 :class: seealso
 ovat alkuaineita, joiden atomit pyrkivät luovuttamaan ulkoelektroneitaan saavuttaakseen Bohrin atomimallin mukaisen oktetin.
 :::
@@ -22,7 +22,7 @@ Kolmannen pääryhmän metallit eli alumiini (Al), Gallium (Ga) ja Indium (In) e
 :::
 
 ## {index}`Epämetallit`
-:::{admonition}Epämetallit
+:::{admonition} Epämetallit
 :class: seealso
 KESKEN ovat alkuaineita, joiden atomit pyrkivät luovuttamaan ulkoelektroneitaan saavuttaakseen Bohrin atomimallin mukaisen oktetin.
 :::

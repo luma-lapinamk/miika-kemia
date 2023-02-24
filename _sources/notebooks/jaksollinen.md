@@ -25,7 +25,7 @@ Jaksoja, eli vaakarivejä, on 7 kappaletta. Alkuaineen jakson numero vastaa atom
 
 Saman pääryhmän alkuaineilla on samankaltaiset kemialliset ominaisuudet, mikä johtuu siitä, että pääryhmän numero vastaa atomin uloimmalla elektronikuorella olevien elektronien lukumäärää.
 :::{admonition} Tämä onkin yksi tärkeimmistä, ellei tärkein, asia ymmärtää kemiasta:
-:class: tip
+:class: seealso
  Uloimman elektronikuoren rakenne eli ulkoelektronien lukumäärä määrää alkuaineen kemialliset ominaisuudet.
 :::
 Kun muistamme oktettisäännön, niin päärymien alkuaineiden kemialliset ominaisuudet voidaan päätellä suoraan jaksollisesta järjestelmästä.
