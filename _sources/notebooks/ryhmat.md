@@ -41,9 +41,12 @@ Booriryhmä on jaksollisen järjestelmän kolmas pääryhmä. Siihen kuuluu viis
 
 Booriryhmän alkuaineet pyrkivät metallimaisina (booria lukuunottamatta) usein luovuttamaan ulkoelektroninsa, jolloin niiden ionivaraus on +3. Alumiini (Al) on maankuoren yleisin metalli ja se luetaan **{index}`kevytmetalli`ksi** (tiheys alle 5 kg/dm<sup>3</sup>), sillä sen tiheys on 2.7 kg/dm<sup>3</sup>. Alumiinilla on hyvä lämmön- ja sähkönjohtokyky, ja se onkin yleinen materiaali sähköjohdoissa, kuten runkoverkoissa, vaikkakin sen sähkönjohtavuus on noin 60 % kuparista vastaavasta.
 
-Alumiini on passivoituva metalli, sillä se muodostaa luonnostaan erittäin kovan oksidisuojan pintaansa, joka ei ruostu vedessä tai ilmassa (ei korroosiota). Tämän ominaisuutensa vuoksi se soveltuu hyvin käytettäväksi eri kulkuneuvojen rungoissa. Alumiini ei myöskään katkeile tai halkeile lämpötilan vaihtelun johdosta. Täten alumiinista valmistettu tuote harvoin tarvitsee muuta huoltoa kuin puhdaana pitoa. Alumiini on jauheena hyvä pelkistin ja reagoi voimakkaasti reautaoksidin kanssa pelkistäen raudan atomeiksi. Reaktio tunnetaan nimellä termiittireaktio, jossa syntyy noin 3000 <sup>o</sup>C:een lämpötila. Reaktion avulla voidaan hitsataan mm. ratakiskoja yhteen, kuten alla.
+Alumiini on passivoituva metalli, sillä se muodostaa luonnostaan erittäin kovan oksidisuojan pintaansa, joka ei ruostu vedessä tai ilmassa (ei korroosiota). Tämän ominaisuutensa vuoksi se soveltuu hyvin käytettäväksi eri kulkuneuvojen rungoissa. Alumiini ei myöskään katkeile tai halkeile lämpötilan vaihtelun johdosta. Täten alumiinista valmistettu tuote harvoin tarvitsee muuta huoltoa kuin puhdaana pitoa. Alumiini on jauheena hyvä pelkistin ja reagoi voimakkaasti reautaoksidin kanssa pelkistäen raudan atomeiksi. Reaktio tunnetaan nimellä **{index}`termiittireaktio`**, jossa syntyy noin 3000 <sup>o</sup>C:een lämpötila. Reaktion avulla voidaan hitsataan mm. ratakiskoja yhteen, kuten alla olevalla videolla.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5uxsFglz2ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+<br>
 
 Alumiinia valmistetaan malmista nimeltä **{index}`bauksiitti`**, josta vähintään puolet on alumiiniokdisia. Alumiinin kierrätys on tärkeää, sillä tällöin alumiinin valmistus kuluttaa vain 10 % siitä energiasta, joka kuluisi alumiinin valmistukseen bauksiitista. Galliumia käytetään esimerkiksi led-valoissa ja aurinkokennoissa, ja indiumia käytetään näyttöteknologioissa, kuten LCD-näytöissä. Booria käytetään puolestaan lasin ja keraamisten materiaalien valmistuksessa.
 
