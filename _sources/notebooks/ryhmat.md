@@ -37,9 +37,7 @@ Kalkkikiven poltto ja sammutus, kuvan lähde: <a href="https://fi.wikipedia.org/
 Toinen tärkeä maa-alkalimetalli on kevyt mutta kestävä magnesium, jota saadaan merivedestä. Sitä käytetään laajasti autoteollisuudessa, lentokoneissa ja avaruusaluksissa. Magnesiumin palaessa syntyy magnesiumoksidia (MgO), joka on yksi yleisimmistä magnesiumyhdisteistä, ja sitä käytetään muun muassa lääketieteellisissä sovelluksissa ja maataloudessa. **{index}`Dolomiitti`** on kalkkikiveä, joka sisältää yli 7 % magnesiumkarbonaattia (MgCO<sub>3</sub>).
 
 ## III {index}`Booriryhmä` eli {index}`maametallit`
-Booriryhmä on jaksollisen järjestelmän kolmas pääryhmä. Siihen kuuluu viisi alkuainetta: boori (B), alumiini (Al), gallium (Ga), indium (In) ja tallium (Tl). Ryhmän alkuaineilla on kolme ulkoelektronia, jotka ovat sijoittuneet kahdelle s-orbitaalille ja yhdelle p-orbitaalille.
-
-Booriryhmän alkuaineet pyrkivät metallimaisina (booria lukuunottamatta) usein luovuttamaan ulkoelektroninsa, jolloin niiden ionivaraus on +3. Alumiini (Al) on maankuoren yleisin metalli ja se luetaan **{index}`kevytmetalli`ksi** (tiheys alle 5 kg/dm<sup>3</sup>), sillä sen tiheys on 2.7 kg/dm<sup>3</sup>. Alumiinilla on hyvä lämmön- ja sähkönjohtokyky, ja se onkin yleinen materiaali sähköjohdoissa, kuten runkoverkoissa, vaikkakin sen sähkönjohtavuus on noin 60 % kuparista vastaavasta.
+Booriryhmä on jaksollisen järjestelmän kolmas pääryhmä. Ryhmän alkuaineilla on kolme ulkoelektronia, jotka ovat sijoittuneet kahdelle s-orbitaalille ja yhdelle p-orbitaalille. Booriryhmän alkuaineet pyrkivät metallimaisina (booria lukuunottamatta) usein luovuttamaan ulkoelektroninsa, jolloin niiden ionivaraus on +3. Alumiini (Al) on maankuoren yleisin metalli ja se luetaan **{index}`kevytmetalli`ksi** (tiheys alle 5 kg/dm<sup>3</sup>), sillä sen tiheys on 2.7 kg/dm<sup>3</sup>. Alumiinilla on hyvä lämmön- ja sähkönjohtokyky, ja se onkin yleinen materiaali sähköjohdoissa, kuten runkoverkoissa, vaikkakin sen sähkönjohtavuus on noin 60 % kuparista vastaavasta.
 
 Alumiini on passivoituva metalli, sillä se muodostaa luonnostaan erittäin kovan oksidisuojan pintaansa, joka ei ruostu vedessä tai ilmassa (ei korroosiota). Tämän ominaisuutensa vuoksi se soveltuu hyvin käytettäväksi eri kulkuneuvojen rungoissa. Alumiini ei myöskään katkeile tai halkeile lämpötilan vaihtelun johdosta. Täten alumiinista valmistettu tuote harvoin tarvitsee muuta huoltoa kuin puhdaana pitoa. Alumiini on jauheena hyvä pelkistin ja reagoi voimakkaasti reautaoksidin kanssa pelkistäen raudan atomeiksi. Reaktio tunnetaan nimellä **{index}`termiittireaktio`**, jossa syntyy noin 3000 <sup>o</sup>C:een lämpötila. Reaktion avulla voidaan hitsataan mm. ratakiskoja yhteen, kuten alla olevalla videolla.
 
@@ -51,6 +49,23 @@ Alumiini on passivoituva metalli, sillä se muodostaa luonnostaan erittäin kova
 Alumiinia valmistetaan malmista nimeltä **{index}`bauksiitti`**, josta vähintään puolet on alumiiniokdisia. Alumiinin kierrätys on tärkeää, sillä tällöin alumiinin valmistus kuluttaa vain 10 % siitä energiasta, joka kuluisi alumiinin valmistukseen bauksiitista. Galliumia käytetään esimerkiksi led-valoissa ja aurinkokennoissa, ja indiumia käytetään näyttöteknologioissa, kuten LCD-näytöissä. Booria käytetään puolestaan lasin ja keraamisten materiaalien valmistuksessa.
 
 ## IV {index}`Hiiliryhmä`
+Hiiliryhmän alkuaineet jakavat yhteisen ulkokuoren rakenteen, jossa on neljä ulkoelektronia: kaksi s-orbitaalilla ja kaksi p-orbitaaleilla samansuuntaisin spinein (Hundin sääntö). Hiiliryhmässä on sekä metalleja (tina ja lyijy), puolimetalleja (pii ja germanium) että epämetallina hiili. Tinaa käytetään laajalti metallurgiassa ja lyijyä mm. akkujen valmistuksessa. Piitä käytetään puolijohteiden valmistuksessa, ja se on tärkeä komponentti monissa sähkötekniikan sovelluksissa. Myös germaniumia käytetään puolijohteissa.  Hiiltä esiintyy luonnossa runsaasti kivihiilenä, jota käytetään edelleen polttoaineena. Toinen teollisuuden käyttökohde on raudan valmistus masuunissa, jossa hiiltä eli **{index}`koksi`a** lisätään masuuniin pelkistämään rautaa. Hiili on myös tärkeä osa elollista luontoa ja orgaanisen kemian peruspalikka, sillä miljoonat orgaaniset yhdisteet, kuten proteiinit, hiilihydraatit ja rasvat, perustuvat hiileen.
+
+**{index}`Aktiivihiili`** puuttuu.
+
+**{index}`Allotropia`** tarkoittaa alkuaineen esiintymistä erilaisissa kemiallisissa muodoissa. Toisin sanoen, alkuaineen atomit ovat sitoutuneet toisiinsa eri allotrooppisissa muodoissa eri tavalla. Hiilellä tunnetaan useita allotrooppisia muotoja, joista mm. timanttia ja grafeenia esiintyy luonnossa, mutta osa on valmistettu laboratorioissa.
+a) {index}`timantti`: jokainen hiiliatomi on sitoutunut neljään muuhun hiiliatomiin tetraedrin muotoisesti muodostaen kolmiulotteisen verkon. Käytetään korujen ja leikkuutyökalujen valmistuksessa. Kovin tunnettu hiilen muoto.
+b) {index}`grafiitti` ja {index}`grafeeni`: grafiitilla on monikerroksinen rakenne, jossa hiiliatomit ovat järjestäytyneet kuusikulmaisista hiilirenkaista tasoksi. Käytetään esimerkiksi sähkömoottorien hiiliharjoissa, lyijykynissä sekä ydinreaktoreissa vapautuvia neutroneja hidastavana aineena. Grafeeni on yhden atomikerroksen paksuinen muoto grafiitista, mutta samalla erittäin vahva ja joustava materiaali, joka johtaa hyvin sähköä ja lämpöä. Käytetään mm. elektroniikan komponenteissa ja kosketusnäytöissä, kestävin tunnettu aine.
+c) {index}`lonsdaleiitti`: harvinainen hiilen muoto, joka muistuttaa timanttia mutta on järjestäynyt eri tavalla. Arvellaan olevan lupaava materiaali esimerkiksi puolijohteissa, energian varastoinnissa ja lääketieteellisissä sovelluksissa. Yksi kovimmista aineista maailmassa.
+d), e) ja f) {index}`fullereeni`t: pallosymmetrisiä hiilimolekyylejä, joissa hiiliatomit ovat järjestyneet kuutiollisesti. Käytetään esimerkiksi lääketieteellisissä sovelluksissa.
+g) {index}`amorfinen hiili`: hiilen muoto, jossa hiiliatomit eivät ole järjestäytyneet tietyllä tavalla, vaan ovat sattumanvaraisesti ja epäsäännöllisesti. Käytetään muun muassa musteiden ja pigmenttien valmistuksessa.
+h) {index}`hiilinanoputki`: putkimainen hiilen muoto, jossa kerros grafeenia on "rullalla" eli hiiliatomit ovat järjestäytyneet sylinteriksi. Käytetään esimerkiksi komposiittimateriaaleissa ja sähköisten laitteiden valmistuksessa.
+
+```{figure-md} Hiilen allotropia
+<img src="../images/hiili.png" alt="Kuvassa hiilen allotrooppisia muotoja." class="bg-primary mb-1" width="600px" align="center">
+
+Hiilen allotrooppisia muotoja, kuvan lähde: <a href="https://en.wikipedia.org/wiki/Allotropes_of_carbon" target="_blank">Wikipedia</a>
+```
 
 ## V {index}`Typpiryhmä`
 
