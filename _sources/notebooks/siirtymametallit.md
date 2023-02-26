@@ -1,6 +1,6 @@
-# Siirtymämetalli (ryhmät 3-12)
+# Siirtymämetallit
 
-Siirtymämetalleille tyypillisiä ominaisuuksia ovat
+Jaksollisen järjestelmän ryhmien 3-12 siirtymämetalleille tyypillisiä ominaisuuksia ovat
 - metallin kiilto
 - suuri tiheys, yli 5 kg/dm<sup>3</sup>
 - kovuus, taottavuus
@@ -8,7 +8,7 @@ Siirtymämetalleille tyypillisiä ominaisuuksia ovat
 - hyvä lämmönjohtokyky
 - korkea sulamis- ja kiehumispiste
 
-Ohessa keväällä 2023 kuuden myydyimmän metallin markkinahinnat:
+Alla taulukossa keväällä 2023 kuuden myydyimmän metallin markkinahinnat.
 
 | metalli  | hinta (e / tonni) |
 | -------- | ----------------- |
