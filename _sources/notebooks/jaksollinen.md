@@ -50,7 +50,7 @@ Jaksollisen järjestelmän avulla voidaan ennustaa alkuaineiden ominaisuuksia, k
 
 - **{index}`Ionisoitumisenergia`** on energia, joka vaaditaan irrottamaan elektroni atomin uloimmalta kuorelta. Ionisaatioenergia on aina positiivinen, koska energiaa vaaditaan, jotta atomin elektroni irtoaa sen neutraalista perustilasta, joka vastaa energiaminimiä. 
 
-- **{index}`Elektronegatiivisuus`** kuvaa suhteellista kykyä, joka atomilla on vetää yhteisiä sidoselektroneja puoleensa kemiallisissa sidoksissa.
+- **Elektronegatiivisuus** kuvaa suhteellista kykyä, joka atomilla on vetää yhteisiä sidoselektroneja puoleensa kemiallisissa sidoksissa.
 
 - **{index}`Elektroniaffiniteetti`** kuvaa energiaa, joka vapautuu, kun atomi vastaanottaa elektronin ja muuttuu ioniksi. Jaksollisessa järjestelmässä elektroniaffiniteetti kasvaa siirryttäessä riveillä vasemmalta oikealle ja sarakkeessa ylhäältä alaspäin.
 

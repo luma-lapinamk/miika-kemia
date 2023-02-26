@@ -11,7 +11,7 @@ Brittiläinen John Dalton esitti teoreettisen atomimallin, jonka mukaan atomit o
 J.J. Thomson oli yhdessä oppilaansa G.J. Stoney kanssa päätelleet kuuluisalla katodisädekokeellaan, että katodilta lähtevä säteily koostuikin atomia vielä pienemmistä negatiivisesti varautuneista hiukkasista, ”corpuscle”:ista, joita Stoney nimitti elektroneiksi.  Thomsonin atomimallissa atomit koostuivat positiivisesta aineksesta, jonka sisällä elektronit olivat, mistä nimitys rusinakakku. ”Corpuscle”:t muodostivat yhdessä positiivisen aineksen kanssa sähköisesti neutraalin tasapainotilan.
 
 ## 1909 {index}`Rutherfordin atomimalli`
-Uusiseelantilainen Ernest Rutherford onnistui luomaan alpha-säteilyä, ”kanavapartikkeleita”, joilla hän pommitti ohutta kultakalvoa. Hän huomasi, että suurin osa alpha-säteilystä läpäisi kulta-atomit mutta pieni osa säteilystä heijastui takaisin eri kulmissa. Tämä johti Rutherfordin päätelmään, että atomi koostui suurimmalta osin tyhjästä tilasta, jonka keskellä oli suurimassainen mutta pieni positiivisesti varautunut ydin, jota elektronit kiertävät.
+Uusiseelantilainen Ernest Rutherford onnistui yhdessä Hans Geigerin kanssa luomaan alpha-säteilyä, ”kanavapartikkeleita”, joilla hän pommitti ohutta kultakalvoa. Hän huomasi, että suurin osa alpha-säteilystä läpäisi kulta-atomit mutta pieni osa säteilystä heijastui takaisin eri kulmissa. Tämä johti Rutherfordin päätelmään, että atomi koostui suurimmalta osin tyhjästä tilasta, jonka keskellä oli suurimassainen mutta pieni positiivisesti varautunut ydin, jota elektronit kiertävät.
 
 Tutki alla olevan appletin avulla, mitä Rutherfordin sirontakokeessa tapahtui ja mitä Thomsonin rusinakakkumallin mukaan pitäisi tapahtua.
 
