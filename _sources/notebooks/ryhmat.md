@@ -54,18 +54,23 @@ Hiiliryhmän alkuaineet jakavat yhteisen ulkokuoren rakenteen, jossa on neljä u
 **{index}`Aktiivihiili`** puuttuu.
 
 **{index}`Allotropia`** tarkoittaa alkuaineen esiintymistä erilaisissa kemiallisissa muodoissa. Toisin sanoen, alkuaineen atomit ovat sitoutuneet toisiinsa eri allotrooppisissa muodoissa eri tavalla. Hiilellä tunnetaan useita allotrooppisia muotoja, joista mm. timanttia ja grafeenia esiintyy luonnossa, mutta osa on valmistettu laboratorioissa.
-a) {index}`timantti`: jokainen hiiliatomi on sitoutunut neljään muuhun hiiliatomiin tetraedrin muotoisesti muodostaen kolmiulotteisen verkon. Käytetään korujen ja leikkuutyökalujen valmistuksessa. Kovin tunnettu hiilen muoto.
-b) {index}`grafiitti` ja {index}`grafeeni`: grafiitilla on monikerroksinen rakenne, jossa hiiliatomit ovat järjestäytyneet kuusikulmaisista hiilirenkaista tasoksi. Käytetään esimerkiksi sähkömoottorien hiiliharjoissa, lyijykynissä sekä ydinreaktoreissa vapautuvia neutroneja hidastavana aineena. Grafeeni on yhden atomikerroksen paksuinen muoto grafiitista, mutta samalla erittäin vahva ja joustava materiaali, joka johtaa hyvin sähköä ja lämpöä. Käytetään mm. elektroniikan komponenteissa ja kosketusnäytöissä, kestävin tunnettu aine.
-c) {index}`lonsdaleiitti`: harvinainen hiilen muoto, joka muistuttaa timanttia mutta on järjestäynyt eri tavalla. Arvellaan olevan lupaava materiaali esimerkiksi puolijohteissa, energian varastoinnissa ja lääketieteellisissä sovelluksissa. Yksi kovimmista aineista maailmassa.
-d), e) ja f) {index}`fullereeni`t: pallosymmetrisiä hiilimolekyylejä, joissa hiiliatomit ovat järjestyneet kuutiollisesti. Käytetään esimerkiksi lääketieteellisissä sovelluksissa.
-g) {index}`amorfinen hiili`: hiilen muoto, jossa hiiliatomit eivät ole järjestäytyneet tietyllä tavalla, vaan ovat sattumanvaraisesti ja epäsäännöllisesti. Käytetään muun muassa musteiden ja pigmenttien valmistuksessa.
-h) {index}`hiilinanoputki`: putkimainen hiilen muoto, jossa kerros grafeenia on "rullalla" eli hiiliatomit ovat järjestäytyneet sylinteriksi. Käytetään esimerkiksi komposiittimateriaaleissa ja sähköisten laitteiden valmistuksessa.
 
 ```{figure-md} Hiilen allotropia
 <img src="../images/hiili.png" alt="Kuvassa hiilen allotrooppisia muotoja." class="bg-primary mb-1" width="600px" align="center">
 
 Hiilen allotrooppisia muotoja, kuvan lähde: <a href="https://en.wikipedia.org/wiki/Allotropes_of_carbon" target="_blank">Wikipedia</a>
 ```
+> a) **{index}`timantti`**: jokainen hiiliatomi on sitoutunut neljään muuhun hiiliatomiin tetraedrin muotoisesti muodostaen kolmiulotteisen verkon. Käytetään korujen ja leikkuutyökalujen valmistuksessa. Kovin tunnettu hiilen muoto.
+>
+> b) **{index}`grafiitti`** ja **{index}`grafeeni`**: grafiitilla on monikerroksinen rakenne, jossa hiiliatomit ovat järjestäytyneet kuusikulmaisista hiilirenkaista tasoksi. Käytetään esimerkiksi sähkömoottorien hiiliharjoissa, lyijykynissä sekä ydinreaktoreissa vapautuvia neutroneja hidastavana aineena. Grafeeni on yhden atomikerroksen paksuinen muoto grafiitista, mutta samalla erittäin vahva ja joustava materiaali, joka johtaa hyvin sähköä ja lämpöä. Käytetään mm. elektroniikan komponenteissa ja kosketusnäytöissä, kestävin tunnettu aine.
+>
+> c) **{index}`lonsdaleiitti`**: harvinainen hiilen muoto, joka muistuttaa timanttia mutta on järjestäynyt eri tavalla. Arvellaan olevan lupaava materiaali esimerkiksi puolijohteissa, energian varastoinnissa ja lääketieteellisissä sovelluksissa. Yksi kovimmista aineista maailmassa.
+>
+> d), e) ja f) **{index}`fullereeni`t**: pallosymmetrisiä hiilimolekyylejä, joissa hiiliatomit ovat järjestyneet kuutiollisesti. Käytetään esimerkiksi lääketieteellisissä sovelluksissa.
+>
+> g) **{index}`amorfinen hiili`**: hiilen muoto, jossa hiiliatomit eivät ole järjestäytyneet tietyllä tavalla, vaan ovat sattumanvaraisesti ja epäsäännöllisesti. Käytetään muun muassa musteiden ja pigmenttien valmistuksessa.
+>
+> h) **{index}`hiilinanoputki`**: putkimainen hiilen muoto, jossa kerros grafeenia on "rullalla" eli hiiliatomit ovat järjestäytyneet sylinteriksi. Käytetään esimerkiksi komposiittimateriaaleissa ja sähköisten laitteiden valmistuksessa.
 
 ## V {index}`Typpiryhmä`
 
