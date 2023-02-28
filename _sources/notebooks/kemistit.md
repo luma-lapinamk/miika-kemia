@@ -1,4 +1,5 @@
-# Kuuluisia kemistejä
+# Kemian merkkihenkilöitä
+Kuvien lähde: <a href="https://commons.wikimedia.org/" target="_blank">Wikimedia Commons</a>
 
 ## {index}`Lavoisier, Antoine` (1743-1794)
 <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lavoisier_1877.png"><img width="256" alt="Lavoisier 1877" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Lavoisier_1877.png/256px-Lavoisier_1877.png"></a>
