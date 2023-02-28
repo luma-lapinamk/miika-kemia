@@ -1,4 +1,7 @@
-# {index}`Stoikiometria` KESKEN
+# {index}`Stoikiometria`
+
+KESKEN
+
 **Stoikiometrialla** tarkoitetaan kemiassa aineiden kvantitatiivista eli määrällistä käsittelyä. Lähtökohtana on käsitteet **{index}`ainemäärä`** ja sen yksikkö **{index}`mooli`**.
 
 :::{admonition} Ainemäärä (n)
