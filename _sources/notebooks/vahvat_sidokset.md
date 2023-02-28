@@ -31,16 +31,16 @@ Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, mutt
 ### Nimeäminen
 Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai atomiryhmien keskinäiset lukumäärälliset suhteet. Atomien lukumäärä molekyylissä ilmoitetaan kreikkalaisilla etuliitteillä.
 
-| Kreikkalaiset etuliitteet | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| -------- | ---- | -- | --- | ----- | ----- | ----- | ----- | ---- | ---------------- | ---- |
-| Etuliite | mono | di | tri | tetra | penta | heksa | hepta | okta | ennea (tai nona) | deka |
+| Kreikkalaiset etuliitteet | 1    | 2  | 3   | 4     | 5     | 6     | 7     | 8    | 9                | 10   |
+| ------------------------- | ---- | -- | --- | ----- | ----- | ----- | ----- | ---- | ---------------- | ---- |
+| Etuliite                  | mono | di | tri | tetra | penta | heksa | hepta | okta | ennea (tai nona) | deka |
 
-Esimerkkejä
+**Esimerkkejä**
 
-| molekyylikaava             | IUPAC:n mukaan         |
-| -------------------------- | ---------------------- |
-| CO                         | hiilimonoksidi         |
-| CO<sub>2</sub>             | hiilidioksidi          |
-| SF<sub>3</sub>             | rikkitrifluoridi       |
-| CCl<sub>4</sub>            | tetrakloorimetaani     |
-| P<sub>3</sub>N<sub>5</sub> | trifosforipentanitridi |
+| molekyylikaava             | IUPAC:n mukaan                 | triviaalinimi     |
+| -------------------------- | ------------------------------ | ----------------- |
+| CO                         | hiili**mono**ksidi             | häkä              |
+| CO<sub>2</sub>             | hiili**di**oksidi              | -                 |
+| NH<sub>3</sub>             | typpi**tri**hydridi            | ammoniakki        |
+| CCl<sub>4</sub>            | **tetra**kloorimetaani         | hiilitetrakloridi |
+| P<sub>3</sub>N<sub>5</sub> | **tri**fosfori**penta**nitridi |                   |
