@@ -28,6 +28,11 @@ Taulukot.com
 ## {index}`Kovalenttinen sidos` KESKEN
 Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, mutta tarkasteltaessa kemiallisen sidoksen ioniluonnetta  elektrononegatiivisuuseron avulla, voidaan osa metallien ja epämetalliatomien sidoksista luokitella kovalenttiseksi sidokseksi. Epämetalliatomeista muodostuneita yhdisteitä nimitetään molekyyleiksi. Toisin sanoen **{index}`molekyyli`t** ovat epämetalliatomien yhteenliittymiä, joissa atomit jakavat elektronipareja yhteiseen käyttöön oktettirakenteen saavuttamiseksi. Kovalenttisessa sidoksessa sidoselektronit eivät täten pääse liikkumaan atomista toiseen, joten molekyylit johtavat hyvin huonosti sähköä.
 
+...
+
+### {index}`Poolinen kovalenttinen sidos` ja {index}`pooliton kovalenttinen sidos`
+Todellisuudessa rajat poolittoman ja poolisen kovalenttisen sidoksen sekä kovalenttisen ja ionisen sidoksen välillä ovat häilyviä ja niitä arvioidaan yleensä elektronegatiivisuuseron lisäksi myös muiden tekijöiden perusteella, kuten sidoksen muodostumiseen osallistuvien atomien koon, muodon ja elektronien jakautumisen perusteella. Yleisesti ottaen elektronegatiivisuuseron ollessa välillä alle 0,5, kovalenttinen sidos tulkitaan poolittomaksi. Täten poolisen kovalenttisen sidoksen elektronegatiivisuusero on välillä 0,5 - 1,6, sidokset ovat usein poolisia. Kun elektronegatiivisuusero on suurempi kuin noin 1,6, kyseessä on yleensä ionisidos.
+
 ### Nimeäminen
 Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai atomiryhmien keskinäiset lukumäärälliset suhteet. Atomien lukumäärä molekyylissä ilmoitetaan kreikkalaisilla etuliitteillä.
 
