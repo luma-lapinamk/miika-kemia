@@ -41,7 +41,7 @@ $n = \frac{m}{M}=\frac{12 500 \ g}{196,97 \ \frac{g}{mol} }=63,461 \dots mol \ap
 ## Kemiallisten reaktioiden suhteet
 Tarkastellaan tasapainotettuja kemiallisia reaktiota, joissa lähtöaineiden ja reaktiotuotteiden kertoimet ovat valmiiksi annettu. Esimerkkinä olkoon ammoniakin valmistus typpi- ja vetykaasuista (ammoniakkisynteesi ns. <a href="https://en.wikipedia.org/wiki/Haber_process" target="_blank">Haber-Bosch -menetelmällä</a>).
 
-<center>N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub></center>
+<center>N<sub>2</sub> + 3 H<sub>2</sub> ↔ 2 NH<sub>3</sub></center>
 <br>
 
 Reaktioyhtälön kertoimista nähdään, että kun yksi typpimolekyyliä reagoi kolmen vetymolekyylin kanssa, syntyy kaksi molekyyliä ammoniakkia. Reaktiossa siis syntyy määrällisesti kaksi kertaa enemmän ammoniakkia, kuin mitä typpikaasua oli käytössä. Koska kemialliseen reaktioon osallistuu aina valtavan paljon suurempi määrä ainetta kuin yksittäiset molekyylit, on mielekkäämpä puhua, että kun *yksi mooli* typpeä ja *kolme moolia* vetyä reagoivat, syntyy *kaksi moolia* ammoniakkia. Samalla reaktiossa kuluu vetykaasua kolme kertaa enemmän kuin typpikaasua.

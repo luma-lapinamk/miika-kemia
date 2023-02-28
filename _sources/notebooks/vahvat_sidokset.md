@@ -29,7 +29,7 @@ Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, mutt
 ...
 
 ### {index}`Poolinen kovalenttinen sidos` ja {index}`pooliton kovalenttinen sidos`
-Todellisuudessa rajat poolittoman ja poolisen kovalenttisen sidoksen sekä kovalenttisen ja ionisen sidoksen välillä ovat häilyviä ja niitä arvioidaan yleensä elektronegatiivisuuseron lisäksi myös muiden tekijöiden perusteella, kuten sidoksen muodostumiseen osallistuvien atomien koon, muodon ja elektronien jakautumisen perusteella. Yleisesti ottaen elektronegatiivisuuseron ollessa välillä alle 0,5, kovalenttinen sidos tulkitaan poolittomaksi. Täten poolisen kovalenttisen sidoksen elektronegatiivisuusero on välillä 0,5 - 1,6, sidokset ovat usein poolisia. Kun elektronegatiivisuusero on suurempi kuin noin 1,6, kyseessä on yleensä ionisidos.
+Todellisuudessa rajat poolittoman ja poolisen kovalenttisen sidoksen sekä kovalenttisen ja ionisen sidoksen välillä ovat häilyviä ja niitä arvioidaan yleensä elektronegatiivisuuseron lisäksi myös muiden tekijöiden perusteella, kuten sidoksen muodostumiseen osallistuvien atomien koon, muodon ja elektronien jakautumisen perusteella. Yleisesti ottaen elektronegatiivisuuseron ollessa alle 0,5, kovalenttinen sidos tulkitaan poolittomaksi. Täten poolisen kovalenttisen sidoksen elektronegatiivisuusero on välillä 0,5 - 1,6. Kun elektronegatiivisuusero on suurempi kuin 1,6, kyseessä on yleensä ionisidos.
 
 ### Nimeäminen
 Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai atomiryhmien keskinäiset lukumäärälliset suhteet. Atomien lukumäärä molekyylissä ilmoitetaan kreikkalaisilla etuliitteillä.
