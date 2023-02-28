@@ -25,7 +25,7 @@ Taulukot.com
 
 ## {index}`Metallisidos`
 
-## {index}`Kovalenttinen sidos`
+## {index}`Kovalenttinen sidos` KESKEN
 Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, mutta tarkasteltaessa kemiallisen sidoksen ioniluonnetta  elektrononegatiivisuuseron avulla, voidaan osa metallien ja epämetalliatomien sidoksista luokitella kovalenttiseksi sidokseksi. Epämetalliatomeista muodostuneita yhdisteitä nimitetään molekyyleiksi. Toisin sanoen **{index}`molekyyli`t** ovat epämetalliatomien yhteenliittymiä, joissa atomit jakavat elektronipareja yhteiseen käyttöön oktettirakenteen saavuttamiseksi. Kovalenttisessa sidoksessa sidoselektronit eivät täten pääse liikkumaan atomista toiseen, joten molekyylit johtavat hyvin huonosti sähköä.
 
 ### Nimeäminen
@@ -43,4 +43,4 @@ Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai
 | CO<sub>2</sub>             | hiili**di**oksidi              | -                 |
 | NH<sub>3</sub>             | typpi**tri**hydridi            | ammoniakki        |
 | CCl<sub>4</sub>            | **tetra**kloorimetaani         | hiilitetrakloridi |
-| P<sub>3</sub>N<sub>5</sub> | **tri**fosfori**penta**nitridi |                   |
+| P<sub>3</sub>N<sub>5</sub> | **tri**fosfori**penta**nitridi | -                 |
