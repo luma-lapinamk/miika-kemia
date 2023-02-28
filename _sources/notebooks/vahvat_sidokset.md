@@ -26,3 +26,21 @@ Taulukot.com
 ## {index}`Metallisidos`
 
 ## {index}`Kovalenttinen sidos`
+Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, mutta tarkasteltaessa kemiallisen sidoksen ioniluonnetta  elektrononegatiivisuuseron avulla, voidaan osa metallien ja epämetalliatomien sidoksista luokitella kovalenttiseksi sidokseksi. Epämetalliatomeista muodostuneita yhdisteitä nimitetään molekyyleiksi. Toisin sanoen **{index}`molekyyli`t** ovat epämetalliatomien yhteenliittymiä, joissa atomit jakavat elektronipareja yhteiseen käyttöön oktettirakenteen saavuttamiseksi. Kovalenttisessa sidoksessa sidoselektronit eivät täten pääse liikkumaan atomista toiseen, joten molekyylit johtavat hyvin huonosti sähköä.
+
+### Nimeäminen
+Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai atomiryhmien keskinäiset lukumäärälliset suhteet. Atomien lukumäärä molekyylissä ilmoitetaan kreikkalaisilla etuliitteillä.
+
+| Kreikkalaiset etuliitteet | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| -------- | ---- | -- | --- | ----- | ----- | ----- | ----- | ---- | ---------------- | ---- |
+| Etuliite | mono | di | tri | tetra | penta | heksa | hepta | okta | ennea (tai nona) | deka |
+
+Esimerkkejä
+
+| molekyylikaava             | IUPAC:n mukaan         |
+| -------------------------- | ---------------------- |
+| CO                         | hiilimonoksidi         |
+| CO<sub>2</sub>             | hiilidioksidi          |
+| SF<sub>3</sub>             | rikkitrifluoridi       |
+| CCl<sub>4</sub>            | tetrakloorimetaani     |
+| P<sub>3</sub>N<sub>5</sub> | trifosforipentanitridi |
