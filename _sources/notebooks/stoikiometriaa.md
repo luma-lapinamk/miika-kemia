@@ -29,8 +29,23 @@ $n = \frac{m}{M}$
 
 :::{admonition} Esimerkki: kultaharkon ainemäärä
 :class: tip
-Olkoon puhtaasta kullasta valetun harkon massa 12,5 kg. Koska kullan moolimassa on 196,97 mol/g, tulee massa muuttaa ensin grammoiksi. Tällöin $m(Au) = 12,5 \cdot 1000 g = 12 500 g.
+Olkoon puhtaasta kullasta valetun harkon massa 12,5 kg. Koska kullan moolimassa on 196,97 mol/g, tulee massa muuttaa ensin grammoiksi. Tällöin $m(Au) = 12,5 \cdot 1000 \ g = 12 500 \ g$.
 
 Ainemääräksi saadaan
-$n = \frac{m}{M}=\frac{12 500 \text(g)}{196,97 \text(g/mol)}=63,461 \dots \text{mol} \approx 63,5 \text{mol}$
+$n = \frac{m}{M}=\frac{12 500 \ g}{196,97 \ \frac{g}{mol} }=63,461 \dots mol \approx 63,5 \ mol$
 :::
+
+## Kemiallisten reaktioiden suhteet
+Tarkastellaan tasapainotettuja kemiallisia reaktiota, joissa lähtöaineiden ja reaktiotuotteiden kertoimet ovat valmiiksi annettu. Esimerkkinä olkoon ammoniakin valmistus typpi- ja vetykaasuista (ammoniakkisynteesi ns. <a href="https://en.wikipedia.org/wiki/Haber_process" target="_blank">Haber-Bosch -menetelmällä</a>).
+
+<center>N<sub>2</sub> + 3 H<sub>2</sub> → 2 NH<sub>3</sub></center>
+<br>
+
+Reaktioyhtälön kertoimista nähdään, että kun yksi typpimolekyyliä reagoi kolmen vetymolekyylin kanssa, syntyy kaksi molekyyliä ammoniakkia. Reaktiossa siis syntyy määrällisesti kaksi kertaa enemmän ammoniakkia, kuin mitä typpikaasua oli käytössä. Koska kemialliseen reaktioon osallistuu aina valtavan paljon suurempi määrä ainetta kuin yksittäiset molekyylit, on mielekkäämpä puhua, että kun *yksi mooli* typpeä ja *kolme moolia* vetyä reagoivat, syntyy *kaksi moolia* ammoniakkia. Samalla reaktiossa kuluu vetykaasua kolme kertaa enemmän kuin typpikaasua.
+
+:::{admonition} Esimerkki: ammoniakkisynteesi
+:class: tip
+Olkoon reaktioastiassa typpikaasua (N<sub>2</sub>) 5,2 moolia. Kun typpi reagoi vetykaasun (H<sub>2</sub>) kanssa, reaktioyhtälön kertoimien mukaan tämä kuluttaa vetyä kolme kertaa enemmän eli $3 \cdot 5,2 \ \text{moolia} = 15,6 \ \text{moolia}$. Reaktiossa syntyy ammoniakkia $2 \cdot 5,2 \ \text{moolia} = 10,4 \ \text{moolia}$.
+:::
+
+*Sitten tähän vaikeampi esimerkki ja se "idioottivarma" tapa, sekä toinen esimerkki massoilla.*
