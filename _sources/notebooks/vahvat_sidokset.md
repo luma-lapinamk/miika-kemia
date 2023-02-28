@@ -8,7 +8,7 @@ Tarkastellaan seuraavaksi, miten atomit voivat liittyä erilaisissa yhdisteissä
 Kyseisten sidosten katkaiseminen vaatii paljon energiaa. Vahvojen kemiallisten sidosten muodostuminen pääryhmien alkuaineiden välillä voidaan selittää melko hyvin Bohrin atomimallilla, vaikkakin hapetuslukujen ja elektronien tarkemman siirtymisen atomilta toiselle ymmärtäminen vaatii usein kvanttimekaanista atomimallia.
 
 ## {index}`Elektronegatiivisuus` KESKEN
-**Elektronegatiivisuudella** tarkoitetaan atomin suhteellista kykyä vetää kemiallisen sidoksen muodostumiseen osallistuvia **sidoselektroneja** puoleensa. Taulukkoarvot kuvaavat siis vain alkuaineiden keskinäistä suhdetta, ja usein riittääkin tarkastella, kummalla sidokseen osallistuvalla atomilla on suurempi **{index}`elektronegatiivisuusarvo`** ja kuinka suuri on taulukkoarvoista laskettu **{index}`elektronegatiivisuusero`**. Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on yli 1.6, sidos lasketaan ionisidokseksi.
+**Elektronegatiivisuudella** tarkoitetaan atomin suhteellista kykyä vetää kemiallisen sidoksen muodostumiseen osallistuvia **sidoselektroneja** puoleensa. Taulukkoarvot kuvaavat siis vain alkuaineiden keskinäistä suhdetta, ja usein riittääkin tarkastella, kummalla sidokseen osallistuvalla atomilla on suurempi **{index}`elektronegatiivisuusarvo`** ja kuinka suuri on taulukkoarvoista laskettu **{index}`elektronegatiivisuusero`**. Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi.
 
 https://www.taulukot.com/kemia/alkuaineet/#elektronegatiivisuus_%C2%A0_(l._paulingin_mukaan)
 
@@ -18,8 +18,6 @@ Taulukkoarvoina käytetään yleensä Linus Paulingin mittaamia kokeellisia arvo
 Hiilen elektronegatiivisuusarvo on  Taulukkoarvo
 :::
 
-Mitä suurempi on atomin kyky vetää sidoselektroneja puoleensa, sitä enemmän se lasketaan ioniksi.
-Taulukot.com
 
 ## {index}`Ionisidos`
 
@@ -42,10 +40,10 @@ Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai
 
 **Esimerkkejä**
 
-| molekyylikaava             | IUPAC:n mukaan                 | triviaalinimi     |
-| -------------------------- | ------------------------------ | ----------------- |
-| CO                         | hiili**mono**ksidi             | häkä              |
-| CO<sub>2</sub>             | hiili**di**oksidi              | -                 |
-| NH<sub>3</sub>             | typpi**tri**hydridi            | ammoniakki        |
-| CCl<sub>4</sub>            | **tetra**kloorimetaani         | hiilitetrakloridi |
-| P<sub>3</sub>N<sub>5</sub> | **tri**fosfori**penta**nitridi | -                 |
+| molekyylikaava             | IUPAC:n mukaan (systemaattinen nimi) | triviaali- eli kaupallinen nimi |
+| -------------------------- | ------------------------------------ | ------------------------------- |
+| CO                         | hiili**mono**ksidi                   | häkä                            |
+| CO<sub>2</sub>             | hiili**di**oksidi                    | -                               |
+| NH<sub>3</sub>             | typpi**tri**hydridi                  | ammoniakki                      |
+| CCl<sub>4</sub>            | **tetra**kloorimetaani               | hiilitetrakloridi               |
+| P<sub>3</sub>N<sub>5</sub> | **tri**fosfori**penta**nitridi       | -                               |
