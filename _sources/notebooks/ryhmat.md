@@ -15,7 +15,7 @@ Jaksollisen järjestelmän pääryhmät I-VIII, kuvan lähde: <a href="https://p
 ```
 
 ## I {index}`Alkalimetallit`
-Alkalimetalleilla on vain yksi elektroni uloimmalla kuorellaan (s-orbitaalilla). Ne pyrkivät saavuttamaan oktettirakenteen luovuttamalla pois tämän ulkoelektroninsa, minkä seurauksna niiden varaus ionina on aina +1.
+Alkalimetalleilla on vain yksi elektroni uloimmalla kuorellaan (s-orbitaalilla). Ne pyrkivät saavuttamaan oktettirakenteen luovuttamalla pois tämän ulkoelektroninsa, minkä seurauksena niiden varaus ionina on aina +1.
 
 Alkalimetallit ovatkin erittäin reaktiivisia ja muodostavat helposti yhdisteitä muiden alkuaineiden kanssa. Niinpä ne eivät esiinny luonnossa alkuaineina. Alkalimetallit hapettuvat ollessaan kosketuksissa ilman kanssa, jolloin niiden metallikiilto himmenee. Alkalimetallit reagoivat hyvin voimakkaasti veden kanssa, jolloin syntyy alkalimetallihydroksidia (XOH, jossa X on alkalimetalli) ja vetykaasua (alkuainevetyä H<sub>2</sub>). Reaktiossa vapautuu erittäin paljon lämpöenergiaa (eksoterminen reaktio), minkä vuoksi muodostunut vetykaasu voi räjähtää ilmassa olevan hapen kanssa.
 

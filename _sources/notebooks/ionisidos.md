@@ -5,6 +5,8 @@ Alla esimerkkinä ionisidoksen syntymisestä, kun natriumatomi (Na) luovuttaa ul
 
 <p><a href="https://commons.wikimedia.org/wiki/File:NaF.gif#/media/File:NaF.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif" alt="NaF.gif" align="center"></a><br><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15539913">Link</a></p>
 
+
+
 Kationit ja anionit järjestäytyvät kolmiulotteiseen rakenteeseen, jota kutsutaan **{index}`ionihila`ksi**.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Sodium-fluoride-3D-ionic.png#/media/File:Sodium-fluoride-3D-ionic.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Sodium-fluoride-3D-ionic.png" alt="Sodium-fluoride-3D-ionic.png" align="center" height="480" width="454" ></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1799711">Link</a></p>
@@ -18,12 +20,38 @@ Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kool
 
 Kun ioniyhdiste liukenee veteen, ionit irtoavat toisistaan ja sekoittuvat vesimolekyylien kanssa. Tämä tapahtuu, koska pienet pooliset vesimolekyylit pystyvät ympäröimään hilarakenteen uloimpia ioneja, kiinnittymään niihin ja heikentämään ionien välistä vetovoimaa. Tällöin ionit irtoavat yksitellen ionihilasta ja liukenevat veden sekaan. Tästä syytä suolojen vesiliuokset eli **{index}`elektrolyytit`** johtavat sähköä.
 
-Liukoisuus on riippuvainen lämpötilasta. Yleensä suolan liukoisuus kasvaa veden lämpötilan kasvaessa mutta näin ei läheskään aina ole, kuten alla olevasta kuvasta voidaan huomata. Esimerkiksi ruokasuolan (<font color="pink">NaCl</font>) liukoisuus ei juurikaan muutu lämpötilan funktiona.
+<iframe src="https://phet.colorado.edu/sims/cheerpj/sugar-and-salt-solutions/latest/sugar-and-salt-solutions.html?simulation=sugar-and-salt-solutions&locale=fi"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
+
+Liukoisuus on riippuvainen lämpötilasta. Yleensä suolan liukoisuus kasvaa veden lämpötilan kasvaessa mutta näin ei läheskään aina ole, kuten alla olevasta kuvasta voidaan huomata. Esimerkiksi ruokasuolan (<font color="violet">NaCl</font>) liukoisuus ei juurikaan muutu lämpötilan funktiona.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:SolubilityVsTemperature.png#/media/File:SolubilityVsTemperature.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/SolubilityVsTemperature.png" alt="SolubilityVsTemperature.png"></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1608561">Link</a></p>
 
-Kun suolaa lisätään liuokseen yhä enemmissä määrin, jossain vaiheessa saavutetaan piste, jonka jälkeen suolaa ei enää liukene. Tällöin liuos on **{index}`kylläinen liuos`**. Vaikka liuos voi olla kylläinen yhden suolan suhteen, siihen voi vielä liueta jotain toista suolaa. On myös mahdollista valmistaa **{index}`ylikylläinen liuos`** alentamalla kuuman kylläisen liuoksen lämpötilaa hallitusti. Esimerkiksi kädenlämmittimien toiminta perustuu ylikylläiseen liuokseen. Kun liuoksen sisällä olevaa metallinappia naksauttaa, metallinapin nopea liike törmäyttää ioneja tarpeeksi suurella voimalla toisiinsa ja aloittaa ketjureaktion, jonka seurauksena suolan kiteytyminen alkaa metallinapin pinnalta leviämään ympäröivään liuokseen.
+Kun suolaa lisätään liuokseen yhä enemmissä määrin, jossain vaiheessa saavutetaan piste, jonka jälkeen suolaa ei enää liukene. Tällöin lisätty suola vajoaa astian pohjalle ja liuos on **{index}`kylläinen liuos`**. Vaikka liuos voi olla kylläinen yhden suolan suhteen, siihen voi vielä liueta jotain toista suolaa. Yhdistämällä kahta eri suolaa samaan liuokseen on mahdollista saostaa liuoksesta jokin haluttu ioni pois siten, että syntyy niukkaliukoinen suola.
 
+:::{admonition} Esimerkki: hopean {index}`saostaminen` liuoksesta
+:class: tip
+Hopeaioneja sisältävästä liuoksesta halutaan saostaa hopea pois. Kun liuokseen lisätään natriumkloridia, hopea- ja kloridi-ionit reagoivat keskenään ja muodostavat kiinteän hopeakloridisaostuman, joka painovoiman vaikutuksesta painuu reaktioastian pohjalle.
+
+Reaktio voidaan esittää seuraavasti:
+
+$Ag^+ \text{(aq)} + Cl^- \text{(aq)} \to AgCl \text{(s)}$
+
+Reaktioyhtälössä merkintä *(aq) (= aquous solution*) tarkoittaa, että hopea- (Ag<sup>+</sup>) ja kloridi-ionit (Cl<sup>-</sup>) ovat liuenneena veteen ja *(s) (= solid)* tarkoittaa pohjalle muodostuvaa kiinteää hopeakloridi (AgCl) saostumaa eli {index}`sakka`a.
+:::
+
+On myös mahdollista valmistaa **{index}`ylikylläinen liuos`** alentamalla kuuman kylläisen liuoksen lämpötilaa hallitusti. Esimerkiksi kädenlämmittimien toiminta perustuu natriumasetaatin (CH<sub>3<sub>COO<sup>-</sup>Na<sup>+</sup>) ylikylläiseen liuokseen. Kun liuoksen sisällä olevaa metallinappia naksauttaa, metallinapin nopea liike törmäyttää liuenneita ioneja tarpeeksi suurella voimalla toisiinsa ja aloittaa metallinapin pinnalla ketjureaktion, jonka seurauksena suolan kiteytyminen alkaa leviämään ympäröivään liuokseen.
+    
+<iframe src="https://phet.colorado.edu/sims/cheerpj/soluble-salts/latest/soluble-salts.html?simulation=soluble-salts&locale=fi"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
+
+Alla olevalla videolla esitellään ylikylläisen natriumasetaattiliuoksen valmistus ja kiteytymisreaktio.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I2hOhOIATII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
