@@ -72,14 +72,14 @@ Hiilen allotrooppisia muotoja, kuvan lähde: <a href="https://en.wikipedia.org/w
 >
 > h) **{index}`hiilinanoputki`**: putkimainen hiilen muoto, jossa kerros grafeenia on "rullalla" eli hiiliatomit ovat järjestäytyneet sylinteriksi. Käytetään esimerkiksi komposiittimateriaaleissa ja sähköisten laitteiden valmistuksessa.
 
-## V {index}`Typpiryhmä` kesken
+## V {index}`Typpiryhmä` (kesken)
 
 Typpiryhmän alkuaineiden atomeilla on 5 ulkoeletkronia: 2 s-orbitaalilla ja 3 p-orbitaaleilla saman suuntaisin spinein. Ryhmään kuuluu kaksi tärkeää epämetallia: typpi (nitridi-ioni N<sup>3-</sup>) ja fosfori (fosfidi-ioni F<sup>3-</sup>), jotka ovat tunnettuja lannoitteiden raaka-aineina. Fosforilannoitteet ovat yleisesti fosfaatteja (PO<sub>4</sub><sup>3-</sup>), kun taas typpilannoitteet ovat nitraatteja (NO<sub>3</sub><sup>-</sup>). Nitraatteja käytetään myös räjähteissä. Esimerkki kalsiumfosfaatista Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>) on apatiitti, joka on löydettävissä muun muassa Soklin esiintymästä.
 
-## VI {index}`Happiryhmä` kesken
+## VI {index}`Happiryhmä` (kesken)
 Happiryhmä koostuu viidestä alkuaineesta, jotka kaikki tarvitsevat kaksi elektronia täyttääkseen ulkokuorensa oktetin. Ryhmään kuuluvat epämetallit happi rikki ja seleeni, sekä metalliset telluuri ja polonium. Happi ja rikki esiintyvät -2-ionina, jolloin niitä nimitetään oksideiksi (O<sup>2-</sup>) ja sulfideiksi (S<sup>2-</sup>). Happi on maankuoren yleisin alkuaine (noin 46.6 % maankuoren massasta)(allotropia, palamisreaktiot...) Rikki (rikkikiisut, rikkihappo...) Happiryhmän alkuaineita käytetään laajasti erilaisissa sovelluksissa, kuten metallien louhinnassa ja rikin poistamisessa polttoaineista.
 
-## VII {index}`Halogeenit` kesken
+## VII {index}`Halogeenit` (kesken)
 Halogeenit ovat ryhmä erittäin reaktiivisia epämetalleja johtuen niiden yhden ulkoelektronin vajauksesta oktetista. Halogeenien ionivaraus on täten -1.
 
 Fluori on halogeeneista elektronegatiivisin, sillä sen atomisäde on pienin (ulkoelektronien kokema ytimen vetovoima suurin). Fluoripitoisia yhdisteitä käytetään hammastahnassa ja juomaveden fluoraamisessa, koska fluorin uskotaan ehkäisevän hammaskariesta. Vetyfluoridia (HF), jota veteen liuotettuna kutsutaan fluorivetyhapoksi, käytetään esimerkiksi lasin ja metallien syövyttämisessä, puhdistuksessa ja öljynjalostuksessa. **{index}`Freonit`** ovat fluoria, klooria ja hiiltä sisältävien yhdisteisen ryhmä (ns. CFC-yhdisteet), joita käytettiin aiemmin kylmäaineina ja ilmastointijärjestelmissä sekä spray-purkeissa, mutta niiden käyttö on nykyään kielletty niiden otsonia tuhoavan vaikutuksen johdosta. Lue lisää historiallisesta Montrealin pöytäkirjasta: <a href="https://energyplaza.vattenfall.fi/blogi/freonipaastot-kuriin-yhteisin-ponnistuksin" target="_blank">Freonipäästöt saatiin kuriin yhteisin ponnistuksin</a> (*viitattu 26.2.2023*).
