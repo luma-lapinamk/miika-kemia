@@ -1,8 +1,8 @@
 # Metallit ja epämetallit
 
-Jaksollinen järjestelmä jakaa alkuaineet karkeasti metalleihin, epämetalleihin ja puolimetalleihin. Tarkempi tarkastelu tekee eron vielä siirtymämetalleihin sekä jalokaasuihin, jotka useissa lähdemateriaaleissa luetaan epämetalleiksi. Jalokaasut eivät reagoi kemiallisesti kuten epämetallit, joten tässä oppimateriaalissa jalokaasuja ei lueta epämetalleiksi.
+Jaksollinen järjestelmä jakaa alkuaineet karkeasti metalleihin, epämetalleihin ja puolimetalleihin. Tarkempi tarkastelu tekee eron vielä siirtymämetalleihin sekä jalokaasuihin, jotka useissa lähdemateriaaleissa luetaan epämetalleiksi. Jalokaasut eivät kuitenkaan reagoi kemiallisesti kuten epämetallit, joten tässä oppimateriaalissa jalokaasuja ei lueta epämetalleiksi.
 
-Kemiallisisten reaktioiden tarkempi tarkastelu osoittaa niiden olevan elektronien siirtoreaktioita. Atomit voivat siis luovuttaa tai vastaanottaa elektroneitaan, tai jakaa niitä yhteiseen käyttöön. Taustalla vaikuttaa atomien pyrkimys pysyvään energiaminimitilaan eli **{index}`oktetti`in**, jossa atomilla on Bohrin atomimallin mukaisesti kahdeksan ulkoelektronia.
+Kemiallisisten reaktioiden tarkempi tarkastelu osoittaa reaktioiden olevan elektronien siirtoreaktioita. Atomit voivat siis luovuttaa tai vastaanottaa elektroneitaan, tai jakaa niitä yhteiseen käyttöön. Taustalla vaikuttaa atomien pyrkimys pysyvään energiaminimitilaan eli **{index}`oktetti`in**, jossa atomilla on Bohrin atomimallin mukaisesti kahdeksan ulkoelektronia.
 
 ## {index}`Metallit`
 :::{admonition} Metallit

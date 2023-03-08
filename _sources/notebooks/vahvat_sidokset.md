@@ -8,14 +8,15 @@ Tarkastellaan seuraavaksi, miten atomit voivat liittyä erilaisissa yhdisteissä
 Kyseisten sidosten katkaiseminen vaatii paljon energiaa. Vahvojen kemiallisten sidosten muodostuminen pääryhmien alkuaineiden välillä voidaan selittää melko hyvin Bohrin atomimallilla, vaikkakin hapetuslukujen ja elektronien tarkemman siirtymisen atomilta toiselle ymmärtäminen vaatii usein kvanttimekaanista atomimallia.
 
 ## {index}`Elektronegatiivisuus` KESKEN
-**Elektronegatiivisuudella** tarkoitetaan atomin suhteellista kykyä vetää kemiallisen sidoksen muodostumiseen osallistuvia **sidoselektroneja** puoleensa. Taulukkoarvot kuvaavat siis vain alkuaineiden keskinäistä suhdetta, ja usein riittääkin tarkastella, kummalla sidokseen osallistuvalla atomilla on suurempi **{index}`elektronegatiivisuusarvo`** ja kuinka suuri on taulukkoarvoista laskettu **{index}`elektronegatiivisuusero`**. Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi.
+**Elektronegatiivisuudella** tarkoitetaan atomin suhteellista kykyä vetää kemiallisen sidoksen muodostumiseen osallistuvia **sidoselektroneja** puoleensa. Taulukkoarvot kuvaavat siis vain alkuaineiden keskinäistä suhdetta, ja usein riittääkin tarkastella, kummalla sidokseen osallistuvalla atomilla on suurempi **{index}`elektronegatiivisuusarvo`** ja kuinka suuri on taulukkoarvoista laskettu **{index}`elektronegatiivisuusero`**. Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi. Tällöin sanotaan, että sidoksen **{index}`ioniluonne`** on prosentteina yli 50 %. Todellisuudessa selkeää jakoa ionisidoksen ja kovalenttisen sidoksen välillä voida näin karkeasti aina tehdä, mutta taulukko riittää tekemään suhteellisen hyvät tulkinnat sidoksen luonteesta.
 
-https://www.taulukot.com/kemia/alkuaineet/#elektronegatiivisuus_%C2%A0_(l._paulingin_mukaan)
+> <a href="https://www.taulukot.com/kemia/alkuaineet/#sidoksen_ioniluonne%C2%A0%C2%A0_(l._paulingin_mukaan)" target="_blank">Taulukot.com: sidoksen ioniluonne (L. Paulingin mukaan)</a>
+> <a href="https://www.taulukot.com/kemia/alkuaineet/#elektronegatiivisuus_%C2%A0_(l._paulingin_mukaan)" target="_blank">Taulukot.com: elektronegatiivisuus   (L. Paulingin mukaan)</a>
 
 Taulukkoarvoina käytetään yleensä Linus Paulingin mittaamia kokeellisia arvoja vuodelta 1932.
 :::{admonition} Esimerkki: hiilimonoksidi (CO)
 :class: tip
-Hiilen elektronegatiivisuusarvo on  Taulukkoarvo
+Hiilimonoksidiyhdisteessä on yksi hiili- ja happiatomit sitoutunut toisiinsa. Kumpikin luokitellaan epämetalleiksi, joten syntyneen sidoksen voidaan olettaa olevan kovalenttinen. Hiilen elektronegatiivisuusarvo on 2,5 ja hapen 3,5. Täten elektronegatiivisuusero on 3,5 - 2,5 = 1,0. Koska elektronegatiivisuusero on alle 1,7, sidos tulkitaan kovalenttiseksi. Sidoksen ioniluonne on L. Paulingin mukaan 22 %.
 :::
 
 
