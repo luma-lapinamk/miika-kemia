@@ -8,24 +8,44 @@ Tarkastellaan seuraavaksi, miten atomit voivat liittyä erilaisissa yhdisteissä
 Kyseisten sidosten katkaiseminen vaatii paljon energiaa. Vahvojen kemiallisten sidosten muodostuminen pääryhmien alkuaineiden välillä voidaan selittää melko hyvin Bohrin atomimallilla, vaikkakin hapetuslukujen ja elektronien tarkemman siirtymisen atomilta toiselle ymmärtäminen vaatii usein kvanttimekaanista atomimallia.
 
 ## {index}`Elektronegatiivisuus` KESKEN
-**Elektronegatiivisuudella** tarkoitetaan atomin suhteellista kykyä vetää kemiallisen sidoksen muodostumiseen osallistuvia **sidoselektroneja** puoleensa. Taulukkoarvot kuvaavat siis vain alkuaineiden keskinäistä suhdetta, ja usein riittääkin tarkastella, kummalla sidokseen osallistuvalla atomilla on suurempi **{index}`elektronegatiivisuusarvo`** ja kuinka suuri on taulukkoarvoista laskettu **{index}`elektronegatiivisuusero`**. Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi. Tällöin sanotaan, että sidoksen **{index}`ioniluonne`** on prosentteina yli 50 %. Todellisuudessa selkeää jakoa ionisidoksen ja kovalenttisen sidoksen välillä voida näin karkeasti aina tehdä, mutta taulukko riittää tekemään suhteellisen hyvät tulkinnat sidoksen luonteesta.
+**Elektronegatiivisuudella** tarkoitetaan atomin suhteellista kykyä vetää kemiallisen sidoksen muodostumiseen osallistuvia **sidoselektroneja** puoleensa. Taulukkoarvot kuvaavat siis vain alkuaineiden keskinäistä suhdetta, ja usein riittääkin tarkastella, kummalla sidokseen osallistuvalla atomilla on suurempi **{index}`elektronegatiivisuusarvo`** ja kuinka suuri on taulukkoarvoista laskettu **{index}`elektronegatiivisuusero`**. Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi. Tällöin sanotaan, että sidoksen **{index}`ioniluonne`** on prosentteina yli 50 %. Jos elektronegatiivisuusero on alle 1,7, sidos tulkitaan kovalenttiseksi sidokseksi.  Todellisuudessa selkeää jakoa ionisidoksen ja kovalenttisen sidoksen välillä voida näin karkeasti aina tehdä, mutta taulukko riittää tekemään suhteellisen hyvät tulkinnat sidoksen luonteesta.
 
+> Taulukkoarvoina käytetään yleensä Linus Paulingin mittaamia kokeellisia arvoja vuodelta 1932.
+>
 > <a href="https://www.taulukot.com/kemia/alkuaineet/#sidoksen_ioniluonne%C2%A0%C2%A0_(l._paulingin_mukaan)" target="_blank">Taulukot.com: sidoksen ioniluonne (L. Paulingin mukaan)</a>
+>
 > <a href="https://www.taulukot.com/kemia/alkuaineet/#elektronegatiivisuus_%C2%A0_(l._paulingin_mukaan)" target="_blank">Taulukot.com: elektronegatiivisuus   (L. Paulingin mukaan)</a>
 
-Taulukkoarvoina käytetään yleensä Linus Paulingin mittaamia kokeellisia arvoja vuodelta 1932.
-:::{admonition} Esimerkki: hiilimonoksidi (CO)
+:::{admonition} Esimerkki: alumiinimonoksidi (Al<sub>2</sub>O<sub>3</sub>)
 :class: tip
-Hiilimonoksidiyhdisteessä on yksi hiili- ja happiatomit sitoutunut toisiinsa. Kumpikin luokitellaan epämetalleiksi, joten syntyneen sidoksen voidaan olettaa olevan kovalenttinen. Hiilen elektronegatiivisuusarvo on 2,5 ja hapen 3,5. Täten elektronegatiivisuusero on 3,5 - 2,5 = 1,0. Koska elektronegatiivisuusero on alle 1,7, sidos tulkitaan kovalenttiseksi. Sidoksen ioniluonne on L. Paulingin mukaan 22 %.
+Alumiinioksidi on muodostunut alumiini- ja happiatomeista. Alumiini on metalli ja happi epämetalli, joten alumiini ja hapen välisten sidosten voidaan olettaa olevan ionisidoksia. Alumiinin elektronegatiivisuusarvo on 1,6 ja hapen 3,5. Täten elektronegatiivisuusero on 3,5 - 1,6 = 1,9 ja sidos tulkitaan ionisidokseksi. Sidoksen ioniluonne on L. Paulingin mukaan 59 %.
 :::
 
+:::{admonition} Esimerkki: hiilimonoksidi (CO)
+:class: tip
+Hiilimonoksidiyhdisteessä on yksi hiili- ja happiatomi sitoutunut toisiinsa. Kumpikin luokitellaan epämetalleiksi, joten syntyneen sidoksen voidaan olettaa olevan kovalenttinen. Hiilen elektronegatiivisuusarvo on 2,5 ja hapen 3,5. Täten elektronegatiivisuusero on 3,5 - 2,5 = 1,0. Koska elektronegatiivisuusero on alle 1,7, sidos tulkitaan kovalenttiseksi. Sidoksen ioniluonne on L. Paulingin mukaan 22 %.
+:::
 
 ## {index}`Ionisidos`
+Ionisidos muodostuu, kun metalliatomi luovuttaa yhden tai useamman ulkoelektronin epämetalliatomille. Koska luovutettujen elektronien sähkövaraus on negatiivinen (yksi alkeisvaraus), metalliatomista tulee positiivinen ioni, **{index}`kationi`**, ja epämetalliatomista negatiivinen **{index}`anioni`**. Positiivisen ja negatiivisen ionin välillä on sähköinen vuorovaikutus, vetovoima, mikä kiinnittää ne toisinssa. Syntynyttä vahvaa kemiallista sidosta kutsutaan ionisidokseksi.
+
+<p><a href="https://commons.wikimedia.org/wiki/File:NaF.gif#/media/File:NaF.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif" alt="NaF.gif"></a><br>By &lt;a href="//commons.wikimedia.org/w/index.php?title=User:Wdcf&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Wdcf (page does not exist)"&gt;Wdcf&lt;/a&gt; - &lt;span class="int-own-work" lang="en"&gt;Own work&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15539913">Link</a></p>
+
+Kationit ja anionit järjestäytyvät kolmiulotteiseen rakenteeseen, jota kutsutaan **{index}`ionihila{index}`ksi**.
+
+<p><a href="https://commons.wikimedia.org/wiki/File:NaCl_bonds.svg#/media/File:NaCl_bonds.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NaCl_bonds.svg/1200px-NaCl_bonds.svg.png" alt="NaCl bonds.svg"></a><br>By Goran tek-en, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=109449008">Link</a></p>
+
+Ionisidos tekee aineesta yleensä huoneenlämmössä kiinteän, kovan ja hauraan, koska ionit ovat järjestäytyneet tiiviiseen hilarakenteeseen eivätkä pysty liikkumaan toistensa suhteen. **{index}`Ioniyhdiste{index}`ille** eli **suoloille** on tyypillistä korkeat sulamis- ja kiehumispisteet, koska vaaditaan suuri määrä energiaa ionien erottamiseen toisistaan. Esimerkiksi ruokasuolan (NaCl) sulamispiste on 802 °C ja kiehumispiste 1440 °C.
+
+Koska luovutetut elektronit ovat sitoutuneet anionien ympärille, **{index}`suola`t** eivät johda sähköä, sillä hilarakenteessa ei ole vapaita elektroneita, jotka voisivat liikkua hilarakenteen läpi. Sen sijaan suolasulate pystyy johtamaan sähköä, kun ionien lämpöliike on niin voimakasta, että ioniyhdisteen hilarakenne hajoaa ja ionit pystyvät liikkumaan toistensa lomassa. Höyrystettyä eli kaasumaisessa olomuodossa oleva ioniyhdiste, jonka ioneista irtoaa elektroneita, onkin jo esimerkki **{index}`plasma`sta**.
+
+### Suolojen liuokoisuus veteen
+Kun ioniyhdiste liukenee veteen, ionit irtoavat toisistaan ja sekoittuvat vesimolekyylien kanssa. Tämä tapahtuu, koska pienet pooliset vesimolekyylit pystyvät ympäröimään hilarakenteen uloimpia ioneja, kiinnittymään niihin ja heikentämään ionien välistä vetovoimaa. Tällöin ionit irtoavat yksitellen ionihilasta ja liukenevat veden sekaan. Kun ionit ympäröivät itsensä vesimolekyyleillä, ionin ympärille muodostuu ns. **{index}`hydraattiverho`**. Ionien ja vesimolekyylien välistä sidosta kutsutaan ionidipolisidokseksi, joka on esimerkki heikosta kemiallisesta sidoksta, joten siitä lisää kappaleessa *Heikot kemialliset sidokset* (linkki puuttuu).
 
 ## {index}`Metallisidos`
 
 ## {index}`Kovalenttinen sidos` KESKEN
-Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, mutta tarkasteltaessa kemiallisen sidoksen ioniluonnetta  elektrononegatiivisuuseron avulla, voidaan osa metallien ja epämetalliatomien sidoksista luokitella kovalenttiseksi sidokseksi. Epämetalliatomeista muodostuneita yhdisteitä nimitetään molekyyleiksi. Toisin sanoen **{index}`molekyyli`t** ovat epämetalliatomien yhteenliittymiä, joissa atomit jakavat elektronipareja yhteiseen käyttöön oktettirakenteen saavuttamiseksi. Kovalenttisessa sidoksessa sidoselektronit eivät täten pääse liikkumaan atomista toiseen, joten molekyylit johtavat hyvin huonosti sähköä.
+Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, vaikka tarkasteltaessa kemiallisen sidoksen ioniluonnetta  elektrononegatiivisuuseron avulla, voidaan osa metalli- ja epämetalliatomienkin sidoksista luokitella kovalenttisiksi sidoksiksi. Epämetalliatomeista muodostuneita yhdisteitä nimitetään molekyyleiksi. Toisin sanoen **{index}`molekyyli`t** ovat epämetalliatomien yhteenliittymiä, joissa atomit jakavat elektronipareja yhteiseen käyttöön oktettirakenteen saavuttamiseksi. Kovalenttisessa sidoksessa sidoselektronit eivät pääse liikkumaan atomista toiseen, joten molekyylit johtavat hyvin huonosti sähköä.
 
 ...
 
