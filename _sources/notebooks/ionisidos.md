@@ -5,7 +5,7 @@ Alla esimerkkinä ionisidoksen syntymisestä, kun natriumatomi (Na) luovuttaa ul
 
 <p><a href="https://commons.wikimedia.org/wiki/File:NaF.gif#/media/File:NaF.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif" alt="NaF.gif" align="center"></a><br><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15539913">Link</a></p>
 
-
+## Esimerkit (puuttuu)
 
 Kationit ja anionit järjestäytyvät kolmiulotteiseen rakenteeseen, jota kutsutaan **{index}`ionihila`ksi**.
 
@@ -14,6 +14,8 @@ Kationit ja anionit järjestäytyvät kolmiulotteiseen rakenteeseen, jota kutsut
 Ionisidos tekee aineesta yleensä huoneenlämmössä kiinteän, kovan ja hauraan, koska ionit ovat järjestäytyneet tiiviiseen hilarakenteeseen eivätkä pysty liikkumaan toistensa suhteen. **{index}`Ioniyhdiste`ille** eli **suoloille** on tyypillistä korkeat sulamis- ja kiehumispisteet, koska vaaditaan suuri määrä energiaa ionien erottamiseen toisistaan. Esimerkiksi kuvien natriumfluoridin (NaF) sulamispiste on 993 °C ja kiehumispiste 1704 °C.
 
 Koska luovutetut elektronit ovat sitoutuneet anionien ympärille, **{index}`suola`t** eivät johda sähköä, sillä hilarakenteessa ei ole vapaita elektroneita, jotka voisivat liikkua hilarakenteen läpi. Sen sijaan suolasulate pystyy johtamaan sähköä, kun ionien lämpöliike on niin voimakasta, että ioniyhdisteen hilarakenne hajoaa ja ionit pystyvät liikkumaan toistensa lomassa. Höyrystettyä eli kaasumaisessa olomuodossa oleva ioniyhdiste, jonka ioneista irtoaa elektroneita, onkin jo esimerkki **{index}`plasma`sta**.
+
+## Nimeäminen (puuttuu)
 
 ## Suolojen liuokoisuus veteen (siirtyy reaktioiden puolelle aikanaan)
 Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kooltaan ja varaukseltaan pienet ja yksinkertaiset ioniyhdisteet liukenevat yleensä helpommin kuin suuremmat ja monimutkaisemmat ioniyhdisteet. Suola on **{index}`niukkaliukoinen`**, jos sitä liukenee litraan huoneenlämpöistä vettä alle yhden gramman verran (liukoisuus alle 0,1 g / 100 ml). Esimerkkejä niukkaliukoisista suoloista ovat bariumsulfaatti (BaSO<sub>4</sub>), hopeakloridi (AgCl) ja lyijykloridi (PbCl<sub>2</sub>). Taulukosta <a href="https://www.taulukot.com/kemia/yhdisteet/#suolojen_liukoisuus_veteen" target="_blank">Suolojen liukoisuus veteen</a> voidaan nähdä useimpien suolojen liukoisuus veteen.
