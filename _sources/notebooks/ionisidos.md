@@ -20,13 +20,11 @@ Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kool
 
 Kun ioniyhdiste liukenee veteen, ionit irtoavat toisistaan ja sekoittuvat vesimolekyylien sekaan. Tämä tapahtuu, koska pienet pooliset vesimolekyylit pystyvät ympäröimään hilarakenteen uloimpia ioneja, kiinnittymään niihin ja heikentämään ionien välistä vetovoimaa. Tällöin ionit irtoavat yksitellen ionihilasta ja liukenevat veden sekaan. Tästä syytä suolojen vesiliuokset eli **{index}`elektrolyytit`** johtavat sähköä.
 
-<a href="https://fi.wikibooks.org/wiki/Lukion_taulukot/Er%C3%A4iden_suolojen_liukoisuus_kylm%C3%A4%C3%A4n_ja_kuumaan_veteen" target="_blank">Taulukko suolojen liukoisuudesta 0 °C asteiseen veteen</a>
-
 Liukoisuus on riippuvainen lämpötilasta. Yleensä suolan liukoisuus kasvaa veden lämpötilan kasvaessa mutta näin ei läheskään aina ole, kuten alla olevasta kuvasta voidaan huomata. Esimerkiksi ruokasuolan (NaCl) liukoisuus ei juurikaan muutu lämpötilan funktiona.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:CNX_Chem_11_03_solubility.png#/media/File:CNX_Chem_11_03_solubility.png"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/CNX_Chem_11_03_solubility.png" alt="CNX Chem 11 03 solubility.png" height="480" width="380"></a><br><a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64300230">Link</a></p>
 
-Kun suolaa lisätään liuokseen yhä enemmissä määrin, jossain vaiheessa saavutetaan piste, jonka jälkeen suolaa ei enää liukene. Tällöin lisätty suola vajoaa astian pohjalle ja liuos on **{index}`kylläinen liuos`**. Vaikka liuos voi olla kylläinen yhden suolan suhteen, siihen voi vielä liueta jotain toista suolaa.
+Kun suolaa lisätään liuokseen yhä enemmissä määrin, jossain vaiheessa saavutetaan piste, jonka jälkeen suolaa ei enää liukene. Tällöin lisätty suola vajoaa astian pohjalle ja liuos on **{index}`kylläinen liuos`**. Tässä linkki <a href="https://fi.wikibooks.org/wiki/Lukion_taulukot/Er%C3%A4iden_suolojen_liukoisuus_kylm%C3%A4%C3%A4n_ja_kuumaan_veteen" target="_blank">taulukkoon</a>, jossa on lueteltuna kuinka suuri määrä suoloja liukenee 0 °C asteiseen veteen. Vaikka liuos voi olla kylläinen yhden suolan suhteen, siihen voi vielä liueta jotain toista suolaa.
 
 On myös mahdollista valmistaa **{index}`ylikylläinen liuos`** alentamalla kuuman kylläisen liuoksen lämpötilaa hallitusti. Esimerkiksi kädenlämmittimien toiminta perustuu natriumasetaatin (CH<sub>3</sub>COO<sup>-</sup>Na<sup>+</sup>) ylikylläiseen liuokseen. Kun liuoksen sisällä olevaa metallinappia naksauttaa, metallinapin nopea liike törmäyttää liuenneita ioneja tarpeeksi suurella voimalla toisiinsa ja aloittaa metallinapin pinnalla ketjureaktion, jonka seurauksena suolan kiteytyminen alkaa leviämään ympäröivään liuokseen.
     
