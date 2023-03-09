@@ -16,13 +16,11 @@ Ionisidos tekee aineesta yleensä huoneenlämmössä kiinteän, kovan ja hauraan
 Koska luovutetut elektronit ovat sitoutuneet anionien ympärille, **{index}`suola`t** eivät johda sähköä, sillä hilarakenteessa ei ole vapaita elektroneita, jotka voisivat liikkua hilarakenteen läpi. Sen sijaan suolasulate pystyy johtamaan sähköä, kun ionien lämpöliike on niin voimakasta, että ioniyhdisteen hilarakenne hajoaa ja ionit pystyvät liikkumaan toistensa lomassa. Höyrystettyä eli kaasumaisessa olomuodossa oleva ioniyhdiste, jonka ioneista irtoaa elektroneita, onkin jo esimerkki **{index}`plasma`sta**.
 
 ## Suolojen liuokoisuus veteen (siirtyy reaktioiden puolelle aikanaan)
-Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kooltaan ja varaukseltaan pienet ja yksinkertaiset ioniyhdisteet liukenevat yleensä helpommin kuin suuremmat ja monimutkaisemmat ioniyhdisteet. Taulukosta <a href="https://www.taulukot.com/kemia/yhdisteet/#suolojen_liukoisuus_veteen" target="_blank">Suolojen liukoisuus veteen</a> voidaan nähdä useimpien suolojen liukoisuus veteen.
+Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kooltaan ja varaukseltaan pienet ja yksinkertaiset ioniyhdisteet liukenevat yleensä helpommin kuin suuremmat ja monimutkaisemmat ioniyhdisteet. Suola on **{index}`niukkaliukoinen`**, jos sitä liukenee litraan huoneenlämpöistä vettä alle yhden gramman verran (liukoisuus alle 0,1 g / 100 ml). Esimerkkejä niukkaliukoisista suoloista ovat bariumsulfaatti (BaSO<sub>4</sub>), hopeakloridi (AgCl) ja lyijykloridi (PbCl<sub>2</sub>). Taulukosta <a href="https://www.taulukot.com/kemia/yhdisteet/#suolojen_liukoisuus_veteen" target="_blank">Suolojen liukoisuus veteen</a> voidaan nähdä useimpien suolojen liukoisuus veteen.
 
-Kun ioniyhdiste liukenee veteen, ionit irtoavat toisistaan ja sekoittuvat vesimolekyylien kanssa. Tämä tapahtuu, koska pienet pooliset vesimolekyylit pystyvät ympäröimään hilarakenteen uloimpia ioneja, kiinnittymään niihin ja heikentämään ionien välistä vetovoimaa. Tällöin ionit irtoavat yksitellen ionihilasta ja liukenevat veden sekaan. Tästä syytä suolojen vesiliuokset eli **{index}`elektrolyytit`** johtavat sähköä.
+Kun ioniyhdiste liukenee veteen, ionit irtoavat toisistaan ja sekoittuvat vesimolekyylien sekaan. Tämä tapahtuu, koska pienet pooliset vesimolekyylit pystyvät ympäröimään hilarakenteen uloimpia ioneja, kiinnittymään niihin ja heikentämään ionien välistä vetovoimaa. Tällöin ionit irtoavat yksitellen ionihilasta ja liukenevat veden sekaan. Tästä syytä suolojen vesiliuokset eli **{index}`elektrolyytit`** johtavat sähköä.
 
-| Taulukko | liukoisuudesta | puuttuu! g/dl |
-| -------- | -------------- | ------------ |
-| erittäin liukoinen | CaNO3 | 158,7 |
+<a href="https://fi.wikibooks.org/wiki/Lukion_taulukot/Er%C3%A4iden_suolojen_liukoisuus_kylm%C3%A4%C3%A4n_ja_kuumaan_veteen" target="_blank">Taulukko suolojen liukoisuudesta 0 °C asteiseen veteen</a>
 
 Liukoisuus on riippuvainen lämpötilasta. Yleensä suolan liukoisuus kasvaa veden lämpötilan kasvaessa mutta näin ei läheskään aina ole, kuten alla olevasta kuvasta voidaan huomata. Esimerkiksi ruokasuolan (NaCl) liukoisuus ei juurikaan muutu lämpötilan funktiona.
 
@@ -47,7 +45,15 @@ Alla olevalla videolla esitellään ylikylläisen natriumasetaattiliuoksen valmi
 <br>
 <br>
 
-Kun ionit ympäröivät itsensä vesimolekyyleillä, ionin ympärille muodostuu ns. **{index}`hydraattiverho`**. Ionien ja vesimolekyylien välistä sidosta kutsutaan ionidipolisidokseksi, joka on esimerkki heikosta kemiallisesta sidoksta, joten siitä lisää kappaleessa *Heikot kemialliset sidokset* (linkki puuttuu).
+Kun ionit ympäröivät itsensä vesimolekyyleillä, ionien ympärille muodostuu ns. **{index}`hydraattiverho`**. Hydratoitunut metalli-ioni pystyy sitomaan ympärilleen eri määrän vesimolekyylejä riippuen kationin koosta ja varauksesta. Syntynyttä **{index}`hydraatti`a** (aine, johon on sitoutunut vettä) kutsutaan myös nimellä **{index}`akvakompleksi`**. Esimerkiksi kuparikationi pystyy sitomaan ympärilleen kuusi vesimolekyyliä. Tällaiset **{index}`kompleksi-ioni`t** merkitään hakasulkeisiin, joissa keskusatomina eli ligandina toimivan kupari-ionin perään merkitään kiinnittyneiden molekyylien määrä sulkeisiin ja ionin varaus hakasulkeiden ulkopuolelle seuraavasti: [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>. Kun akvakompleksin vesiliuosta haihdutetaan, vesimolekyylit voivat joissain tapauksissa järjestäytyä kiteytyvän suolan hilarakenteen sekaan. Suola, jonka hilarakenne sisältää vesimolekyylejä, on nimeltään **{index}`kidevedellinen suola`**. Kuparisulfaatti on vedettömänä eli **{index}`anhydraatti`na** kiinteää vaaleaa jauhetta mutta kidevedellisenä muodostaa sinertäviä kauniita kiteitä.
+
+```{figure-md} Kidevedellisen CuSO4
+<img src="../images/CuSO4.jpg" alt="kidevedelliden kuparisulfaatin kiteitä" class="bg-primary mb-1" width="150px" align="center">
+
+Kidevedelllinen kupari(II)sulfaatin pentahydraatti CuSO<sub>4</sub> · 5 H<sub>2</sub>O
+```
+
+Ionien ja vesimolekyylien välistä sidosta kutsutaan **ionidipolisidokseksi**, joka on esimerkki heikosta kemiallisesta sidoksta, joten siitä lisää kappaleessa *Heikot kemialliset sidokset* (linkki puuttuu).
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Sodium_chloride_dissolution.jpg#/media/File:Sodium_chloride_dissolution.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sodium_chloride_dissolution.jpg" alt="Sodium chloride dissolution.jpg" height="297" width="640"></a><br><a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51450525">Link</a></p>
     
