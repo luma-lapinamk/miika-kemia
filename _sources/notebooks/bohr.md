@@ -1,4 +1,4 @@
-# Bohrin atomimalli
+# {index}`Bohrin atomimalli`
 
 Tanskalainen fyysikon ja kemistin Nils Bohrin 1900-luvun alussa kehittämä atomimalli auttaa selittämään muunmuassa
 - miksi eri alkuaineet reagoivat eri tavalla
@@ -13,7 +13,7 @@ Bohrin atomimallissa on kuitenkin myös rajoituksia. Malli toimii hyvin käytän
 
 Bohrin atomimalli perustuu ajatukselle, että atomi koostuu ytimessä olevista protoneista ja neutroneista, joiden ympärillä liikkuu elektroneja eri energiatasoilla. Bohrin mallin mukaan elektronit liikkuvat ytimen ympärillä tietyillä, tarkkaan määritellyillä elektronikuorilla, joita merkintään kirjaimilla K, L, M, N jne. Nämä radat vastaavat eri energiatasoja, joilla elektroni voi olla.
 
-Elektronit täyttävät elektronikuoret sisimmältä kuorelta alkaen siten, että jokaiselle kuorelle mahtuu enintään $ 2n^2 $ elektronia, jossa $ n $ on kuoren numero, kuitenkin niin, että **uloimmalla elektronikuorella voi olla enintään 8 ulkoelektronia**. Tämä on nimeltään **{index}`oktettisääntö`**.
+Elektronit täyttävät elektronikuoret sisimmältä kuorelta alkaen siten, että jokaiselle kuorelle mahtuu enintään $ 2n^2 $ elektronia, jossa $ n $ on kuoren numero, kuitenkin niin, että **uloimmalla elektronikuorella voi olla enintään 8 {index}`ulkoelektroni`a** eli {index}`valenssielektroni`a.
 
 | Kuoren nro | elektronien suurin mahdollinen määrä |
 | ---------- | ------------------------------------ |

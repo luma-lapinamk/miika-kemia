@@ -45,13 +45,19 @@ Kun puhutaan molekyyliyhdisteen sisältämien atomien massojen summasta, käytet
 
 **{index}`Ioni`** syntyy atomista, joka on luovuttanut tai vastaanottanut elektroneita. Ionilla on täten varaus, joko positiivinen tai negatiivinen. Metalliatomeilla on kyky luovuttaa elektroneja, joten ne voivat esiintyvät positiivisina ioneina. Epämetalleilla on kyky vastaanottaa elektroneja, joten ne voivat esiintyvät yhdisteissä negatiivisina ioneina.
 
+```{figure-md} Aine
+<img src="../images/aine.png" alt="Aineen jako puhtaisiin aineisiin ja seoksiin." class="bg-primary mb-1" width="1500px" align="center">
+
+Aine voi olla puhdasta ainetta tai seosta.
+```
+
+**{index}`Puhdas aine`** koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ainetta voidaan pitää kemiallisesti homogeenisena, eli sen ominaisuudet ovat kaikkialla samat. Esimerkkejä puhtaista aineista ovat luonnossa usein puhtaana esiintyvä kulta $ (Au) $, puhdas vesi $ (H_2O) $, helium $ (He) $ ja muut jalokaasut sekä kloorikaasu $ (Cl_2) $.
+
 **{index}`Yhdiste`** (kemiallinen yhdiste) on aine, joka koostuu kahdesta tai useammasta eri alkuaineesta. Yhdisteillä on oma, tietty kemiallinen kaava, joka kuvaa alkuaineiden määrällistä suhdetta toisiinsa. Esimerkkejä yhdisteistä ovat vesi $ (H_2O) $, ruokasuola $ (NaCl) $ ja hiilidioksidi $ (CO_2) $. Yhdiste voi olla
 - metalliyhdiste
 - ioniyhdiste
 - molekyyliyhdiste
 - kompleksiyhdiste
-
-**{index}`Puhdas aine`** koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ainetta voidaan pitää kemiallisesti homogeenisena, eli sen ominaisuudet ovat kaikkialla samat. Esimerkkejä puhtaista aineista ovat luonnossa usein puhtaana esiintyvä kulta $ (Au) $, puhdas vesi $ (H_2O) $, helium $ (He) $ ja muut jalokaasut sekä kloorikaasu $ (Cl_2) $.
 
 **{index}`Seos`** koostuu kahdesta tai useammasta eri alkuaineesta tai yhdisteestä. Seokset eivät ole yhdisteitä, sillä niissä ainesosat eivät ole kemiallisesti sitoutuneet toisiinsa. Homogeenisessa seoksessa aineita ei voida erottaa silmin, toisin kuin heterogeenisessa seoksessa, jossa aineet ovat eri faaseissa. Esimerkkejä homogeenisista seoksista ovat mm. sementti ja teräs, öljy ja hanavesi sekä nestekaasu ja ilma. Heterogeenisiä seoksia ovat mm.
 - suspensiot: kiinteitä hiukkasia sekoittuneena nesteeseen. Liukenemattomat hiukkaset voivat laskeutua astian pohjalle, jos seos jätetään seisomaan. Esimerkkejä suspensioista ovat hiekka-vesi-seos ja maalit.
@@ -60,3 +66,7 @@ Kun puhutaan molekyyliyhdisteen sisältämien atomien massojen summasta, käytet
 - vaahdot: kaasukuplia, kuten ilmaa, nesteen sisällä. Vaahto on harvoin tasalaatuista, joten sen koostumus voi vaihdella eri kohdissa.
 
 Lisäksi on mahdollista, että kiinteään aineeseen on sekoittuneena kaasua, kuten esimerkiksi epäpuhtaissa metalleissa (vetyä palladiumin seassa). **{index}`Kolloidi`** on yleisnimitys heterogeenisille seoksille, joissa kaikissa olomuodoissa olevia pieniä hiukkasia on jakautuneena nesteeseen tai kiinteään aineeseen.
+
+Myös teräsbetonin voidaan ajatella olevan kemian mielessä seos. Kun betoniin yhdistetään terästankojen tai -verkkojen hyvä vetolujuus, betonirakenteesta tulee kestävämpi ja vahvempi. Teräs ja betoni ovat lämpölaajenemisominaisuuksiltaan hyvin lähellä toisiaan, jolloin lämpötilanmuutokset eivät aiheuta teräsbetonirakenteisiin suurta sisäistä painetta.
+
+<p><a href="https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg#/media/Tiedosto:Chantier_de_construction_du_complexe_associatif_multifonctions_à_Antony_07.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg" alt="Chantier de construction du complexe associatif multifonctions à Antony 07.jpg" height="427" width="640"></a><br><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25507982">Linkki</a></p>
