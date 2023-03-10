@@ -15,7 +15,24 @@ Ionisidos tekee aineesta yleensä huoneenlämmössä kiinteän, kovan ja hauraan
 
 Koska luovutetut elektronit ovat sitoutuneet anionien ympärille, **{index}`suola`t** eivät johda sähköä, sillä hilarakenteessa ei ole vapaita elektroneita, jotka voisivat liikkua hilarakenteen läpi. Sen sijaan suolasulate pystyy johtamaan sähköä, kun ionien lämpöliike on niin voimakasta, että ioniyhdisteen hilarakenne hajoaa ja ionit pystyvät liikkumaan toistensa lomassa. Höyrystettyä eli kaasumaisessa olomuodossa oleva ioniyhdiste, jonka ioneista irtoaa elektroneita, onkin jo esimerkki **{index}`plasma`sta**.
 
-## Nimeäminen (puuttuu)
+## Nimeäminen
+Ioniyhdisteiden nimeäminen perustuu yhdisteen kationin ja anionin nimien yhdistämiseen seuraavasti:
+
+1. Kationin nimi kirjoitetaan ensin. Kationi nimetään metalliatomin mukaan sellaisenaan, esimerkiksi Na<sup>+</sup>-ionin nimi on natrium.
+2. Anionin nimi kirjoitetaan sen jälkeen. Anionin nimi päättyy "-di" -päätteeseen, esimerkiksi Cl- -ionin nimi on kloridi. Anionien nimet löytyvät osoitteesta <a href="https://www.taulukot.com/kemia/yhdisteet/#kationeja_ja_anioneja" target="_blank">Taulukot.com</a>.
+3. Kationin ja anionin nimet yhdistetään. Esimerkiksi yhdisteen NaCl nimi on *natriumkloridi*.
+4. Jos kationi voi esiintyä usealla mahdollisella varauksella, sen varaus ilmaistaan roomalaisella numerolla sulkeissa nimen perässä. Esimerkiksi rautaoksidi ei ole tarpeeksi tarkka kuvaus ioniyhdisteestä, vaan roomalaisen kirjaimen avulla tehdään ero rauta(II)okdisidin (FeO) ja rauta(III)oksidin (Fe<sub>2</sub>O<sub>3</sub>) välillä.
+5. Jos anioni on moniatominen, sillä on oma nimensä, kuten esimerkiksi NO<sub>3</sub><sup>-</sup>-ionin nimi on *nitraatti* ja SO<sub>4</sub><sup>2-</sup>-ionin nimi *sulfaatti*. Yleisimpien moniatomisten anionien nimet löytyvät myös taulukosta.
+6. Ioniyhdisteiden nimiin ei siis lisätä ionien lukumääriä osoittavia liitteitä, kuten moni-, di-, tri- jne.
+
+:::{admonition} Esimerkki: ioniyhdisteiden nimiä
+:class: tip
+CaCl<sub>2</sub>: kalsiumkloridi
+MgO: magnesiumoksidi
+Li<sub>2</sub>SO<sub>4<s/ub>: litiumsulfaatti
+Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>: alumiinisulfaatti
+CrCl<sub>3</sub>: kromi(III)kloridi
+:::
 
 ## Suolojen liuokoisuus veteen (siirtyy reaktioiden puolelle aikanaan)
 Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kooltaan ja varaukseltaan pienet ja yksinkertaiset ioniyhdisteet liukenevat yleensä helpommin kuin suuremmat ja monimutkaisemmat ioniyhdisteet. Suola on **{index}`niukkaliukoinen`**, jos sitä liukenee litraan huoneenlämpöistä vettä alle yhden gramman verran (liukoisuus alle 0,1 g / 100 ml). Esimerkkejä niukkaliukoisista suoloista ovat bariumsulfaatti (BaSO<sub>4</sub>), hopeakloridi (AgCl) ja lyijykloridi (PbCl<sub>2</sub>). Taulukosta <a href="https://www.taulukot.com/kemia/yhdisteet/#suolojen_liukoisuus_veteen" target="_blank">Suolojen liukoisuus veteen</a> voidaan nähdä useimpien suolojen liukoisuus veteen.
