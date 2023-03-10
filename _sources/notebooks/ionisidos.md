@@ -1,15 +1,20 @@
 # {index}`Ionisidos`
-Ionisidos muodostuu, kun metalliatomi luovuttaa yhden tai useamman ulkoelektronin epämetalliatomille. Koska luovutettujen elektronien sähkövaraus on negatiivinen (yksi alkeisvaraus), metalliatomista tulee positiivinen ioni, **{index}`kationi`**, ja epämetalliatomista negatiivinen **{index}`anioni`**. Positiivisen ja negatiivisen ionin välillä on sähköinen vuorovaikutus, vetovoima, mikä kiinnittää ne toisinssa. Syntynyttä vahvaa kemiallista sidosta kutsutaan ionisidokseksi.
+Ionisidos muodostuu, kun metalliatomi luovuttaa yhden tai useamman ulkoelektronin eli *valenssielektronin* epämetalliatomille. Koska luovutettujen elektronien sähkövaraus on negatiivinen (yksi alkeisvaraus), metalliatomista tulee positiivinen ioni, **{index}`kationi`**, ja epämetalliatomista negatiivinen **{index}`anioni`**. Positiivisen ja negatiivisen ionin välillä on sähköinen vuorovaikutus, vetovoima, mikä kiinnittää ne toisinssa. Syntynyttä vahvaa kemiallista sidosta kutsutaan ionisidokseksi.
 
 Alla esimerkkinä ionisidoksen syntymisestä, kun natriumatomi (Na) luovuttaa ulkoelektroninsa fluoriatomille (F). Natrium kuuluu alkalimetallien ryhmään ja fluori halogeeneihin, joten kumpikin atomi saavuttaa oktetin yhden elektronin siirtymisellä natriumlta fluorille. Syntyy natrium-kationi ja fluoridi-anioni, ja yhdiste nimeltä natriumfluoridi (NaF), jota käytetään mm. fluorihammastahnoissa hammaskiillettä vahvistamaan sekä rotanmyrkkynä.
 
 <p><a href="https://commons.wikimedia.org/wiki/File:NaF.gif#/media/File:NaF.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif" alt="NaF.gif" align="center"></a><br><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15539913">Link</a></p>
 
-## Esimerkit (puuttuu)
+Luovutettujen ja vastaanotettujen elektronien määrän tulee aina olla yhtä suuri, ja syntyneen ioniyhdisteen varaus tulee olla nolla. Jos metalliatomi luovuttaa useamman kuin yhden valenttielektronin, kuten maa-alkalimetallit ja kolmannen pääryhmän alumiini, tarvitaan useampi halogeeniatomi, jotta kaikki luovutetut elektronit tulevat vastaanotetuiksi. Täten kun esimerksi kalsium ja alumiini muodostavat fluorin kanssa ioniyhdisteet, yhdisteiden kaavat ovat CaF<sub>2</sub> ja AlF<sub>3</sub>.
+```{figure-md} ionien varaukset
+<img src="../images/lekot.jpg" alt="Ioniyhdisteiden varausten tulee olla nolla." class="bg-primary mb-1" width="500px" align="center">
+
+Yhdistelmiä kationeista ja anioneista, jotta ioniyhdisteen varaus on nolla.
+```
 
 Kationit ja anionit järjestäytyvät kolmiulotteiseen rakenteeseen, jota kutsutaan **{index}`ionihila`ksi**.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Sodium-fluoride-3D-ionic.png#/media/File:Sodium-fluoride-3D-ionic.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Sodium-fluoride-3D-ionic.png" alt="Sodium-fluoride-3D-ionic.png" align="center" height="480" width="454" ></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1799711">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sodium-fluoride-3D-ionic.png#/media/File:Sodium-fluoride-3D-ionic.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Sodium-fluoride-3D-ionic.png" alt="Sodium-fluoride-3D-ionic.png" align="center" height="288" width="272" ></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1799711">Link</a></p>
 
 Ionisidos tekee aineesta yleensä huoneenlämmössä kiinteän, kovan ja hauraan, koska ionit ovat järjestäytyneet tiiviiseen hilarakenteeseen eivätkä pysty liikkumaan toistensa suhteen. **{index}`Ioniyhdiste`ille** eli **suoloille** on tyypillistä korkeat sulamis- ja kiehumispisteet, koska vaaditaan suuri määrä energiaa ionien erottamiseen toisistaan. Esimerkiksi kuvien natriumfluoridin (NaF) sulamispiste on 993 °C ja kiehumispiste 1704 °C.
 
@@ -23,15 +28,15 @@ Ioniyhdisteiden nimeäminen perustuu yhdisteen kationin ja anionin nimien yhdist
 3. Kationin ja anionin nimet yhdistetään. Esimerkiksi yhdisteen NaCl nimi on *natriumkloridi*.
 4. Jos kationi voi esiintyä usealla mahdollisella varauksella, sen varaus ilmaistaan roomalaisella numerolla sulkeissa nimen perässä. Esimerkiksi rautaoksidi ei ole tarpeeksi tarkka kuvaus ioniyhdisteestä, vaan roomalaisen kirjaimen avulla tehdään ero rauta(II)okdisidin (FeO) ja rauta(III)oksidin (Fe<sub>2</sub>O<sub>3</sub>) välillä.
 5. Jos anioni on moniatominen, sillä on oma nimensä, kuten esimerkiksi NO<sub>3</sub><sup>-</sup>-ionin nimi on *nitraatti* ja SO<sub>4</sub><sup>2-</sup>-ionin nimi *sulfaatti*. Yleisimpien moniatomisten anionien nimet löytyvät myös taulukosta.
-6. Ioniyhdisteiden nimiin ei siis lisätä ionien lukumääriä osoittavia liitteitä, kuten moni-, di-, tri- jne.
+6. Ioniyhdisteiden nimiin ei lisätä ionien lukumääriä osoittavia liitteitä, kuten moni-, di-, tri- jne.
 
 :::{admonition} Esimerkki: ioniyhdisteiden nimiä
 :class: tip
-CaCl<sub>2</sub>: kalsiumkloridi
-MgO: magnesiumoksidi
-Li<sub>2</sub>SO<sub>4<s/ub>: litiumsulfaatti
-Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>: alumiinisulfaatti
-CrCl<sub>3</sub>: kromi(III)kloridi
+- CaCl<sub>2</sub> - kalsiumkloridi
+- MgO - magnesiumoksidi
+- Li<sub>2</sub>SO<sub>4</sub> - litiumsulfaatti
+- Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> - alumiinisulfaatti
+- CrCl<sub>3</sub> - kromi(III)kloridi
 :::
 
 ## Suolojen liuokoisuus veteen (siirtyy reaktioiden puolelle aikanaan)
