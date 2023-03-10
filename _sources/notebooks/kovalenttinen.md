@@ -56,6 +56,12 @@ Vaikka hiilidioksidimolekyylin kovalenttiset kaksoissidokset ovat poolisia, symm
 </figure>
 
 ## Molekyylien nimeäminen
+<a href="https://iupac.org/" target="_blank">IUPAC:n</a> nimeämiskäytäntö on kansainvälisen kemikaalijärjestön (International Union of Pure and Applied Chemistry) luoma systemaattinen tapa nimetä yhdisteitä. Käytäntö pyrkii tilanteeseen, jossa jokaisella yhdisteellä on nimi, josta yhdisteen rakenne voidaan yksiselitteisesti päätellä. Kuten ioniyhdisteillä, molekyylien kemiallinen eli systemaattinen nimi päättyy epämetalliin, jolloin vastaavien yhdisteiden nimien päätteet ovat seuraavat:
+
+| vety    | hiili   | typpi   | fosfori | happi   | rikki   | seleeni | fluori   | kloori  | bromi   | jodi   |
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | -------- | ------- | ------- | ------ |
+| hydridi | karbidi | nitridi | fosfidi | oksidi  | sulfidi | -       | fluoridi | kloridi | bromidi | jodidi |
+
 Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai atomiryhmien keskinäiset lukumäärälliset suhteet. Atomien lukumäärä molekyylissä ilmoitetaan kreikkalaisilla etuliitteillä.
 
 | Kreikkalaiset etuliitteet | 1    | 2  | 3   | 4     | 5     | 6     | 7     | 8    | 9                | 10   |
@@ -69,5 +75,5 @@ Toisin kuin ioniyhdisteillä, molekyylien nimeäminen ottaa huomioon atomien tai
 | CO                         | hiili**mono**ksidi                   | häkä                            |
 | CO<sub>2</sub>             | hiili**di**oksidi                    | -                               |
 | NH<sub>3</sub>             | typpi**tri**hydridi                  | ammoniakki                      |
-| CCl<sub>4</sub>            | **tetra**kloorimetaani               | hiilitetrakloridi               |
+| CCl<sub>4</sub>            | hiili**tetra**kloridi                | tetrakloorimetaani              |
 | P<sub>3</sub>N<sub>5</sub> | **tri**fosfori**penta**nitridi       | -                               |
