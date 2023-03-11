@@ -1,0 +1,3 @@
+# {index}`Reaktioyhtälö` (kesken)
+
+okok

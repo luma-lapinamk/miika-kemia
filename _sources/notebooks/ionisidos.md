@@ -7,7 +7,7 @@ Alla esimerkkinä ionisidoksen syntymisestä, kun natriumatomi (Na) luovuttaa ul
 
 Luovutettujen ja vastaanotettujen elektronien määrän tulee aina olla yhtä suuri, ja syntyneen ioniyhdisteen varaus tulee olla nolla. Jos metalliatomi luovuttaa useamman kuin yhden valenttielektronin, kuten maa-alkalimetallit ja kolmannen pääryhmän alumiini, tarvitaan useampi halogeeniatomi, jotta kaikki luovutetut elektronit tulevat vastaanotetuiksi. Täten kun esimerksi kalsium ja alumiini muodostavat fluorin kanssa ioniyhdisteet, yhdisteiden kaavat ovat CaF<sub>2</sub> ja AlF<sub>3</sub>.
 ```{figure-md} ionien varaukset
-<img src="../images/lekot.jpg" alt="Ioniyhdisteiden varausten tulee olla nolla." class="bg-primary mb-1" width="500px" align="center">
+<img src="../images/lekot.jpg" alt="Ioniyhdisteiden varausten tulee olla nolla." class="bg-primary mb-1" width="400px" align="center">
 
 Yhdistelmiä kationeista ja anioneista, jotta ioniyhdisteen varaus on nolla.
 ```

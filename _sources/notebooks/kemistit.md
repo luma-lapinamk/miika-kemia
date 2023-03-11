@@ -60,6 +60,17 @@ Thomsonin tekemä löytö oli merkittävä edistysaskel atomiteorian kehityksess
 
 Thomsonin myöhemmät työt sisälsivät myös tutkimuksia kaasujen ionisaatiosta ja massaspektrometriasta. Hänen työnsä sai suuren tunnustuksen, ja hänelle myönnettiin Nobelin fysiikanpalkinto vuonna 1906 elektronin löytämisen ansiosta.
 
+## {index}`Arrhenius, Svante` (1859-1927)
+<a title="Nobel Foundation, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Svante_Arrhenius.jpg"><img width="256" alt="Svante Arrhenius" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Svante_Arrhenius.jpg"></a>
+
+Ruotsalainen kemisti, joka tunnetaan erityisesti elektrolyyttien tutkimisesta ja ioniteorian kehittämisestä.
+
+Arrhenius oli ensimmäinen, joka ehdotti, että elektrolyytit (aineet, jotka johtavat sähköä vesiliuoksessa) hajoavat vedessä ioneiksi. Hän myös osoitti, että happojen ja emästen välillä on vahva yhteys niiden ionisoitumiskyvyn välillä, ja kehitti nykyään hänen nimeään kantavan happo-emäs-teorian. Teorian mukaan happo on aine, joka luovuttaa protonin (vetyionin), kun taas emäs on aine, joka vastaanottaa protonin.
+
+Arrhenius teki myös merkittäviä tutkimuksia kineettisestä kaasuteoriasta ja kehitti Arrheniuksen yhtälön, joka kuvaa kemiallisten reaktioiden nopeutta lämpötilan funktiona.
+
+Arrhenius oli monipuolinen tiedemies ja hänet tunnustetaan yhdeksi modernin fysikaalisen kemian perustajista. Hän sai Nobelin kemianpalkinnon vuonna 1903 ioniteoriaa ja sen soveltamista käsitelleestä työstään.
+
 ## {index}`Curie, Marie` (1867-1934)
 <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Mariecurie.jpg"><img width="256" alt="Mariecurie" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mariecurie.jpg/256px-Mariecurie.jpg"></a>
 
@@ -104,6 +115,26 @@ Rutherfordin tunnetuin koe oli kultafoilikoe, jossa hän ampui alfa-hiukkasia ku
 Rutherfordin havainnot johtivat Bohrin atomimalliin, joka esitti atomia pieninä ytiminä, joita ympäröi elektronien kerroksellinen rakenne. Rutherfordin työ oli tärkeä askel kohti ymmärrystä atomin rakenteesta ja avasi oven ydinfysiikan tutkimukselle.
 
 Rutherfordille myönnettiin Nobel-palkinto kemian alalla vuonna 1908 hänen työstään radioaktiivisuuden tutkimuksessa. Hän jatkoi myös menestyksekkäästi muiden tärkeiden tutkimusten tekemistä, kuten atomiytimen hajoamisen ja keinotekoisen radioaktiivisuuden löytämisen.
+
+##  {index}`Lewis, Gilbert Newton` (1875-1946)
+<a title="es una imagen de licencia libre, no tiene autor, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gilbert-Newton-Lewis.jpg"><img width="256" alt="Gilbert-Newton-Lewis" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Gilbert-Newton-Lewis.jpg/256px-Gilbert-Newton-Lewis.jpg"></a>
+
+Yhdysvaltalainen fyysikko ja kemisti, joka tunnetaan erityisesti elektronipari-teorian kehittämisestä. Hän oli yksi 1900-luvun alun merkittävimmistä kemisteistä ja häntä pidetään yhtenä modernin kemian perustajista.
+
+Hän esitteli käsitteen oktetti-säännöstä, jonka mukaan atomeilla on taipumus muodostaa sidoksia, kun niiden uloimman kuoren elektronit täyttyvät tai tyhjenevät, jolloin saavutetaan kahdeksan uloimman kuoren elektronia.
+
+Hän myös kehitti Lewisin rakenteen (rakennekaavan), joka on yleisin tapa kuvata molekyylissä olevia atomien välisiä sidoksia. Tässä mallissa atomien ympärillä olevat vapaat elektronit kuvataan pisteinä ja elektroniparit ja sidokset viivoina.
+
+Lewis teki myös tärkeitä havaintoja metallien ja happojen välisestä kemiallisesta vuorovaikutuksesta ja loi konseptin happo-emäs-teoriasta.
+
+##  {index}`Brønsted, Johannes Nicolaus` (1879-1947)
+<a title="Peter Elfelt, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Johannes_Br%C3%B8nsted.jpg"><img width="256" alt="Johannes Brønsted" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Johannes_Br%C3%B8nsted.jpg"></a>
+
+Tanskalainen fyysikko ja kemisti, joka tunnetaan Brønsted-Lowryn happo-emäs-teoriasta, joka määrittelee hapot ja emäkset protonien luovuttajina ja vastaanottajina.
+
+Brønsted opiskeli fysiikkaa ja matematiikkaa Kööpenhaminan yliopistossa, jossa hän myös opetti vuodesta 1905 lähtien. Hän aloitti kemian opiskelun vasta myöhemmin, mutta hänen kiinnostuksensa kemiaan johti hänet tutkimaan happojen ja emästen käyttäytymistä vesiliuoksissa.
+
+Vuonna 1923 Brønsted julkaisi artikkelin, joka esitteli happo-emäs-teorian yhdessä englantilaisen kemistin Thomas Lowryn kanssa. Teoria korvasi aiemman Arrheniuksen teorian ja auttoi selittämään monia happojen ja emästen käyttäytymistä koskevia kysymyksiä, kuten miksi jotkut happojen ja emästen yhdistelmät reagoivat ja toiset eivät. Brønstedin happo-emäs-teoriaa käytetään edelleen laajalti kemiassa.
 
 ## {index}`Geiger, Hans` (1882-1945)
 <a title="See page for author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Hans_geiger.jpg"><img width="256" alt="Hans geiger" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Hans_geiger.jpg/256px-Hans_geiger.jpg"></a>
@@ -157,3 +188,4 @@ Eräs Paulingin keskeisimmistä saavutuksista oli hänen esittämänsä elektron
 Lisäksi Paulingin ansioluetteloon kuuluvat tärkeät työt kvanttikemiaan ja molekyylirakenteiden selvittämiseen liittyen. Hän oli myös yksi ensimmäisistä tutkijoista, joka esitti tarkan kolmiulotteisen rakenteen DNA:lle.
 
 Pauling sai uransa aikana useita merkittäviä palkintoja, mukaan lukien kaksi Nobelin palkintoa. Häntä pidetään yhtenä tärkeimmistä kemian ja atomiteorian kehittäjistä koko 1900-luvulla.
+

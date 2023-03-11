@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Stoikiometriaa &#8212; Yleinen kemia</title>
+    <title>Reaktioyhtälö (kesken) &#8212; Yleinen kemia</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -51,12 +51,10 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
-    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
-    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Reaktioyhtälö" href="reaktiot.html" />
-    <link rel="prev" title="Kovalenttinen sidos" href="kovalenttinen.html" />
+    <link rel="next" title="Kemian merkkihenkilöitä" href="kemistit.html" />
+    <link rel="prev" title="Stoikiometriaa" href="stoikiometriaa.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -208,14 +206,14 @@ const thebe_selector_output = ".output, .cell_output"
  </span>
 </p>
 <ul class="current nav bd-sidenav">
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
+ <li class="toctree-l1">
+  <a class="reference internal" href="stoikiometriaa.html">
    Stoikiometriaa
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="reaktiot.html">
-   Reaktioyhtälö
+ <li class="toctree-l1 current active">
+  <a class="current reference internal" href="#">
+   Reaktioyhtälö (kesken)
   </a>
  </li>
 </ul>
@@ -328,7 +326,7 @@ title="Source repository"
   <div class="menu-dropdown__content">
     <ul>
       <li>
-        <a href="../_sources/notebooks/stoikiometriaa.md"
+        <a href="../_sources/notebooks/reaktiot.md"
    class="headerbtn"
    data-toggle="tooltip"
 data-placement="left"
@@ -365,60 +363,23 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#kemiallisten-reaktioiden-suhteet">
-   Kemiallisten reaktioiden suhteet
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Stoikiometriaa</h1>
+                <h1>Reaktioyhtälö (kesken)</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#kemiallisten-reaktioiden-suhteet">
-   Kemiallisten reaktioiden suhteet
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -426,96 +387,9 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="stoikiometriaa">
-<h1><span class="target" id="index-0"></span>Stoikiometriaa<a class="headerlink" href="#stoikiometriaa" title="Permalink to this headline">#</a></h1>
-<p><strong>Stoikiometrialla</strong> tarkoitetaan kemiassa aineiden kvantitatiivista eli määrällistä käsittelyä. Lähtökohtana on käsitteet <strong><span class="target" id="index-1"></span>ainemäärä</strong> ja sen yksikkö <strong><span class="target" id="index-2"></span>mooli</strong>.</p>
-<div class="seealso admonition">
-<p class="admonition-title">Ainemäärä (n)</p>
-<p>kuvaa aineen määrää mooleina (mol), joka voidaan muuttaa kappalemääräksi tai massaksi. Yksi mooli (1 mol) vastaa kappalemäärää 6.022 <span class="math notranslate nohighlight">\(\cdot\)</span> 10<sup>23</sup>.
-Vertaa <em>pari</em> vastaa kappalemäärää 2, <em>tusina</em> vastaa kappalemäärää 12 ja <em>tiu</em> vastaa kappalemäärää 20.</p>
-<p>Lukua 6.022 <span class="math notranslate nohighlight">\(\cdot\)</span> 10<sup>23</sup> kutsutaan <strong><span class="target" id="index-3"></span>Avogadron vakioksi</strong>, <span class="math notranslate nohighlight">\(N_A\)</span>.</p>
-</div>
-<p>Ainemäärän avulla voidaan kuvata yksittäisten perushiukkasten, atomien, molekyylien tai ioniyhdisteessä olevien ionien määrää. Esimerkiksi yhdessä moolissa rautaa on Avogadron vakion verran rautakationeja (Fe<sup>+</sup>). Kahdessa moolissa ruokasuolaa (NaCl) on kahden Avogadron vakion verran natriumioneja (Na<sup>+</sup>) sekä kloridi-ioneja (Cl<sup>-</sup>). Yhdisteissä on kuitenkin otettava huomioon atomien keskinäiset suhteen. Täten kolmessa moolissa puhdasta vettä on kolmen Avogadron vakion verran vesimolekyylejä (H<sub>2</sub>O) mutta koska yksi vesimolekyyli koostuu kahdesta vetyatomista ja yhdestä happiatomista, on vetyatomeja kuuden Avogadron vakion verran (2 <span class="math notranslate nohighlight">\(\cdot\)</span> 3 N<sub>A</sub>) ja happiatomeja kolmen Avogadron vakion verran.</p>
-<p>Ainemäärän (n) ja kappalemäärän (N) välillä on seuraava suhde:
-<span class="math notranslate nohighlight">\(N = n \cdot N_A\)</span>, eli
-<span class="math notranslate nohighlight">\(n = \frac{N}{N_a}\)</span></p>
-<p>Ainemäärä voidaan muuttaa massaksi (m), kun alkuaineen tai yhdisteen atomimassat on tiedossa. Jos ainetta on yhden moolin verran, atomimassan sijaan käytetään termiä <strong><span class="target" id="index-4"></span>moolimassa</strong> (M). Atomimassayksikkö määritteltiin hiili-12 isotoopin ytimen massaksi, joka vastaa massaa grammoina,yhden hiili-12 isotoopin moolin massaa grammoina eli <span class="math notranslate nohighlight">\( M(_{12}C)=12.055 \frac{g}{mol}\)</span>.</p>
-<div class="tip admonition">
-<p class="admonition-title">Esimerkki: hiilen moolimassa</p>
-<p>Taulukkoarvon mukaan yksi mooli hiiltä on massaltaan 12.055 grammaa. Täten kaksi moolia on massaltaan <span class="math notranslate nohighlight">\(2 \cdot 12.055 \frac{g}{mol} = 24.110 \frac{g}{mol}\)</span>. Kun hiilen ainemäärä <span class="math notranslate nohighlight">\(n(C)=0.43 \ mol\)</span>, niin hiilen massa <span class="math notranslate nohighlight">\(m(C)=0.43 \ mol \cdot 12.055 \frac{g}{mol} = 5.18365 \frac{g}{mol} \approx 5.2 \frac{g}{mol}\)</span></p>
-</div>
-<blockquote>
-<div><p>Kemiassa stoikiometristen laskujen vastausten pyöristäminen tapahtuu <strong>epätarkimman lähtöarvon merkitsevien numeroiden määrän</strong> mukaan.</p>
-</div></blockquote>
-<p>Ainemäärän (n) ja massan (m) välillä on seuraava suhde:
-<span class="math notranslate nohighlight">\(m = n \cdot M\)</span>, eli
-<span class="math notranslate nohighlight">\(n = \frac{m}{M}\)</span></p>
-<div class="tip admonition">
-<p class="admonition-title">Esimerkki: kulta- ja hopeaharkon ainemäärä</p>
-<p>Olkoon puhtaasta metallista valetun harkon massa 12.5 kg. Tarkastellaan harkon aine- ja atomimäärää, jos harkko on valettu kullasta tai hopeasta.</p>
-<p>Koska moolimassat on ilmoitettu yksikössä <span class="math notranslate nohighlight">\(\frac{\text{grammaa}}{\text{mooli}}\)</span>, tulee harkon massa muuttaa ensin grammoiksi. Tällöin <span class="math notranslate nohighlight">\(m = 12.5 \cdot 1000 \ g = 12 500 \ g\)</span>.</p>
-<p>Ainemääräksi saadaan</p>
-<ul class="simple">
-<li><p>kultaharkolle <span class="math notranslate nohighlight">\(n = \frac{m}{M}=\frac{12 500 \ g}{196.97 \ \frac{g}{mol} }=63.461 \dots mol \approx 63.5 \ mol\)</span></p></li>
-<li><p>hopeaharkolle <span class="math notranslate nohighlight">\(n = \frac{m}{M}=\frac{12 500 \ g}{107.87 \ \frac{g}{mol} }=115.880 \dots mol \approx 116 \ mol\)</span></p></li>
-</ul>
-<p>Huomataan, että hopeaharkon ainemäärä on lähes kaksinkertainen saman massaiseen kultaharkkoon verrattuna. Tämä johtuu siitä, että yksittäinen hopea-atomi on massaltaan lähes kaksi kertaa pienempi kuin kulta-atomi.</p>
-<p>Harkossa olevien atomien (tarkalleen ottaen kationien) määrääksi saadaan</p>
-<ul class="simple">
-<li><p>kultaharkolle <span class="math notranslate nohighlight">\(N = n \cdot N_A = 63.461...\cdot 6.022 \cdot 10^{23} = 3.8216...\cdot 10^{25} \approx 3.82...\cdot 10^{25}\)</span></p></li>
-<li><p>hopeaharkolle <span class="math notranslate nohighlight">\(N = n \cdot N_A = 115.880...\cdot 6.022 \cdot 10^{23} = 6.9783...\cdot 10^{25} \approx 6.98...\cdot 10^{25}\)</span></p></li>
-</ul>
-<blockquote>
-<div><p><strong>Huomaa, että edellisessä laskussa käytettiin tarkkoja ainemäärien arvoja!</strong> On tärkeää muistaa aina käyttää tarkkaa välitulosta jatkolaskuissa ja pyöristää vasta lopullinen vastaus.</p>
-</div></blockquote>
-</div>
-<section id="kemiallisten-reaktioiden-suhteet">
-<h2>Kemiallisten reaktioiden suhteet<a class="headerlink" href="#kemiallisten-reaktioiden-suhteet" title="Permalink to this headline">#</a></h2>
-<p>Tarkastellaan tasapainotettuja kemiallisia reaktiota, joissa lähtöaineiden ja reaktiotuotteiden kertoimet ovat valmiiksi annettu. Esimerkkinä olkoon ammoniakin valmistus typpi- ja vetykaasuista (ammoniakkisynteesi ns. <a href="https://en.wikipedia.org/wiki/Haber_process" target="_blank">Haber-Bosch -menetelmällä</a>).</p>
-<center>N<sub>2</sub> + 3 H<sub>2</sub> ↔ 2 NH<sub>3</sub></center>
-<br>
-<p>Reaktioyhtälön kertoimista nähdään, että kun yksi typpimolekyyliä reagoi kolmen vetymolekyylin kanssa, syntyy kaksi molekyyliä ammoniakkia. Reaktiossa siis syntyy määrällisesti kaksi kertaa enemmän ammoniakkia, kuin mitä typpikaasua oli käytössä. Koska kemialliseen reaktioon osallistuu aina valtavan paljon suurempi määrä ainetta kuin yksittäiset molekyylit, on mielekkäämpä puhua, että kun <em>yksi mooli</em> typpeä ja <em>kolme moolia</em> vetyä reagoivat, syntyy <em>kaksi moolia</em> ammoniakkia. Samalla reaktiossa kuluu vetykaasua kolme kertaa enemmän kuin typpikaasua.</p>
-<div class="tip admonition">
-<p class="admonition-title">Esimerkki: ammoniakkisynteesi</p>
-<p>Olkoon reaktioastiassa typpikaasua (N<sub>2</sub>) 5.2 moolia. Kun typpi reagoi vetykaasun (H<sub>2</sub>) kanssa, reaktioyhtälön kertoimien mukaan tämä kuluttaa vetyä <strong>kolme</strong> kertaa enemmän eli <span class="math notranslate nohighlight">\(3 \cdot 5.2 \ \text{moolia} = 15.6 \ \text{moolia}\)</span>. Reaktiossa syntyy ammoniakkia <strong>kaksi</strong> kertaa enemmän eli <span class="math notranslate nohighlight">\(2 \cdot 5.2 \ \text{moolia} = 10.4 \ \text{moolia}\)</span>.</p>
-</div>
-<p>Raudan yhtyminen hapeen eli raudan hapettuminen voidaan kuvata alla olevan reakioyhtälön avulla. Reaktiossa syntyy rauta(III)oksidia.</p>
-<center>4 Fe <i>(s)</i> + 3 O<sub>2</sub> <i>(g)</i> → 2 Fe<sub>2</sub>O<sub>3</sub> <i>(s)</i></center>
-<div class="tip admonition">
-<p class="admonition-title">Esimerkki: raudan hapettuminen</p>
-<p>Laboratoriossa tarvitaan tasan 500 grammaa rauta(III)oksidia. Riittää 300 g puhdasta rautaa ja 200 g happea tuottamaan tarvittavan määrä rautaoksidia?</p>
-<p>Koska reaktioyhtälön mukaisia aineiden suhteita voi tarkastella vain ainemäärinä, muunnetaan aineiden massat ensin ainemääriksi.</p>
-<ul class="simple">
-<li><p><span class="math notranslate nohighlight">\(n(Fe) = \frac{m}{M} = \frac{300 g}{55.845 g/mol} = 5.372 \dots \ mol\)</span></p></li>
-<li><p><span class="math notranslate nohighlight">\(n(O_2) = \frac{m}{M} = \frac{200 g}{2 \cdot 15.999 g/mol} = 6.250 \dots \ mol\)</span></p></li>
-<li><p><span class="math notranslate nohighlight">\(n(Fe_2O_3) = \frac{m}{M} = \frac{500 g}{(2 \cdot 55.845 + 3 \cdot 15.999) g/mol} = 3.131 \dots \ mol\)</span></p></li>
-</ul>
-<p>Vastaus voidaan päätellä reaktioyhtälön kertoimien suhteista, mutta käytetään apuna sääntöä:
-<strong>reaktioyhtälön kertoimien suhde = ainemäärien suhde</strong></p>
-<p>Tarkastellaan ensin lähtöaineiden kertoimien ja ainemäärien suhdetta.</p>
-<p><span class="math notranslate nohighlight">\(\frac{Fe}{O_2}: \ \frac{4}{3}=\frac{5.273 \dots \ mol}{6.250 \dots \ mol}\)</span></p>
-<p>Verrannossa olevien reaktioyhtälön kertoimien perusteella raudan ainemäärän tulisi olla suurempi kuin hapen ainemäärä, mutta koska näin ei ole, happea on käytössä ylimäärin. Tällöin rauta on <strong><span class="target" id="index-5"></span>reaktion rajoittava tekijä</strong>. Reaktio ei enää etene,  kun puhdas rauta on loppunut reaktion lähtöaineista.</p>
-<p>Tarkastellaan seuraavaksi, riittääkö käytössä ollut 300 g rautaa tuottamaan 500 g rauta(III)oksidia. Raudan ja rauta(III)oksidin kertoimien ja ainemäärien suhde on</p>
-<p><span class="math notranslate nohighlight">\(\frac{Fe}{Fe_2O_3}: \ \frac{4}{2}=\frac{5.273 \dots \ mol}{3.131 \dots \ mol}\)</span></p>
-<p>Suhteen perusteella raudan ainemäärän tulisi olla kaksinkertainen rauta(III)oksidin ainemäärään, mutta näin ei ole. Täten rautaa oli alunperin käytössä liian vähän.</p>
-<br>
-<p>Lasketaan kuinka paljon rautaa tulisi olla, jotta saataisiin valmistettua tasan 500 g rauta(III)oksidia. Todellisuudessa reaktiot eivät ikinä tapahdu täydellisesti, mutta oletetaan tässä tapauksessa reaktion tapahtuvan ideaalisesti.</p>
-<p>Reaktioyhtälön kertoimien perusteella</p>
-<p><span class="math notranslate nohighlight">\(\frac{4}{2}=\frac{n(Fe)}{n(Fe_2O_3)}\)</span></p>
-<p>Kerrotaan verranto ristiin, jolloin saadaan, että</p>
-<p><span class="math notranslate nohighlight">\(\begin{align}2n(Fe)&amp;=4n(Fe_2O_3) ||:2 \\ \\
-n(Fe)&amp;=2n(Fe_2O_3) \\ \\
-&amp;=2 \cdot 3.131 \dots \ mol \\ \\
-&amp;=6.262... \ mol\end{align}\)</span></p>
-<p>Täten raudan massaksi saadaan</p>
-<p><span class="math notranslate nohighlight">\(\begin{align}m(Fe)&amp;=n(Fe) \cdot M(Fe) \\ \\
-&amp;=2n(Fe_2O_3) \cdot M(Fe) \\ \\
-&amp;=2 \cdot 3.131 \dots mol \cdot 55.845 \ g/mol \\ \\
-&amp;=349.715... \ g \\ \\
-&amp;\approx 350 \ g \end{align}\)</span></p>
-</div>
-<p>Huomaa, että edellä olevissa laskuissa on jälleen <strong>pyöristetty vasta lopullinen vastaus</strong>.</p>
-</section>
+  <section class="tex2jax_ignore mathjax_ignore" id="reaktioyhtalo-kesken">
+<h1><span class="target" id="index-0"></span>Reaktioyhtälö (kesken)<a class="headerlink" href="#reaktioyhtalo-kesken" title="Permalink to this headline">#</a></h1>
+<p>okok</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -545,17 +419,17 @@ n(Fe)&amp;=2n(Fe_2O_3) \\ \\
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="kovalenttinen.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="stoikiometriaa.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Kovalenttinen sidos</p>
+            <p class="prev-next-title">Stoikiometriaa</p>
         </div>
     </a>
-    <a class='right-next' id="next-link" href="reaktiot.html" title="next page">
+    <a class='right-next' id="next-link" href="kemistit.html" title="next page">
     <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Reaktioyhtälö</p>
+        <p class="prev-next-title">Kemian merkkihenkilöitä</p>
     </div>
     <i class="fas fa-angle-right"></i>
     </a>

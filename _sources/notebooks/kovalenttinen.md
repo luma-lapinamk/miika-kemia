@@ -10,10 +10,12 @@ Epämetalliatomin valenttielektronien lukumäärää määrää kovalenttisten s
 Atomien vapaat elekroniparit eivät osallistu kovalenttisten sidosten muodostumiseen, joita on pääryhmän V (typpiryhmä) alkuainella yksi kappale, pääryhmän VI (happiryhmä) alkuaineilla kaksi kappaletta ja pääryhmän VII (halogeenit) alkuaineilla kolme kappaletta.
 
 Kovalenttisia sidoksia voi olla myös kaksinkertaisia tai kolminkertaisia, riippuen siitä, kuinka monta elektroniparia atomit jakavat. Happimolekyylissä (O<sub>2</sub>) kumpikin happiatomi jakavat yhteiseen käyttöön kaksi elektronia, jolloin kovalenttinen kaksoissidos muodostuu kahdesta elektroniparista. Vastaavasti typpimolekyylissä typpiatomit jakavat yhteiseen käyttöön kolme elektronia, jolloin kovalenttinen kolmoissidos muodostuu kolmesta elektroniparista.
+
+Yksinkertaistettu tapa molekyylien piirtämiseksi on **{index}`Lewis'n rakennekaava`**, joka on nimetty kehittäjänsä Gilbert Newton Lewis'n mukaan. Rakennekaavassa yksittäisiä valenssielektroneita kuvataan pisteinä ja elektronipareja viivoina atomin kemiallisen merkin ympärillä. 
 ```{figure-md} Happi- ja typpimolekyylit
 <img src="../images/happi_ja_typpi.png" alt="Happi- ja typpimolekyylit Lewisin rakennekaavalla" class="bg-primary mb-1" width="300px" align="center">
 
-Happi- ja typpimolekyylit piirrettynä Lewisin rakennekaavalla. lähde: <a href="https://molview.org/?cid=114954">MolView.org</a>
+Happi- ja typpimolekyylit piirrettynä Lewisin rakennekaavalla. Happimolekyylissä on kovalenttinen kaksoissidos ja typpimolekyylissä kovalenttinen kolmoissidos.
 ```
 
 Sidoksen vahvuus riippuu useista tekijöistä, kuten atomien ytimien varauksista, niiden etäisyydestä toisistaan, jakamien elektronien määrästä ja niiden välisestä vuorovaikutuksesta. Kovalenttisessa sidoksessa sidoselektronit eivät pääse liikkumaan atomista toiseen, joten molekyylit johtavat hyvin huonosti sähköä.
