@@ -26,7 +26,7 @@ Elektronit täyttävät elektronikuoret sisimmältä kuorelta alkaen siten, ett�
 
 Tarkastellaan esimerkiksi natriumia $ (Na) $.
 ```{figure-md} Natriumin elektronikonfiguraatio
-<img src="../images/natrium.png" alt="Miten elektronit ovat sijoittuneet natriumin elektronikuorille." class="bg-primary mb-1" width="220px" align="center">
+<img src="../images/natrium.png" alt="Miten elektronit ovat sijoittuneet natriumin elektronikuorille." class="bg-primary mb-1" width="270px" align="center">
 
 Elektronien sijoittuminen natriumin elektronikuorille
 ```
@@ -38,7 +38,7 @@ Natriumin järjestysluku on $ Z = 11 $ ja elektronit täyttyvät elektronikuoril
 
 Kun atomi saa energiaa, esimerkiksi lämpötilan tai valon vaikutuksesta, elektroni siirtyy korkeammalle energiatasolle. Kun elektroni palaa takaisin matalammalle energiatasolle, se vapauttaa energiaa sähkömagneettisena säteilynä. Jos energia vapautuu näkyvän valon aallonpituuden alueella, ilmiö näkyy spektrissä, jossa jokainen väri vastaa tiettyä energiatasoa. Esimerkiksi metalliesineen laittaminen mikroaaltouuniin aiheuttaa näkyvän reaktion, kun metalliatomien absorboima energia vapautuu kipinöiden kera.
 ```{figure-md} Natriumin virittyminen
-<img src="../images/virittyminen.png" alt="Elektroni hyppää natriumin K-kuorelta M-kuorelle ja palautuu vapauttaen tietyn suuruisen energiakvantin, fotonin." class="bg-primary mb-1" width="600px" align="center">
+<img src="../images/virittyminen.png" alt="Elektroni hyppää natriumin K-kuorelta M-kuorelle ja palautuu vapauttaen tietyn suuruisen energiakvantin, fotonin." class="bg-primary mb-1" width="700px" align="center">
 
 Elektronin siirtyminen korkeammalle energiatasolle, M-kuorelle, ja palautuminen perustilaan
 ```
