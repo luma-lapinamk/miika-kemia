@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Reaktiokinetiikka (kesken) &#8212; Yleinen kemia</title>
+    <title>Reaktiokinetiikka &#8212; Yleinen kemia</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -215,7 +215,7 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
-   Reaktiokinetiikka (kesken)
+   Reaktiokinetiikka
   </a>
  </li>
  <li class="toctree-l1">
@@ -398,13 +398,23 @@ title="Print to PDF"
     <nav id="bd-toc-nav" aria-label="Page">
         <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#entalpia-eli-energiasisalto-lamposisalto">
-   Entalpia eli energiasisältö (lämpösisältö)
+  <a class="reference internal nav-link" href="#entalpia">
+   Entalpia
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#muodostumislampo">
+     Muodostumislämpö
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#hessin-laki">
      Hessin laki
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#olomuodon-muutokset-ja-entalpia">
+     Olomuodon muutokset ja entalpia
     </a>
    </li>
   </ul>
@@ -423,7 +433,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Reaktiokinetiikka (kesken)</h1>
+                <h1>Reaktiokinetiikka</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -434,13 +444,23 @@ title="Print to PDF"
                         <nav aria-label="Page">
                             <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#entalpia-eli-energiasisalto-lamposisalto">
-   Entalpia eli energiasisältö (lämpösisältö)
+  <a class="reference internal nav-link" href="#entalpia">
+   Entalpia
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#muodostumislampo">
+     Muodostumislämpö
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#hessin-laki">
      Hessin laki
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#olomuodon-muutokset-ja-entalpia">
+     Olomuodon muutokset ja entalpia
     </a>
    </li>
   </ul>
@@ -460,12 +480,12 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="reaktiokinetiikka-kesken">
-<h1><span class="target" id="index-0"></span>Reaktiokinetiikka (kesken)<a class="headerlink" href="#reaktiokinetiikka-kesken" title="Permalink to this headline">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="reaktiokinetiikka">
+<h1><span class="target" id="index-0"></span>Reaktiokinetiikka<a class="headerlink" href="#reaktiokinetiikka" title="Permalink to this headline">#</a></h1>
 <p>Kinetiikka tutkii kemiallisen reaktion kulkua, reaktiomekanismeja ja reaktionopeuksia. Kemialliset reaktiot ovat tarkalleen ottaen elektronien siirtoreaktioita, joissa lähtöaineiden kemialliset sidokset katkeavat ja syntyy uusia sidoksia.</p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Combustion_reaction_of_methane.jpg#/media/File:Combustion_reaction_of_methane.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Combustion_reaction_of_methane.jpg" alt="Combustion reaction of methane.jpg" height="229" width="512"></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=24953730">Link</a></p>
 <ul class="simple">
-<li><p>Lähtöaineiden vahvojen sidosten katkeaminen vaatii aina energiaa. Tämän energian suuruutta kuvastaa reaktion <strong><span class="target" id="index-1"></span>aktivoitumisenergia</strong>, tai <strong>aktivaatiokynnys</strong>. Jotta reaktio saadaan aikaan, kynnys on ylitettävä tuomalla systeemiin lisäenergiaa esimerkiksi tarpeeksi suuren lämpötilan avulla.</p></li>
+<li><p>Lähtöaineiden vahvojen sidosten katkeaminen vaatii aina energiaa. Tämän energian suuruutta kuvastaa reaktion <strong><span class="target" id="index-1"></span>aktivoitumisenergia</strong>, tai <strong>aktivaatiokynnys</strong>. Jotta reaktio saadaan aikaan, kynnys on ylitettävä tuomalla systeemiin lisäenergiaa esimerkiksi tarpeeksi suuren lämpötilan avulla, jotta reagoivat aineet törmäävät toisiinsa riittävän suurella energialla.</p></li>
 <li><p><strong><span class="target" id="index-2"></span>Aktivoitu kompleksi</strong> tarkoittaa välituotetta, joka syntyy yhdisteiden törmättyä ja sidosten rikkouduttua. Tämän jälkeen atomit tai ionit alkavat sitoutua uudella tavalla.</p></li>
 <li><p>Kun uusia sidoksia syntyy, vapautuu energiaa.</p></li>
 <li><p>Jos vapautunut energia on suurempi, kuin vaadittu energia sidosten katkeamiselle, reaktion sanotaan olevan <strong><span class="target" id="index-3"></span>eksoterminen reaktio</strong>. Yleensä energiaa vapautuu aineiden ympäristöön lämpönä, mutta usein vapautunut energia voidaan havaita myös valona, äänenä ja syntyneiden kaasujen liike-energiana.</p></li>
@@ -480,28 +500,79 @@ title="Print to PDF"
 <figure class="align-default" id="energiakaaviot">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/aktivaatioenergia.jpg"><img alt="Ekso- ja endotermisen reaktion energiakaaviot." class="bg-primary mb-1 align-center" src="../_images/aktivaatioenergia.jpg" style="width: 1000px;" /></a>
 <figcaption>
-<p><span class="caption-number">Fig. 24 </span><span class="caption-text">Ekso- ja endotermisen reaktion energiakaaviot. Kuvan alkuperäinen tekijä: <a href="https://openstax.org/books/biology/pages/1-introduction" target="_blank">CNX OpenStax</a>, lähde: <a href="https://commons.wikimedia.org/wiki/File:Figure_06_03_03.jpg#/media/File:Figure_06_03_03.jpg" target="_blank">Wikipedia</a></span><a class="headerlink" href="#energiakaaviot" title="Permalink to this image">#</a></p>
+<p><span class="caption-number">Fig. 24 </span><span class="caption-text">Ekso- ja endotermisen reaktion energiakaaviot. Kuvan alkuperäinen tekijä: <a href="https://openstax.org/books/biology/pages/1-introduction" target="_blank">CNX OpenStax</a>, lähde: <a href="https://commons.wikimedia.org/wiki/File:Figure_06_03_03.jpg" target="_blank">Wikipedia</a></span><a class="headerlink" href="#energiakaaviot" title="Permalink to this image">#</a></p>
 </figcaption>
 </figure>
-<section id="entalpia-eli-energiasisalto-lamposisalto">
-<h2><span class="target" id="index-5"></span>Entalpia eli energiasisältö (lämpösisältö)<a class="headerlink" href="#entalpia-eli-energiasisalto-lamposisalto" title="Permalink to this headline">#</a></h2>
-<p>Aineen sisältämää kemiallista energiaa sanotaan entalpiaksi. Entalpiaa merkitään tunnuksella <em>H</em> ja yksikkönä on joule, <em>J</em>.</p>
-<p>Entalpianmuutos (ΔH) eli reaktiolämpö määritellään reaktiotuotteiden ja lähtöaineiden entalpioiden kautta. ∆H ilmoitetaan kertoimien ilmoittamia moolimääriä kohti:
-ΔHreaktio = Hreaktiotuotteet - Hlähtöaineet</p>
+<section id="entalpia">
+<h2><span class="target" id="index-5"></span>Entalpia<a class="headerlink" href="#entalpia" title="Permalink to this headline">#</a></h2>
+<p>Aineen sisältämää kemiallista energiaa sanotaan entalpiaksi. Entalpiaa merkitään tunnuksella <em>H</em> ja yksikkönä on joule, <em>J</em>. Entalpian suuruutta eli aineen energiasisältöä ei voida mitata mutta sen muutos on mahdollista määrittää joko kokeellisesti tai tunnettujen osareaktioiden avulla. Kokeellisesti reaktiossa vapautuvan tai sitoutuvan lämpöenergian määrä voidaan mitata <strong>kalorimetrisin mittauksin</strong> mittaamalla lämpötilamuutoksia eristetyssä, suljetussa systeemissä. Laskennallinen <strong><span class="target" id="index-6"></span>entalpianmuutos</strong> <em>(ΔH)</em> eli reaktiolämpö määritellään reaktiotuotteiden ja lähtöaineiden entalpioiden kautta. ∆H ilmoitetaan kertoimien ilmoittamia moolimääriä kohti, joka on vakiopaineessa sama kuin reaktiotuotteiden ja lähtöaineiden välinen entalpiaero:</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{ΔH_{reaktio} = H_{reaktiotuotteet} - H_{lähtöaineet}}\)</span></p>
+<section id="muodostumislampo">
+<h3><span class="target" id="index-7"></span>Muodostumislämpö<a class="headerlink" href="#muodostumislampo" title="Permalink to this headline">#</a></h3>
+<p>Aineen muodostumislämmöllä tarkoitetaan sitä entalpiamuutosta, joka syntyy, kun <strong>yksi mooli ainetta syntyy alkuaineistaan</strong> olosuhteissa T = 298.15 K ja p = 101.325 kPa. Alkuaineen pysyvimmän muodon entalpia on annetuissa olosuhteissa 0 kJ/mol.</p>
+<p>Aineiden muodostumislämpöjä on taulukoita esimerkiksi <a href="https://www.taulukot.com/kemia/yhdisteet/#muodostumislampoja" target="_blank">Taulukot.com</a>-sivustolle.</p>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: asetyleenin (etyynin) reaktiolämpö</p>
+<p>Määritetään asetyleenin ((C_2H_2)) palamisen reaktiolämpö ∆H. Oletettavasti reaktio on eksoterminen, joten vastauksen tulisi olla negatiivinen.</p>
+<p>Muodostetaan ensin palamisen tasapainotettu reaktioyhtälö.</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{2 \ C_2H_2 \ (g) + 5 \ O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 2 \ H_2O \ (g)}\)</span></p>
+<p><a href="https://www.taulukot.com/kemia/yhdisteet/#muodostumislampoja" target="_blank">Muodostumislämpötaulukon</a> mukaan</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{2 \ C \ (s) + H_2 \ (g) \longrightarrow C_2H_2 \ (g); \ \Delta H_1=+226.7 \ kJ}\)</span><br>
+Happikaasu on vapaa alkuaine, joten sen <span class="math notranslate nohighlight">\(\Delta H_2=0\)</span>.<br>
+<span class="math notranslate nohighlight">\(\mathrm{C \ (s) + O_2 \ (g) \longrightarrow CO_2 \ (g); \ \Delta H_3=-393.5 \ kJ}\)</span>
+<span class="math notranslate nohighlight">\(\mathrm{H_2 \ (g) + \frac{1}{2} O_2 \ (g) \longrightarrow H_2O \ (g); \ \Delta H_4=-241.8 \ kJ}\)</span><br>
+Huom! Taulukossa vain arvo <span class="math notranslate nohighlight">\(\mathrm{H_2O \ (l)}\)</span>, joten taulukkoarvoon tulisi lisätä veden höyrystymislämpö moolia kohden, eli <span class="math notranslate nohighlight">\(\mathrm{H_2O \ (l) \longrightarrow H_2O \ (g); \ \Delta H=+40.7 kJ}\)</span>.</p>
+<p>Reaktiolämmöksi saadaan reaktiotuotteiden ja lähtöaineiden välisenä entalpiaerona</p>
+<p><span class="math notranslate nohighlight">\(\begin{align}ΔH_{reaktio} &amp;= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
+&amp;=4\Delta H_3 + 2\Delta H_4 - (2\Delta H_1 + 5\Delta H_2) \\ \\
+&amp;=[4 \cdot (-393.5) + 2 \cdot (-241.8) - (2 \cdot 226.7 + 5 \cdot 0)] \ kJ \\ \\
+&amp;=-2511 \ kJ\end{align}\)</span></p>
+<p>Koska ΔH &lt; 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukaisesti moolia kohden.</p>
+</div>
+</section>
 <section id="hessin-laki">
-<h3>Hessin laki<a class="headerlink" href="#hessin-laki" title="Permalink to this headline">#</a></h3>
-<p>Entalpiamuutos on riippumaton reaktion välivaiheista.</p>
+<h3><span class="target" id="index-8"></span>Hessin laki<a class="headerlink" href="#hessin-laki" title="Permalink to this headline">#</a></h3>
+<p>Entalpiamuutos eli reaktiolämpö on riippumaton siitä, tapahtuuko reaktio suoraan vai välivaiheiden (osareaktioiden) kautta. Hessin lain mukaan reaktion entalpia voidaan laskea osareaktioiden avulla. Lain avulla voidaan täten määrittää minkä tahansa reaktion reaktiolämpö, jos kokonaisreaktion osareaktioiden reaktiolämmöt tunnetaan.</p>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: metaanin muodostumislämpö</p>
+<p>Metaania syntyy lähtöaineistaan hiilestä ja vetykaasusta alla olevan reaktion mukaisesti sen verran hitaasti, että sen muodostumislämmön kalorimetrinen määritys on hankalaa.</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{C \ (s) + 2 \ H_2 \ (g) \longrightarrow CH_4 \ (g)}\)</span></p>
+<p>Käytetään avuksi Hessin lakia, kun hiilidoksidin ja divetyoksidin (eli veden) muodostumislämmöt tunnetaan. Taulukon mukaan</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{C \ (s) + O_2 \ (g) \longrightarrow CO_2 \ (g); \ \Delta H_1=-393.5 \ kJ}\)</span>
+<span class="math notranslate nohighlight">\(\mathrm{2 \ H_2 \ (g) + O_2 \ (g) \longrightarrow 2 \ H_2O \ (l); \ \Delta H_2=2 \cdot -285.8 \ kJ = -571.6 \ kJ}\)</span></p>
+<p>Lisäksi käytetään avuksi tunnettua arvoa metaanin palamisen reaktiolämmölle, joka on mitattu kalorimetrisesti.</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{CH_4 \ (g) + 2 \ O_2 \ (g) \longrightarrow CO_2 \ (g) + 2 \ H_2O \ (l); \ \Delta H_3=-890 \ kJ}\)</span></p>
+<p>Lasketaan annetut kolme reaktioyhtälöä puolittain yhteen niin, että kaikki muu supistuu pois ja vain metaanin muodostumisreaktio jää jäljelle. Tämä onnistuu, kun kolmas reaktio käännetään ensin toisin päin eli</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{CO_2 \ (g) + 2 \ H_2O \ (l) \longrightarrow CH_4 \ (g) + 2 \ O_2 \ (g); \ -\Delta H_3=+890 \ kJ}\)</span></p>
+<p>Saadaan täten</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{C \ (s) + O_2 \ (g) + 2 \ H_2 \ (g) + O_2 \ (g) + CO_2 \ (g) + 2 \ H_2O \ (l) \longrightarrow CO_2 \ (g) + 2 \ H_2O \ (l) + CH_4 \ (g) + 2 \ O_2 \ (g)}\)</span></p>
+<p>joka supistettuna on</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{C \ (s) + 2 \ H_2 \ (g) \longrightarrow CH_4 \ (g)}\)</span></p>
+<p>ja metaanin muodostumislämmöksi saadaan lopulta</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{\Delta H_1 + \Delta H_2 + (-\Delta H_3) = (-393.5-571.6+890) \ kJ = -75.1 \ kJ}\)</span></p>
+</div>
+</section>
+<section id="olomuodon-muutokset-ja-entalpia">
+<h3>Olomuodon muutokset ja entalpia<a class="headerlink" href="#olomuodon-muutokset-ja-entalpia" title="Permalink to this headline">#</a></h3>
+<p><a href="https://commons.wikimedia.org/wiki/File:Physics_matter_state_transition_1_en.svg#/media/File:Physics_matter_state_transition_1_en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Physics_matter_state_transition_1_en.svg" alt="Physics matter state transition 1 en.svg" height="192" width="640"></a><br><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15779425">Link</a></p>
 </section>
 </section>
 <section id="reaktionopeuteen-vaikuttavat-tekijat">
 <h2>Reaktionopeuteen vaikuttavat tekijät<a class="headerlink" href="#reaktionopeuteen-vaikuttavat-tekijat" title="Permalink to this headline">#</a></h2>
-<p>Kemiallisen reaktion nopeuteen…</p>
+<p>Kemiallisen reaktion nopeuteen vaikuttavat</p>
 <ul class="simple">
-<li><p>Lämpötila</p></li>
-<li><p>Sekoittuminen</p></li>
-<li><p>Hienojakoisuus</p></li>
-<li><p>Katalyytti</p></li>
+<li><p>Systeemin lämpötila (törmäysenergian suuruus)</p></li>
+<li><p>Aineiden sekoittuminen (törmäysten todennäköisyys)</p></li>
+<li><p>Aineiden hienojakoisuus (kosketus- eli vuorovaikutuspinta-ala)</p></li>
+<li><p>Paine (törmäyksiä aikayksikössä)</p></li>
+<li><p>Katalyytti / Katalysaattori (muuttaa reaktiomekanismia ja alentaa siten aktivoitumisenergiaa, mutta ei itse kulu reaktiossa. Luonnon katalyytti = entsyymi)</p></li>
 </ul>
+<figure class="align-default" id="katalyytti">
+<a class="bg-primary mb-1 reference internal image-reference" href="../_images/aktivaatioenergia2.jpg"><img alt="Katalyytin vaikutus endotermisen reaktion aktivoitumisenergiaan." class="bg-primary mb-1 align-center" src="../_images/aktivaatioenergia2.jpg" style="width: 400px;" /></a>
+<figcaption>
+<p><span class="caption-number">Fig. 25 </span><span class="caption-text">Katalyytin vaikutus endotermisen reaktion aktivoitumisenergiaan. Kuvan alkuperäinen tekijä: <a href="https://openstax.org/books/biology/pages/1-introduction" target="_blank">CNX OpenStax</a>, lähde: <a href="https://commons.wikimedia.org/wiki/File:Figure_06_05_01.jpg" target="_blank">Wikipedia</a></span><a class="headerlink" href="#katalyytti" title="Permalink to this image">#</a></p>
+</figcaption>
+</figure>
 </section>
 </section>
 
