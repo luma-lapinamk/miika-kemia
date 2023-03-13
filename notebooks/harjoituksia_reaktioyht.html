@@ -375,12 +375,41 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reaktioyhtaloiden-tasapainottaminen">
+   Reaktioyhtälöiden tasapainottaminen
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reaktiokinetiikka">
+   Reaktiokinetiikka
+  </a>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
@@ -392,6 +421,24 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reaktioyhtaloiden-tasapainottaminen">
+   Reaktioyhtälöiden tasapainottaminen
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#reaktiokinetiikka">
+   Reaktiokinetiikka
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -401,26 +448,27 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="harjoituksia">
 <h1>Harjoituksia<a class="headerlink" href="#harjoituksia" title="Permalink to this headline">#</a></h1>
+<section id="reaktioyhtaloiden-tasapainottaminen">
+<h2>Reaktioyhtälöiden tasapainottaminen<a class="headerlink" href="#reaktioyhtaloiden-tasapainottaminen" title="Permalink to this headline">#</a></h2>
 <div class="tip dropdown admonition">
 <p class="admonition-title">1. Hiilivetyjen palamisreaktioiden tasapainottamista</p>
 <p>Nestekaasu on propaanin ja butaanin seos. Hiilivetyjen palaessa puhtaasti muodostuu hiilidioksisia ja vettä.</p>
 <p>Propaani: <span class="math notranslate nohighlight">\(\mathrm{C_3H_8 \ (g) + O_2 \ (g) \longrightarrow CO_2 \ (g) + H_2O \ (g)}\)</span></p>
 <p>Aakkosjärjestyksessä <em>CHO</em> ensimmäinen vaihe on tasapainottaa hiili (C). Katsotaan, kuinka monta hiiltä on yhdessä propaanimolekyylissä ja lisätään kerroin hiilidioksidin eteen.</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{C_3H_8 \ (g) + O_2 \ (g) \longrightarrow 3 \ CO_2 \ (g) + H_2O \ (g)}\)</span></p>
-<p>Seuraavaksi vety (H). Yhdessä propaanimolekyylissä on 8 vetyä, joten tästä muodostuu neljä vesimolekyyliä.</p>
+<p>Seuraavaksi tasapainotetaan vety (H). Yhdessä propaanimolekyylissä on 8 vetyä, joten tästä muodostuu neljä vesimolekyyliä.</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{C_3H_8 \ (g) + O_2 \ (g) \longrightarrow 3 \ CO_2 \ (g) + 4 \ H_2O \ (g)}\)</span></p>
-<p>Lopuksi lasketaan kuinka paljon happea tarvitaan yhteensä. Reaktiotuotteissa on yhteensä 6 + 4 = 10 happea, jotka saadaan aikaiseksi viidellä happimolekyylillä.</p>
+<p>Lopuksi lasketaan, kuinka paljon happea tarvitaan yhteensä. Reaktiotuotteissa on yhteensä 6 + 4 = 10 happea, jotka saadaan aikaiseksi viidellä happimolekyylillä.</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{C_3H_8 \ (g) + 5 \ O_2 \ (g) \longrightarrow 3 \ CO_2 \ (g) + 4 \ H_2O \ (g)}\)</span></p>
 <br>
 <p>Butaani: <span class="math notranslate nohighlight">\(\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow CO_2 \ (g) + H_2O \ (g)}\)</span></p>
-<p><span class="math notranslate nohighlight">\(\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + H_2O \ (g)}\)</span></p>
-<p><span class="math notranslate nohighlight">\(\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 5 \ H_2O \ (g)}\)</span></p>
+<p>Ensin hiili: <span class="math notranslate nohighlight">\(\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + H_2O \ (g)}\)</span></p>
+<p>Sitten vety: <span class="math notranslate nohighlight">\(\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 5 \ H_2O \ (g)}\)</span></p>
 <p>Reaktiotuotteissa on yhteensä 8 + 5 = 13 happea, jotka saadaan aikaiseksi <span class="math notranslate nohighlight">\(\frac{13}{2}\)</span> happimolekyylillä.</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{C_4H_{10} \ (g) + \frac{13}{2} \ O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 5 \ H_2O \ (g)}\)</span></p>
 <p>Lopuksi kerrotaan kaikki kertoimet kahdella, jotta päästään eroon murtoluvuista ja reaktioyhtälö on tasapainotettu.</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{2 \ C_4H_{10} \ (g) + 13 \ O_2 \ (g) \longrightarrow 8 \ CO_2 \ (g) + 10 \ H_2O \ (g)}\)</span></p>
 </div>
-<br>
 <div class="tip dropdown admonition">
 <p class="admonition-title">2. Reaktioyhtälöiden tasapainottamista yritys/erehdys-taktiikalla</p>
 <p>a) Hiilimonoksidin ja vesihöyryn reaktiossa muodostuu vetyä ja hiilidioksidia:</p>
@@ -448,7 +496,7 @@ title="Print to PDF"
 <div class="tip dropdown admonition">
 <p class="admonition-title">3. Reaktioyhtälöiden tasapainottamista hapetuslukumenetelmällä</p>
 <p>a) Fosforihapon ja kalsiumhydroksidin reaktiossa muodostuu kalsiumfosfaattia ja vettä:</p>
-<p><span class="math notranslate nohighlight">\(\mathrm{H_3PO_4 \ (aq) + Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}\)</span></p>
+<p><span class="math notranslate nohighlight">\(\mathrm{H_3PO_4 \ (aq) + Ca(OH)_2 \ (aq) \longrightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}\)</span></p>
 <ul class="simple">
 <li><p>Hapen ja vedyn hapetusluvut eivät muutu reaktiossa, joten H: (+I) ja O: (-II)</p></li>
 <li><p>Myöskään fosfaatti-ioni (PO<sub>4</sub><sup>3-</sup> ei hajoa reaktiossa, joten fosforin hapetusluku ei muutu.</p></li>
@@ -456,20 +504,32 @@ title="Print to PDF"
 <li><p>Reaktuotteissa fosfaatti-ionin varaus on -III, joten kalsiumin hapetusluku on +II. <strong>Minkään atomin hapetusluku ei siis muutu.</strong></p></li>
 </ul>
 <p>Tasapainotetaan siis kalsium reaktioyhtälön vasemmalle ja oikealle puolelle kuntoon lisäämällä kalsiumhydroksidin eteen kerroin 3.</p>
-<p><span class="math notranslate nohighlight">\(\mathrm{H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}\)</span></p>
+<p><span class="math notranslate nohighlight">\(\mathrm{H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \longrightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}\)</span></p>
 <p>Tasapainotetaan vielä fosfaatti-ionien lukumäärä kuntoon lisäämällä kerroin 2 fosforihapon eteen.</p>
-<p><span class="math notranslate nohighlight">\(\mathrm{2 \ H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}\)</span></p>
+<p><span class="math notranslate nohighlight">\(\mathrm{2 \ H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \longrightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}\)</span></p>
 <p>Lopuksi lasketaan, kuinka monta vesimolekyyliä reaktiossa muodostuu happiatomien perusteella. Koska fosfaatti-ionit ovat jo tasapainossa, vesimolekyylejä muodostuu kuusi kappaletta, koska kolmessa kalsiumhydroksidissa on yhteensä kuusi happea.</p>
-<p><span class="math notranslate nohighlight">\(\mathrm{2 \ H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + 6 \ H_2O \ (l)}\)</span></p>
+<p><span class="math notranslate nohighlight">\(\mathrm{2 \ H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \longrightarrow Ca_3(PO_4)_2 \ (s) + 6 \ H_2O \ (l)}\)</span></p>
 <br>
-<p>b) Raudan ja hapen reaktio:</p>
+<p>b) Raudan ja tinan hapetus-pelkistysreaktio:</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{Fe^{3+} \ (aq) + Sn^{2+} \ (aq) \longrightarrow Fe^{2+} \ (aq) + Sn^{4+} \ (aq)}\)</span></p>
+<ul class="simple">
+<li><p>Rauta (Fe) pelkistyy eli luovuttaa elektroneja: <span class="math notranslate nohighlight">\(\mathrm{+III \rightarrow +II}\)</span></p></li>
+<li><p>Tina (Sn) hapettuu eli vastaanottaa elektroneja: <span class="math notranslate nohighlight">\(\mathrm{+II \rightarrow +IV}\)</span></p></li>
+</ul>
+<p>Koska yksi rauta luovuttaa yhden elektronin ja tina vastaanottaa kaksi, tarvitaan rautaioneja kaksinkertainen määrä tinaioneihin verrattuna. (Pienin yhteinen jaettava on 2.)</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{2 \ Fe^{3+} \ (aq) + Sn^{2+} \ (aq) \longrightarrow 2 \ Fe^{2+} \ (aq) + Sn^{4+} \ (aq)}\)</span></p>
+<p>Tarkistetaan lopuksi, että varaukset ovat reakioyhtälön kummallakin puolella tasapainossa: vasemmalla yhteensä +8 ja oikealla samoin +8.</p>
+<br>
+<p>c) Raudan ja hapen reaktio:</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{Fe \ (s) + O_2 \ (g) \longrightarrow Fe_2O_3 \ (s)}\)</span></p>
 <p>Luetellaan atomien hapetusluvut.</p>
 <ul class="simple">
-<li><p>Lähtöaineissa Fe: (0) ja O: (0)</p></li>
-<li><p>Reaktiotuotteissa O: (-II) ja täten Fe: (+III)</p></li>
+<li><p>Lähtöaineissa Fe: <span class="math notranslate nohighlight">\(0\)</span> ja O: <span class="math notranslate nohighlight">\(0\)</span></p></li>
+<li><p>Reaktiotuotteissa O: <span class="math notranslate nohighlight">\(\mathrm{-II}\)</span> ja täten Fe: <span class="math notranslate nohighlight">\(\mathrm{+III}\)</span></p></li>
+<li><p>Rauta hapettuu <span class="math notranslate nohighlight">\(\mathrm{0 \rightarrow III}\)</span></p></li>
+<li><p>Happi pelkistyy <span class="math notranslate nohighlight">\(\mathrm{0 \rightarrow -II}\)</span></p></li>
 </ul>
-<p>Yksi rauta-atomi siis <strong>luovuttaa kolme</strong> elektronia ja yksi happiatomi vastaanottaa kaksi.  Tällöin yksi <strong>happimolekyyli vastaanottaa yhteensä neljä</strong> elektronia. Lukujen kolme ja neljä pienin yhteinen jaettava on 12, joten lähtöaineiden kertoimiksi saadaan</p>
+<p>Yksi rauta-atomi siis luovuttaa kolme elektronia ja yksi happiatomi vastaanottaa kaksi. Tällöin yksi <strong>happimolekyyli vastaanottaa yhteensä neljä elektronia</strong>. Lukujen kolme ja neljä pienin yhteinen jaettava on 12, joten lähtöaineiden kertoimiksi saadaan</p>
 <ul class="simple">
 <li><p>Fe: <span class="math notranslate nohighlight">\(\frac{12}{3}=4\)</span></p></li>
 <li><p>O<sub>2</sub>: <span class="math notranslate nohighlight">\(\frac{12}{4}=3\)</span></p></li>
@@ -479,6 +539,10 @@ title="Print to PDF"
 <p>Jotta reaktion oikea puoli olisi myös tasapainossa, tulee reaktiotuotteen eteen laittaa vielä kerroin 2.</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{4 \ Fe \ (s) + 3 \ O_2 \ (g) \longrightarrow 2 \ Fe_2O_3 \ (s)}\)</span></p>
 </div>
+</section>
+<section id="reaktiokinetiikka">
+<h2>Reaktiokinetiikka<a class="headerlink" href="#reaktiokinetiikka" title="Permalink to this headline">#</a></h2>
+</section>
 </section>
 
     <script type="text/x-thebe-config">

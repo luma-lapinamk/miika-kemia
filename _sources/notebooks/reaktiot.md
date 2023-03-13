@@ -20,12 +20,11 @@ Ekso- ja endotermisen reaktion energiakaaviot. Kuvan alkuperäinen tekijä: <a h
 ## {index}`Entalpia` eli energiasisältö (lämpösisältö)
 Aineen sisältämää kemiallista energiaa sanotaan entalpiaksi. Entalpiaa merkitään tunnuksella *H* ja yksikkönä on joule, *J*.
 
-Entalpianmuutos (ΔH) eli reaktiolämpö määritellään reaktiotuotteiden ja 
-lähtöaineiden entalpioiden kautta. ∆H ilmoitetaan kertoimien ilmoittamia 
-moolimääriä kohti 
+Entalpianmuutos (ΔH) eli reaktiolämpö määritellään reaktiotuotteiden ja lähtöaineiden entalpioiden kautta. ∆H ilmoitetaan kertoimien ilmoittamia moolimääriä kohti:
 ΔHreaktio = Hreaktiotuotteet - Hlähtöaineet
 
 ### Hessin laki
+Entalpiamuutos on riippumaton reaktion välivaiheista.
 
 ## Reaktionopeuteen vaikuttavat tekijät
 Kemiallisen reaktion nopeuteen...
