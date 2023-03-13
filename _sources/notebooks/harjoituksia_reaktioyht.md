@@ -1,6 +1,43 @@
 # Harjoituksia
 
-:::{admonition} 1. Reaktioyhtälöiden tasapainottamista yritys/erehdys-taktiikalla
+:::{admonition} 1. Hiilivetyjen palamisreaktioiden tasapainottamista
+:class: tip, dropdown
+Nestekaasu on propaanin ja butaanin seos. Hiilivetyjen palaessa puhtaasti muodostuu hiilidioksisia ja vettä.
+
+Propaani: $\mathrm{C_3H_8 \ (g) + O_2 \ (g) \longrightarrow CO_2 \ (g) + H_2O \ (g)}$
+
+Aakkosjärjestyksessä *CHO* ensimmäinen vaihe on tasapainottaa hiili (C). Katsotaan, kuinka monta hiiltä on yhdessä propaanimolekyylissä ja lisätään kerroin hiilidioksidin eteen.
+
+$\mathrm{C_3H_8 \ (g) + O_2 \ (g) \longrightarrow 3 \ CO_2 \ (g) + H_2O \ (g)}$
+
+Seuraavaksi vety (H). Yhdessä propaanimolekyylissä on 8 vetyä, joten tästä muodostuu neljä vesimolekyyliä.
+
+$\mathrm{C_3H_8 \ (g) + O_2 \ (g) \longrightarrow 3 \ CO_2 \ (g) + 4 \ H_2O \ (g)}$
+
+Lopuksi lasketaan kuinka paljon happea tarvitaan yhteensä. Reaktiotuotteissa on yhteensä 6 + 4 = 10 happea, jotka saadaan aikaiseksi viidellä happimolekyylillä.
+
+$\mathrm{C_3H_8 \ (g) + 5 \ O_2 \ (g) \longrightarrow 3 \ CO_2 \ (g) + 4 \ H_2O \ (g)}$
+
+<br>
+
+Butaani: $\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow CO_2 \ (g) + H_2O \ (g)}$
+
+$\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + H_2O \ (g)}$
+
+$\mathrm{C_4H_{10} \ (g) + O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 5 \ H_2O \ (g)}$
+
+Reaktiotuotteissa on yhteensä 8 + 5 = 13 happea, jotka saadaan aikaiseksi $\frac{13}{2}$ happimolekyylillä.
+
+$\mathrm{C_4H_{10} \ (g) + \frac{13}{2} \ O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 5 \ H_2O \ (g)}$
+
+Lopuksi kerrotaan kaikki kertoimet kahdella, jotta päästään eroon murtoluvuista ja reaktioyhtälö on tasapainotettu.
+
+$\mathrm{2 \ C_4H_{10} \ (g) + 13 \ O_2 \ (g) \longrightarrow 8 \ CO_2 \ (g) + 10 \ H_2O \ (g)}$
+:::
+
+<br>
+
+:::{admonition} 2. Reaktioyhtälöiden tasapainottamista yritys/erehdys-taktiikalla
 :class: tip, dropdown
 a) Hiilimonoksidin ja vesihöyryn reaktiossa muodostuu vetyä ja hiilidioksidia:
 
@@ -45,7 +82,7 @@ Lopuksi kerrotaan kaikki kertoimet kahdella, jotta päästään eroon murtoluvui
 $\mathrm{4 \ NH_3 \ (g) + 5 \ O_2 \ (g) \longrightarrow 4 \ NO \ (g) + 6 \ H_2O \ (g)}$
 :::
 
-:::{admonition} 2. Reaktioyhtälöiden tasapainottamista hapetuslukumenetelmällä
+:::{admonition} 3. Reaktioyhtälöiden tasapainottamista hapetuslukumenetelmällä
 :class: tip, dropdown
 a) Fosforihapon ja kalsiumhydroksidin reaktiossa muodostuu kalsiumfosfaattia ja vettä:
 
