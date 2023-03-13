@@ -47,15 +47,38 @@ $\mathrm{4 \ NH_3 \ (g) + 5 \ O_2 \ (g) \longrightarrow 4 \ NO \ (g) + 6 \ H_2O 
 
 :::{admonition} 2. Reaktioyhtälöiden tasapainottamista hapetuslukumenetelmällä
 :class: tip, dropdown
-a) Raudan ja hapen reaktio:
+a) Fosforihapon ja kalsiumhydroksidin reaktiossa muodostuu kalsiumfosfaattia ja vettä:
+
+$\mathrm{H_3PO_4 \ (aq) + Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}$
+
+- Hapen ja vedyn hapetusluvut eivät muutu reaktiossa, joten H: (+I) ja O: (-II)
+- Myöskään fosfaatti-ioni (PO<sub>4</sub><sup>3-</sup> ei hajoa reaktiossa, joten fosforin hapetusluku ei muutu.
+- Lähtöaineissa hydroksidi-ionin (OH<sup>-</sup> varaus on -1, joten kalsiumin hapetusluku on +II.
+- Reaktuotteissa fosfaatti-ionin varaus on -III, joten kalsiumin hapetusluku on +II. **Minkään atomin hapetusluku ei siis muutu.**
+
+Tasapainotetaan siis kalsium reaktioyhtälön vasemmalle ja oikealle puolelle kuntoon lisäämällä kalsiumhydroksidin eteen kerroin 3.
+
+$\mathrm{H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}$
+
+Tasapainotetaan vielä fosfaatti-ionien lukumäärä kuntoon lisäämällä kerroin 2 fosforihapon eteen.
+
+$\mathrm{2 \ H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + H_2O \ (l)}$
+
+Lopuksi lasketaan, kuinka monta vesimolekyyliä reaktiossa muodostuu happiatomien perusteella. Koska fosfaatti-ionit ovat jo tasapainossa, vesimolekyylejä muodostuu kuusi kappaletta, koska kolmessa kalsiumhydroksidissa on yhteensä kuusi happea.
+
+$\mathrm{2 \ H_3PO_4 \ (aq) + 3 \ Ca(OH)_2 \ (aq) \rightarrow Ca_3(PO_4)_2 \ (s) + 6 \ H_2O \ (l)}$
+
+<br>
+
+b) Raudan ja hapen reaktio:
 
 $\mathrm{Fe \ (s) + O_2 \ (g) \longrightarrow Fe_2O_3 \ (s)}$
 
 Luetellaan atomien hapetusluvut.
 - Lähtöaineissa Fe: (0) ja O: (0)
-- Reaktiotuotteissa O: (-II) ja töten Fe: (+III)
+- Reaktiotuotteissa O: (-II) ja täten Fe: (+III)
 
-Yksi rauta-atomi siis **luovuttaa kolme** elektronia ja yksi happiatomi vastaanottaa kaksi.  Tällöin yksi happimolekyyli **vastaanottaa yhteensä neljä** elektronia. Lukujen kolme ja neljä pienin yhteinen jaettava on 12, joten lähtöaineiden kertoimiksi saadaan
+Yksi rauta-atomi siis **luovuttaa kolme** elektronia ja yksi happiatomi vastaanottaa kaksi.  Tällöin yksi **happimolekyyli vastaanottaa yhteensä neljä** elektronia. Lukujen kolme ja neljä pienin yhteinen jaettava on 12, joten lähtöaineiden kertoimiksi saadaan
 - Fe: $\frac{12}{3}=4$
 - O<sub>2</sub>: $\frac{12}{4}=3$
 
