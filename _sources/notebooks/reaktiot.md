@@ -54,7 +54,7 @@ $\begin{align}ΔH_{reaktio} &= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
 Koska ΔH < 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukaisesti moolia kohden.
 :::
 
-### {index}`Hessin laki`
+### {index}`Hessin laki` (kuva puuttuu)
 Entalpiamuutos eli reaktiolämpö on riippumaton siitä, tapahtuuko reaktio suoraan vai välivaiheiden (osareaktioiden) kautta. Hessin lain mukaan reaktion entalpia voidaan laskea osareaktioiden avulla. Lain avulla voidaan täten määrittää minkä tahansa reaktion reaktiolämpö, jos kokonaisreaktion osareaktioiden reaktiolämmöt tunnetaan.
 
 :::{admonition} Esimerkki: metaanin muodostumislämpö
