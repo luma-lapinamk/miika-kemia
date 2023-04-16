@@ -42,7 +42,7 @@ $\mathrm{2 \ C \ (s) + H_2 \ (g) \longrightarrow C_2H_2 \ (g); \ \Delta H_1=+226
 Happikaasu on vapaa alkuaine, joten sen $\Delta H_2=0$.<br>
 $\mathrm{C \ (s) + O_2 \ (g) \longrightarrow CO_2 \ (g); \ \Delta H_3=-393.5 \ kJ}$
 $\mathrm{H_2 \ (g) + \frac{1}{2} O_2 \ (g) \longrightarrow H_2O \ (g); \ \Delta H_4=-241.8 \ kJ}$<br>
-Huom! Taulukossa vain arvo $\mathrm{H_2O \ (l)}$, joten taulukkoarvoon tulisi lisätä veden höyrystymislämpö moolia kohden, eli $\mathrm{H_2O \ (l) \longrightarrow H_2O \ (g); \ \Delta H=+40.7 kJ}$.
+Huom! Taulukossa on vain arvo $\mathrm{H_2O \ (l)}$, joten taulukkoarvoon tulisi lisätä veden höyrystymislämpö moolia kohden, eli $\mathrm{H_2O \ (l) \longrightarrow H_2O \ (g); \ \Delta H=+40.7 kJ}$.
 
 Reaktiolämmöksi saadaan reaktiotuotteiden ja lähtöaineiden välisenä entalpiaerona
 
