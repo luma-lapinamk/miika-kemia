@@ -1,5 +1,7 @@
 # Taulukoita
 
+Taulukot voivat olla puutteelisia. Jos huomaat, että jokin alkuaine puuttuu, ota tekijään yhteyttä. kiitos!
+
 ## {index}`Elektronegatiivisuusarvoja`
 Linus Paulingin mukaan
 
@@ -134,6 +136,81 @@ Linus Paulingin mukaan
 | 3.0 | 89 |
 | 3.1 | 91 |
 | 3.2 | 92 |
+
+## ## {index}`Yleisimmät hapetusluvut`
+
+| Alkuaine      | Kemiallinen merkki | Yleisimmät hapetusluvut |
+|---------------|--------------------|-----------------------|
+| Alumiini      | Al                 | +III                  |
+| Antimoni      | Sb                 | -III, +III, +V        |
+| Arseeni       | As                 | -III, +III, +V        |
+| Barium        | Ba                 | +II                   |
+| Beryllium     | Be                 | +II                   |
+| Boori         | B                  | +III                  |
+| Bromi         | Br                 | -I, +I, +V            |
+| Cesium        | Cs                 | +I                    |
+| Elohopea      | Hg                 | +I, +II               |
+| Fluori        | F                  | -I                    |
+| Fosfori       | P                  | -III, +III, +V        |
+| Frankium      | Fr                 | +I                    |
+| Gallium       | Ga                 | +III                  |
+| Germanium     | Ge                 | +II, +IV              |
+| Hafnium       | Hf                 | +IV                   |
+| Happi         | O                  | -II                   |
+| Hiili         | C                  | -IV, +II, +IV         |
+| Hopea         | Ag                 | +I                    |
+| Indium        | In                 | +III                  |
+| Jodi          | I                  | -I, +I, +V, +VII      |
+| Kadmium       | Cd                 | +II                   |
+| Kalium        | K                  | +I                    |
+| Kalsium       | Ca                 | +II                   |
+| Kloori        | Cl                 | -I, +I, +VII          |
+| Koboltti      | Co                 | +II, +III             |
+| Kromi         | Cr                 | II, +III, +VI         |
+| Kulta         | Au                 | +I, +III              |
+| Kupari        | Cu                 | +I, +II               |
+| Litium        | Li                 | +I                    |
+| Lyijy         | Pb                 | +II, +IV              |
+| Magnesium     | Mg                 | +II                   |
+| Mangaani      | Mn                 | +II, +III, +IV, +VI   |
+| Merkurius     | Hg                 | +I, +II               |
+| Molybdeeni    | Mo                 | +II, +III, +IV, +VI   |
+| Natrium       | Na                 | +I                    |
+| Nikkeli       | Ni                 | +II, +III             |
+| Niobium       | Nb                 | +III, +V              |
+| Osmium        | Os                 | +II, +III, +IV, +VI   |
+| Palladium     | Pd                 | +II, +IV              |
+| Pii           | Si                 | -IV, +IV              |
+| Platina       | Pt                 | +II, +IV, +VI         |
+| Plutonium     | Pu                 | +III, +IV, +V, +VI    |
+| Polonium      | Po                 | +II, +IV              |
+| Radium        | Ra                 | +II                   |
+| Rauta         | Fe                 | +II, +III             |
+| Renium        | Re                 | +IV, +VI, +VII        |
+| Rikki         | S                  | -II, +IV, +IV, +VI    |
+| Rodium        | Rh                 | +II, +III, +IV        |
+| Rubidium      | Rb                 | +I                    |
+| Rutenium      | Ru                 | +III, +IV, +V, +VI    |
+| Seleeni       | Se                 | -II, +IV, +VI         |
+| Sinkki        | Zn                 | +II                   |
+| Skandium      | Sc                 | +III                  |
+| Strontium     | Sr                 | +II                   |
+| Tallium       | Tl                 | +I, +III              |
+| Tantaali      | Ta                 | +V                    |
+| Teknetium     | Tc                 | +II, +IV, +VI, +VII   |
+| Telluuri      | Te                 | -II, +IV, +VI         |
+| Titaani       | Ti                 | +III, +IV             |
+| Tina          | Sn                 | +II, +IV              |
+| Typpi         | N                  | -III, +III, +V        |
+| Uraani        | U                  | +IV, +VI              |
+| Vanadiini     | V                  | +II, +III, +IV, +V    |
+| Yttrium       | Y                  | +III                  |
+| Ytterbium     | Yb                 | +II, +III             |
+| Zirkonium     | Zr                 | +II, +III, +IV        |
+| Vety          | H                  | +I, -I                |
+| Vismutti      | Bi                 | -III, +III, +V        |
+
+
 
 ## {index}`Muodostumislämpöjä`
 Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhdistettä syntyy alkuaineistaan olosuhteissa T =  298.15 K ja p = 101.325 kPa. Alkuaineen pysyvimmän muodon entalpia on 0 kJ/mol.
