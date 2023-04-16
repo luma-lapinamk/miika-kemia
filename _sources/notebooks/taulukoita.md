@@ -1,6 +1,7 @@
-# {index}`Taulukoita`
+# Taulukoita
 
-## Elektronegatiivisuusarvoja
+## {index}`Elektronegatiivisuusarvoja`
+Linus Paulingin mukaan
 
 | Alkuaine     | Kemiallinen merkki | Elektronegatiivisuusarvo |
 |--------------|--------------------|--------------------------|
@@ -96,9 +97,46 @@
 | Yttrium      | Y                  | 1.3                      |
 | Zirkonium    | Zr                 | 1.4                      |
 
+## {index}`Sidoksen ioniluonne`
+Linus Paulingin mukaan
 
+| Elektronegatiivisuusero | Sidoksen ioniluonne % |
+|-------------------------|-----------------------|
+| 0.1 | 0.5 |
+| 0.2 | 1 |
+| 0.3 | 2 |
+| 0.4 | 4 |
+| 0.5 | 6 |
+| 0.6 | 9 |
+| 0.7 | 12 |
+| 0.8 | 15 |
+| 0.9 | 19 |
+| 1.0 | 22 |
+| 1.1 | 26 |
+| 1.2 | 30 |
+| 1.3 | 34 |
+| 1.4 | 39 |
+| 1.5 | 43 |
+| 1.6 | 47 |
+| 1.7 | 51 |
+| 1.8 | 55 |
+| 1.9 | 59 |
+| 2.0 | 63 |
+| 2.1 | 67 |
+| 2.2 | 70 |
+| 2.3 | 74 |
+| 2.4 | 76 |
+| 2.5 | 79 |
+| 2.6 | 82 |
+| 2.7 | 84 |
+| 2.8 | 86 |
+| 2.9 | 88 |
+| 3.0 | 89 |
+| 3.1 | 91 |
+| 3.2 | 92 |
 
-## Muodostumislämpöjä
+## {index}`Muodostumislämpöjä`
+Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhdistettä syntyy alkuaineistaan olosuhteissa T =  298.15 K ja p = 101.325 kPa. Alkuaineen pysyvimmän muodon entalpia on 0 kJ/mol.
 
 | Yhdiste | ΔH° (kJ/mol) |
 | --- | --- |

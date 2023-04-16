@@ -1,1 +1,1 @@
-# Aakkosellinen hakemisto
+# Hakemisto
