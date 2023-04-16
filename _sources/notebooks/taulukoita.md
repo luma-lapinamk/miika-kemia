@@ -119,8 +119,8 @@ Linus Paulingin mukaan
 | 1.3 | 34 |
 | 1.4 | 39 |
 | 1.5 | 43 |
-| 1.6 | 47 |
-| 1.7 | 51 |
+| **1.6** | **47** |
+| **1.7** | **51** |
 | 1.8 | 55 |
 | 1.9 | 59 |
 | 2.0 | 63 |
@@ -137,7 +137,7 @@ Linus Paulingin mukaan
 | 3.1 | 91 |
 | 3.2 | 92 |
 
-## ## {index}`Yleisimmät hapetusluvut`
+## {index}`Yleisimmät hapetusluvut`
 
 | Alkuaine      | Kemiallinen merkki | Yleisimmät hapetusluvut |
 |---------------|--------------------|-----------------------|
