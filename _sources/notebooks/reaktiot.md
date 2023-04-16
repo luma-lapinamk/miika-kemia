@@ -25,24 +25,21 @@ $\mathrm{ΔH_{reaktio} = H_{reaktiotuotteet} - H_{lähtöaineet}}$
 ### {index}`Muodostumislämpö`
 Aineen muodostumislämmöllä tarkoitetaan sitä entalpiamuutosta, joka syntyy, kun **yksi mooli ainetta syntyy alkuaineistaan** olosuhteissa T = 298.15 K ja p = 101.325 kPa. Alkuaineen pysyvimmän muodon entalpia on annetuissa olosuhteissa 0 kJ/mol.
 
-Aineiden muodostumislämpöjä on taulukoita esimerkiksi <a href="https://www.taulukot.com/kemia/yhdisteet/#muodostumislampoja" target="_blank">Taulukot.com</a>-sivustolle.
-
 :::{admonition} Esimerkki: asetyleenin (etyynin) reaktiolämpö
 :class: tip
 
-Määritetään asetyleenin ((C_2H_2)) palamisen reaktiolämpö ∆H. Oletettavasti reaktio on eksoterminen, joten vastauksen tulisi olla negatiivinen.
+Määritetään asetyleenin (C<sub>2</sub>H<sub>2</sub>) palamisen reaktiolämpö ∆H. Oletettavasti reaktio on eksoterminen, joten vastauksen tulisi olla negatiivinen.
 
-Muodostetaan ensin palamisen tasapainotettu reaktioyhtälö.
+Muodostetaan ensin asetyleenin (eteenin) palamisen tasapainotettu reaktioyhtälö.
 
 $\mathrm{2 \ C_2H_2 \ (g) + 5 \ O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 2 \ H_2O \ (g)}$
 
-<a href="https://www.taulukot.com/kemia/yhdisteet/#muodostumislampoja" target="_blank">Muodostumislämpötaulukon</a> mukaan
+<a href="https://luma-lapinamk.github.io/miika-kemia/notebooks/taulukoita.html#muodostumislampoja" target="_blank">Muodostumislämpötaulukon</a> mukaan
 
 $\mathrm{2 \ C \ (s) + H_2 \ (g) \longrightarrow C_2H_2 \ (g); \ \Delta H_1=+226.7 \ kJ}$<br>
 Happikaasu on vapaa alkuaine, joten sen $\Delta H_2=0$.<br>
 $\mathrm{C \ (s) + O_2 \ (g) \longrightarrow CO_2 \ (g); \ \Delta H_3=-393.5 \ kJ}$
 $\mathrm{H_2 \ (g) + \frac{1}{2} O_2 \ (g) \longrightarrow H_2O \ (g); \ \Delta H_4=-241.8 \ kJ}$<br>
-Huom! Taulukossa on vain arvo $\mathrm{H_2O \ (l)}$, joten taulukkoarvoon tulisi lisätä veden höyrystymislämpö moolia kohden, eli $\mathrm{H_2O \ (l) \longrightarrow H_2O \ (g); \ \Delta H=+40.7 kJ}$.
 
 Reaktiolämmöksi saadaan reaktiotuotteiden ja lähtöaineiden välisenä entalpiaerona
 
@@ -54,8 +51,17 @@ $\begin{align}ΔH_{reaktio} &= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
 Koska ΔH < 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukaisesti moolia kohden.
 :::
 
-### {index}`Hessin laki` (kuva puuttuu)
+### {index}`Hessin laki`
 Entalpiamuutos eli reaktiolämpö on riippumaton siitä, tapahtuuko reaktio suoraan vai välivaiheiden (osareaktioiden) kautta. Hessin lain mukaan reaktion entalpia voidaan laskea osareaktioiden avulla. Lain avulla voidaan täten määrittää minkä tahansa reaktion reaktiolämpö, jos kokonaisreaktion osareaktioiden reaktiolämmöt tunnetaan.
+
+$\begin{equation*}
+\begin{array}{ c c c }
+\mathrm{Lähtöaineet} & \xrightarrow[]{\Delta H} & \mathrm{Reaktiotuotteet} \\
+\uparrow & & \uparrow \\
+\Delta H_{lähtöaineet} & & \Delta H_{tuotteet} \\
+& \mathrm{Aineet} & \\
+\end{array}
+\end{equation*}$
 
 :::{admonition} Esimerkki: metaanin muodostumislämpö
 :class: tip

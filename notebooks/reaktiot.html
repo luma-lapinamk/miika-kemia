@@ -56,7 +56,7 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Harjoituksia" href="harjoituksia_reaktioyht.html" />
-    <link rel="prev" title="Reaktioyhtälö (kesken)" href="reaktioyht.html" />
+    <link rel="prev" title="Reaktioyhtälö" href="reaktioyht.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -227,7 +227,7 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="reaktioyht.html">
-   Reaktioyhtälö (kesken)
+   Reaktioyhtälö
   </a>
  </li>
  <li class="toctree-l1 current active">
@@ -255,13 +255,18 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Hakemisto
+  Liitteet
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
+  <a class="reference internal" href="taulukoita.html">
+   Taulukoita
+  </a>
+ </li>
+ <li class="toctree-l1">
   <a class="reference internal" href="../genindex.html">
-   Aakkosellinen hakemisto
+   Hakemisto
   </a>
  </li>
 </ul>
@@ -420,8 +425,8 @@ title="Print to PDF"
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#hessin-laki-kuva-puuttuu">
-     Hessin laki (kuva puuttuu)
+    <a class="reference internal nav-link" href="#hessin-laki">
+     Hessin laki
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
@@ -466,8 +471,8 @@ title="Print to PDF"
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#hessin-laki-kuva-puuttuu">
-     Hessin laki (kuva puuttuu)
+    <a class="reference internal nav-link" href="#hessin-laki">
+     Hessin laki
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
@@ -522,18 +527,16 @@ title="Print to PDF"
 <section id="muodostumislampo">
 <h3><span class="target" id="index-7"></span>Muodostumislämpö<a class="headerlink" href="#muodostumislampo" title="Permalink to this headline">#</a></h3>
 <p>Aineen muodostumislämmöllä tarkoitetaan sitä entalpiamuutosta, joka syntyy, kun <strong>yksi mooli ainetta syntyy alkuaineistaan</strong> olosuhteissa T = 298.15 K ja p = 101.325 kPa. Alkuaineen pysyvimmän muodon entalpia on annetuissa olosuhteissa 0 kJ/mol.</p>
-<p>Aineiden muodostumislämpöjä on taulukoita esimerkiksi <a href="https://www.taulukot.com/kemia/yhdisteet/#muodostumislampoja" target="_blank">Taulukot.com</a>-sivustolle.</p>
 <div class="tip admonition">
 <p class="admonition-title">Esimerkki: asetyleenin (etyynin) reaktiolämpö</p>
-<p>Määritetään asetyleenin ((C_2H_2)) palamisen reaktiolämpö ∆H. Oletettavasti reaktio on eksoterminen, joten vastauksen tulisi olla negatiivinen.</p>
-<p>Muodostetaan ensin palamisen tasapainotettu reaktioyhtälö.</p>
+<p>Määritetään asetyleenin (C<sub>2</sub>H<sub>2</sub>) palamisen reaktiolämpö ∆H. Oletettavasti reaktio on eksoterminen, joten vastauksen tulisi olla negatiivinen.</p>
+<p>Muodostetaan ensin asetyleenin (eteenin) palamisen tasapainotettu reaktioyhtälö.</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{2 \ C_2H_2 \ (g) + 5 \ O_2 \ (g) \longrightarrow 4 \ CO_2 \ (g) + 2 \ H_2O \ (g)}\)</span></p>
-<p><a href="https://www.taulukot.com/kemia/yhdisteet/#muodostumislampoja" target="_blank">Muodostumislämpötaulukon</a> mukaan</p>
+<p><a href="https://luma-lapinamk.github.io/miika-kemia/notebooks/taulukoita.html#muodostumislampoja" target="_blank">Muodostumislämpötaulukon</a> mukaan</p>
 <p><span class="math notranslate nohighlight">\(\mathrm{2 \ C \ (s) + H_2 \ (g) \longrightarrow C_2H_2 \ (g); \ \Delta H_1=+226.7 \ kJ}\)</span><br>
 Happikaasu on vapaa alkuaine, joten sen <span class="math notranslate nohighlight">\(\Delta H_2=0\)</span>.<br>
 <span class="math notranslate nohighlight">\(\mathrm{C \ (s) + O_2 \ (g) \longrightarrow CO_2 \ (g); \ \Delta H_3=-393.5 \ kJ}\)</span>
-<span class="math notranslate nohighlight">\(\mathrm{H_2 \ (g) + \frac{1}{2} O_2 \ (g) \longrightarrow H_2O \ (g); \ \Delta H_4=-241.8 \ kJ}\)</span><br>
-Huom! Taulukossa on vain arvo <span class="math notranslate nohighlight">\(\mathrm{H_2O \ (l)}\)</span>, joten taulukkoarvoon tulisi lisätä veden höyrystymislämpö moolia kohden, eli <span class="math notranslate nohighlight">\(\mathrm{H_2O \ (l) \longrightarrow H_2O \ (g); \ \Delta H=+40.7 kJ}\)</span>.</p>
+<span class="math notranslate nohighlight">\(\mathrm{H_2 \ (g) + \frac{1}{2} O_2 \ (g) \longrightarrow H_2O \ (g); \ \Delta H_4=-241.8 \ kJ}\)</span><br></p>
 <p>Reaktiolämmöksi saadaan reaktiotuotteiden ja lähtöaineiden välisenä entalpiaerona</p>
 <p><span class="math notranslate nohighlight">\(\begin{align}ΔH_{reaktio} &amp;= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
 &amp;=4\Delta H_3 + 2\Delta H_4 - (2\Delta H_1 + 5\Delta H_2) \\ \\
@@ -542,9 +545,17 @@ Huom! Taulukossa on vain arvo <span class="math notranslate nohighlight">\(\math
 <p>Koska ΔH &lt; 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukaisesti moolia kohden.</p>
 </div>
 </section>
-<section id="hessin-laki-kuva-puuttuu">
-<h3><span class="target" id="index-8"></span>Hessin laki (kuva puuttuu)<a class="headerlink" href="#hessin-laki-kuva-puuttuu" title="Permalink to this headline">#</a></h3>
+<section id="hessin-laki">
+<h3><span class="target" id="index-8"></span>Hessin laki<a class="headerlink" href="#hessin-laki" title="Permalink to this headline">#</a></h3>
 <p>Entalpiamuutos eli reaktiolämpö on riippumaton siitä, tapahtuuko reaktio suoraan vai välivaiheiden (osareaktioiden) kautta. Hessin lain mukaan reaktion entalpia voidaan laskea osareaktioiden avulla. Lain avulla voidaan täten määrittää minkä tahansa reaktion reaktiolämpö, jos kokonaisreaktion osareaktioiden reaktiolämmöt tunnetaan.</p>
+<p><span class="math notranslate nohighlight">\(\begin{equation*}
+\begin{array}{ c c c }
+\mathrm{Lähtöaineet} &amp; \xrightarrow[]{\Delta H} &amp; \mathrm{Reaktiotuotteet} \\
+\uparrow &amp; &amp; \uparrow \\
+\Delta H_{lähtöaineet} &amp; &amp; \Delta H_{tuotteet} \\
+&amp; \mathrm{Aineet} &amp; \\
+\end{array}
+\end{equation*}\)</span></p>
 <div class="tip admonition">
 <p class="admonition-title">Esimerkki: metaanin muodostumislämpö</p>
 <p>Metaania syntyy lähtöaineistaan hiilestä ja vetykaasusta alla olevan reaktion mukaisesti sen verran hitaasti, että sen muodostumislämmön kalorimetrinen määritys on hankalaa.</p>
@@ -619,7 +630,7 @@ Huom! Taulukossa on vain arvo <span class="math notranslate nohighlight">\(\math
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Reaktioyhtälö (kesken)</p>
+            <p class="prev-next-title">Reaktioyhtälö</p>
         </div>
     </a>
     <a class='right-next' id="next-link" href="harjoituksia_reaktioyht.html" title="next page">
