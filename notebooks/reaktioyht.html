@@ -51,6 +51,8 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Reaktiokinetiikka" href="reaktiot.html" />
@@ -202,6 +204,18 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
+  Heikot kemialliset sidokset
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="vanderWaals.html">
+   Dipoli
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
   Kemialliset reaktiot
  </span>
 </p>
@@ -241,13 +255,18 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Hakemisto
+  Liitteet
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
+  <a class="reference internal" href="taulukoita.html">
+   Taulukoita
+  </a>
+ </li>
+ <li class="toctree-l1">
   <a class="reference internal" href="../genindex.html">
-   Aakkosellinen hakemisto
+   Hakemisto
   </a>
  </li>
 </ul>
@@ -404,6 +423,18 @@ title="Print to PDF"
   <a class="reference internal nav-link" href="#hapetusluvut">
    Hapetusluvut
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#hapetuslukujen-maarittaminen">
+     Hapetuslukujen määrittäminen
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#hapetuslukujen-kaytto-kemiallisten-reaktioiden-tasapainottamisessa">
+     Hapetuslukujen käyttö kemiallisten reaktioiden tasapainottamisessa
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 
@@ -433,6 +464,18 @@ title="Print to PDF"
   <a class="reference internal nav-link" href="#hapetusluvut">
    Hapetusluvut
   </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#hapetuslukujen-maarittaminen">
+     Hapetuslukujen määrittäminen
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#hapetuslukujen-kaytto-kemiallisten-reaktioiden-tasapainottamisessa">
+     Hapetuslukujen käyttö kemiallisten reaktioiden tasapainottamisessa
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 
@@ -446,12 +489,64 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="reaktioyhtalo-kesken">
 <h1><span class="target" id="index-0"></span>Reaktioyhtälö (kesken)<a class="headerlink" href="#reaktioyhtalo-kesken" title="Permalink to this headline">#</a></h1>
-<p>Reaktioyhtälö on yksinkertaistettu tapa osoittaa, mitkä aineet ovat reagoineet keskenään (reaktion lähtöaineet) ja mitä reaktion seurauksena on syntynyt (reaktiotuotteet).</p>
+<p>Kemiallinen reaktio on prosessi, jossa lähtöaineet muuttuvat reaktiotuotteiksi. Lähtöaineiden atomien tai ionien väliset sidokset katkeavat, ja syntyy uusia sidoksia. Sidosten katkaiseminen vaatii energiaa, kun taas sidosten syntyminen vapauttaa energiaa. Useimmissa reaktioissa lähtöaineet ja reaktiotuotteet eivät ole kemiallisesti tasapainossa, mikä tarkoittaa sitä, että reaktioyhtälön vasemmalla ja oikealla puolella ei ole samaa määrää alkuaineita. Kemiallisten reaktioiden tasapainottaminen tarkoittaa tämän epätasapainon korjaamista. Reaktioyhtälö on yksinkertaistettu tapa osoittaa, mitkä aineet ovat reagoineet keskenään (reaktion lähtöaineet) ja mitä reaktion seurauksena on syntynyt (reaktiotuotteet).</p>
 <section id="reaktioyhtalon-tasapainottaminen">
 <h2>Reaktioyhtälön tasapainottaminen<a class="headerlink" href="#reaktioyhtalon-tasapainottaminen" title="Permalink to this headline">#</a></h2>
+<p>Kemiallisten reaktioiden tasapainottamisessa käytetään seuraavia sääntöjä:</p>
+<ol class="simple">
+<li><p>Reaktion molemmilta puolilta tulee löytää samoja alkuaineita yhtä paljon.</p></li>
+<li><p>Kertoimia käytetään vain yhdisteiden tai alkuaineiden edessä.</p></li>
+<li><p>Tasapainotus aloitetaan yleensä monimutkaisimmasta yhdisteestä tai molekyylistä ja edetään yksinkertaisempia kohti.</p></li>
+<li><p>Täten viimeisenä kannattaa tasapainottaa alkuaineet.</p></li>
+<li><p>Lopullisessa tasapainotetussa reaktioyhtälössä tulee käyttää mahdollisimman pieniä kokonaislukuja.</p></li>
+</ol>
 </section>
 <section id="hapetusluvut">
 <h2>Hapetusluvut<a class="headerlink" href="#hapetusluvut" title="Permalink to this headline">#</a></h2>
+<p>Kemiallisissa reaktioissa atomit voivat luovuttaa tai vastaanottaa elektroneja, mistä aiheutuu niiden hapetuslukujen muutoksen. Hapetusluku on luku, joka kuvaa, kuinka monta elektronia atomi on menettänyt tai saanut. Jos atomi luovuttaa elektroneja, sen hapetusluku kasvaa ja se hapettuu. Vastaavasti, jos atomin hapetusluku pienenee, se vastaanottaa elektroneja ja se pelkistyy.</p>
+<section id="hapetuslukujen-maarittaminen">
+<h3>Hapetuslukujen määrittäminen<a class="headerlink" href="#hapetuslukujen-maarittaminen" title="Permalink to this headline">#</a></h3>
+<p>Hapetusluvun määrittäminen edellyttää usein hieman tietoa kemiallisten sidosten tyypistä ja yleisistä hapetuslukusäännöistä. Tässä muutamia yleisiä hapetuslukusääntöjä:</p>
+<ul class="simple">
+<li><p>Hapetuslukuja merkitään roomalaisilla kirjaimilla. Tyypillisimmät hapetusluvut löytyvät kirjan taulukoista.</p></li>
+<li><p>Yksi- ja moniatomiset alkuaineet, kuten rauta (Fe) tai happi (O<sub>2</sub>), ovat hapetusluvultaa aina nolla.</p></li>
+<li><p>Yhdisteessä elektronegatiivisempi atomi saa negatiivisen hapetusluvun, kun taas vähemmän elektronegatiivinen atomi saa positiivisen merkkisen hapetusluvun.</p></li>
+<li><p>Yksiatomisen ionin hapetusluku on yhtä suuri kuin ionin varaus. Täten alkalimetallien hapetusluku on yhdisteissä +I ja maa-alkalimetallien +II.</p></li>
+<li><p>Hapen hapetusluku on yleensä -II, paitsi vetyperoksidissa (H<sub>2</sub>O<sub>2</sub>), jossa sen hapetusluku on -I.</p></li>
+<li><p>Vetyatomin hapetusluku on yleensä +I, paitsi metallisissa hydrideissä alkali- ja maa-alkalimetallien kanssa, joissa se on -I.</p></li>
+<li><p>Fluorin hapetusluku on kaikkein elektronegatiivisimpana atomin aina -I.</p></li>
+<li><p>Varauksettomassa molekyylissä atomien hapetuslukujen summa on nolla.</p></li>
+<li><p>Moniatomisissa ioneissa, kuten karbonaatti-ionissa (CO<sub>3</sub><sup>2-</sup>), atomien hapetuslukujen summan tulee olla yhtä suuri kuin ionin varaus.</p></li>
+</ul>
+<p>Hapetusluvut ovat tärkeä käsite kemiallisten reaktioiden ymmärtämisessä ja tasapainottamisessa. Hapetusluku on fysikaalinen suure, joka ilmaisee, kuinka monta elektronia atomi on menettänyt tai vastaavasti saanut kemiallisessa reaktiossa.</p>
+</section>
+<section id="hapetuslukujen-kaytto-kemiallisten-reaktioiden-tasapainottamisessa">
+<h3>Hapetuslukujen käyttö kemiallisten reaktioiden tasapainottamisessa<a class="headerlink" href="#hapetuslukujen-kaytto-kemiallisten-reaktioiden-tasapainottamisessa" title="Permalink to this headline">#</a></h3>
+<p>Hapetusluvut voivat auttaa kemiallisten reaktioiden tasapainottamisessa, sillä reaktiossa tiettyjen atomien hapetusluvut muuttuvat. Hapetuslukujen muutosten perusteella voidaan laskea, kuinka monta elektronia atomit ovat luovuttaneet tai vastaanottaneet reaktioss ja näin voidaan määrittää reaktioyhtälön kertoimet, jotta luovutettujen ja vastaanotettujen elektronien määrä on yhtä suuri. Toisin sanoen, hapetuslukujen muutokset tulee olla yhtä suuret reaktioyhtälön kummallakin puolella.</p>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: rauta(III)oksidin muodostuminen</p>
+<p>Tasapainotetaan reaktioyhtälö <span class="math notranslate nohighlight">\(\mathrm{Fe + O_2 → Fe_2O_3}\)</span></p>
+<ul class="simple">
+<li><p>Lähtöaineiden hapetusluvut ovat 0, koska kyseessä on alkuaineita.</p></li>
+<li><p>Reaktiotuotteen yhdisteessä happi on elektronegatiivisempi, joten sen hapetusluku on -II (kuten hapella yleensä). Koska yhdisteessä on kolme happea, on niiden hapetuslukujen summa -VI.</p></li>
+<li><p>Koska reaktiotuotteena saatu yhdiste on varaukseton, sen hapetuslukujen summan tulee olla nolla.</p></li>
+<li><p>Täten raudan hapetusluku tulee olla +III, jotta 2 ∙ +III = +VI.</p></li>
+</ul>
+<p>Elektroneita luovutetaan ja vastaanotetaan yhteensä 6 kappaletta.
+Kun yksi rauta-atomi siis luovuttaa kolme elektronia ja hapettuu, tulee rauta-atomeja olla kaksi kappaletta.
+Kun yksi happiatomi vastaanottaa kaksi elektronia ja pelkistyy, tulee happiatomeja olla kolme kappaletta.</p>
+<p>Muodostetaan reaktioyhtälö <span class="math notranslate nohighlight">\(\mathrm{2 \ Fe + \frac{3}{2} \ O_2 → Fe_2O_3}\)</span>.</p>
+<p>Kyseisessä reaktioyhtälössä hapen kerroin ei tosin ole kokonaisluku, joten kerrotaan yhtälö lopuksi puolittain kahdella ja saadaan lopulliseksi vastauksesi</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{4 \ Fe + 3 \ O_2 → 2 Fe_2O_3}\)</span></p>
+</div>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: vetyperoksidin hajoaminen</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{H_2O_2 → H_2O + O_2}\)</span></p>
+<p>Lähtöaineiden puolella vetyperoksidissa hapen hapetusluku on -I mutta reaktiotuotteiden puolella vedessä -II ja alkuaineena 0. Vedyn hapetusluku on kummallakin puolella elektropositiivisempana +I.</p>
+<p>Vetyperoksidin kahdesta happiatomista toinen siis vastaanottaa elektronin (pelkistyy) ja toinen luovuttaa elektronin (hapettuu). Reaktiotuotteiden happimolekyyli on kuitenkin kaksiatominen molekyyli, joten kahden happiatomin tulee hapettua. Täten vetyperoksidia on oltava enemmän kuin yksi molekyyli. Jos vetyperoksidin eteen laitetaan kerroin kaksi, on käytettävissä yhteensä neljä happiatomia, joista kaksi hapettuu ja kaksi pelkistyy. Tällöin myös vetyatomit ovat tasapainossa.</p>
+<p><span class="math notranslate nohighlight">\(\mathrm{2 \ H_2O_2 → 2 \ H_2O + O_2}\)</span></p>
+</div>
+</section>
 </section>
 </section>
 
