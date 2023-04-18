@@ -238,11 +238,12 @@ Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhd
 | CH<sub>3</sub>OH (l) | -238.6 |
 | CO (g) | -110.5 |
 | CO<sub>2</sub> (g) | -393.5 |
-| C<sub>2</sub>H<sub>2</sub> (g) | +226.7 |
-| C<sub>2</sub>H<sub>4</sub> (g) | +52.3 |
-| C<sub>2</sub>H<sub>6</sub> (g) | -84.7 |
-| C<sub>3</sub>H<sub>8</sub> (g) | -103.8 |
-| n-C<sub>4</sub>H<sub>10</sub> (g) | -124.7 |
+| C<sub>2</sub>H<sub>2</sub> (g) | +227.4 |
+| C<sub>2</sub>H<sub>4</sub> (g) | +52.4 |
+| C<sub>2</sub>H<sub>6</sub> (g) | -84.0 |
+| C<sub>3</sub>H<sub>6</sub> (g) | +20.4 |
+| C<sub>3</sub>H<sub>8</sub> (g) | -104.7 |
+| C<sub>4</sub>H<sub>10</sub> (g) | -125.6 |
 | n-C<sub>5</sub>H<sub>12</sub> (l) | -173.1 |
 | C<sub>2</sub>H<sub>5</sub>OH (l) | -277.6 |
 | CoO (s) | -239.3 |
@@ -280,6 +281,7 @@ Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhd
 | NaF (s) | -569.0 |
 | NaOH (s) | -426.7 |
 | NH<sub>3</sub> (g) | -46.2 |
+| N<sub>2</sub>H<sub>4</sub> (g) | +95.4 |
 | NH<sub>4</sub>Cl (s) | -315.4 |
 | NH<sub>4</sub>NO<sub>3</sub> (s) | -365.1 |
 | NiO (s) | -244.3 |
@@ -300,3 +302,8 @@ Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhd
 | SO<sub>2</sub> (g) | -296.1 |
 | SO<sub>3</sub> (g) | -395.2 |
 | ZnO (s) | -348.0 |
+
+Lähteet:
+- <a href="https://webbook.nist.gov/chemistry/name-ser/" target="_blank">NIST Chemistry WebBook</a>
+- <a href="https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation#Examples:_standard_enthalpies_of_formation_at_25_%C2%B0C" target="_blank">Wikipedia</a>
+- <a href="http://www.taulukot.com/kemia/yhdisteet/#muodostumislampoja" target="_blank">Taulukot.com</a>
