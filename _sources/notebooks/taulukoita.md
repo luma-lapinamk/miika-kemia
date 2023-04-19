@@ -213,7 +213,7 @@ Linus Paulingin mukaan
 
 
 ## {index}`Muodostumislämpöjä`
-Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhdistettä syntyy alkuaineistaan olosuhteissa T =  298.15 K ja p = 101.325 kPa. Alkuaineen pysyvimmän muodon entalpia on 0 kJ/mol.
+Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhdistettä syntyy alkuaineistaan olosuhteissa T =  298.15 K ja p = 101.325 kPa. Alkuaineen pysyvimmän muodon entalpiamuutos on 0 kJ/mol.
 
 | Yhdiste | ΔH° (kJ/mol) |
 | --- | --- |
