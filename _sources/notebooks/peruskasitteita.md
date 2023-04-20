@@ -26,7 +26,7 @@ tarkoittaa tämän materiaalin yhteydessä niin sanottua alkeisvarausta, jonka s
 kertoo atomin ytimessä olevien protonien määrän. Sähköisesti varauksettomilla atomeilla järjestysluku kertoo myös elektronien lukumäärän.
 
 ### {index}`Massaluku` (M)
-kertoo atomin ytimessä olevien protonien ja neutronien lukumäärän yhteensä. Jos atomin järjestysluku ja massaluku tunnetaan, voidaan neutronien lukumäärä laskea vähentämällä massaluvusta järjestysluku: neutronien lkm = M – Z
+kertoo atomin ytimessä olevien protonien ja neutronien lukumäärän yhteensä. Jos atomin järjestysluku ja massaluku tunnetaan, voidaan neutronien lukumäärä laskea vähentämällä massaluvusta järjestysluku: **neutronien lkm = M – Z**
 ```{figure-md} Järjestysluku ja massaluku
 <img src="../images/merkinnat.png" alt="Miten alkuaineen järjestysluku ja massaluku merkintään sen kemialliseen merkkiin." class="bg-primary mb-1" width="400px" align="center">
 
