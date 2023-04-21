@@ -2,7 +2,7 @@
 
 | Vakio | Tunnus | Arvo |
 | :---: | --- | --- |
-| Avogadron vakio | $N_\mathrm{A}$ | $6.0221 \cdot 10^{23}$ molekyyliä/mol |
+| Avogadron vakio | $N_\mathrm{A}$ | $6.022 \cdot 10^{23}$ molekyyliä/mol |
 | moolinen kaasuvakio | $R$ | $8.3145$ J/mol K = $8.3145$ Pa m<sup>3</sup>/mol K = $0.083145$ bar dm<sup>3</sup>/mol K |
 | Boltzmannin vakio | $k_\mathrm{B}$ | $1.381 \cdot 10^{-23}$ J/K |
 | Faradayn vakio | $F$ | $96.485$ C/mol |
