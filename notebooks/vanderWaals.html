@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Dipoli &#8212; Yleinen kemia</title>
+    <title>van der Waals -voimat (puuttuu) &#8212; Yleinen kemia</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -54,7 +54,7 @@ const thebe_selector_output = ".output, .cell_output"
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Stoikiometriaa" href="stoikiometriaa.html" />
-    <link rel="prev" title="Kovalenttinen sidos" href="kovalenttinen.html" />
+    <link rel="prev" title="Dipoli-dipolisidos (puuttuu)" href="dipolisidokset.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -206,9 +206,19 @@ const thebe_selector_output = ".output, .cell_output"
  </span>
 </p>
 <ul class="current nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="dipoli.html">
+   Dipoli
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="dipolisidokset.html">
+   Dipoli-dipolisidos (puuttuu)
+  </a>
+ </li>
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
-   Dipoli
+   van der Waals -voimat (puuttuu)
   </a>
  </li>
 </ul>
@@ -225,12 +235,22 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="reaktioyht.html">
-   Reaktioyhtälö (kesken)
+   Reaktioyhtälö
   </a>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="reaktiot.html">
    Reaktiokinetiikka
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="liukoisuus.html">
+   Liukoisuus (kesken)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="tasapainoreaktiot.html">
+   Tasapainoreaktiot (puuttuu)
   </a>
  </li>
  <li class="toctree-l1">
@@ -253,13 +273,23 @@ const thebe_selector_output = ".output, .cell_output"
 </ul>
 <p aria-level="2" class="caption" role="heading">
  <span class="caption-text">
-  Hakemisto
+  Liitteet
  </span>
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
+  <a class="reference internal" href="vakioita.html">
+   Vakioita ja kaavoja
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="taulukoita.html">
+   Taulukoita
+  </a>
+ </li>
+ <li class="toctree-l1">
   <a class="reference internal" href="../genindex.html">
-   Aakkosellinen hakemisto
+   Hakemisto
   </a>
  </li>
 </ul>
@@ -385,70 +415,23 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#">
-   Dipoli
-  </a>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#van-der-waals-voimat">
-   van der Waals -voimat
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
     </div>
     <div class="article row">
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Dipoli</h1>
+                <h1>van der Waals -voimat (puuttuu)</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#">
-   Dipoli
-  </a>
- </li>
- <li class="toc-h1 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#van-der-waals-voimat">
-   van der Waals -voimat
-  </a>
- </li>
-</ul>
-
-                        </nav>
                     </div>
                 </div>
             </div>
@@ -456,33 +439,9 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="dipoli">
-<h1><span class="target" id="index-0"></span>Dipoli<a class="headerlink" href="#dipoli" title="Permalink to this headline">#</a></h1>
-<p>Poolisten ja poolittomien kovalenttisten sidosten yhteydessä on käyty läpi, miten atomien kyky vetää sidoselektroneita puoleensa voi johtaa poolisiin kovalenttisiin sidoksiin ja täten poolisiin molekyyleihin. Kun sidosten poolisuus on pysyvää eikä molekyylin symmetrinen muoto kumoa molekyylin poolisuutta, molekyyliä kutsutaan dipoliksi. Dipolista voidaan havaita negatiivinen ja positiivinen osittaisvaraus. Käytännössä ioniyhdisteet ovat myös pysyviä dipoleja sillä erolla, että niissä negatiivisten ja positiivisten kohtioiden (ionien) varaukset ovat alkeisvarauksen kerrannaisia.</p>
-<div class="tip admonition">
-<p class="admonition-title">Esimerkkejä dipoleista</p>
-<ul class="simple">
-<li><p>Vesi (H<sub>2</sub>O): vesimolekyylissä happiatomilla on suurempi elektronegatiivisuusarvo (3.5) kuin kahdella vetyatomilla (2.1), joten kovalenttiset yksöissidokset ovat poolisia. Koska hapella on lisäksi kaksi vapaata elektroniparia, molekyyli on on tetraedrin muotoinen eikä sen muoto kumoa syntyneitä varautuneita kohtioita, vesimolekyyli on dipoli.
-<br>
-<img alt="Divetyoksidi" src="../_images/H2O.png" /></p></li>
-<li><p>Hiilimonoksidi eli häkä (CO): hiilimonoksidi on kaksiatominen molekyyli, jossa hiiliatomin elektronegatiivisuusarvo (2.5) on pienempi kuin happiatomin (3.5), mikä tekee atomien välisestä kovalenttisesta kolmoissidoksesta ja täten molekyylistä poolisen. Siispä hiilimonoksidimolekyyli on dipoli.
-<br>
-<img alt="Hiilimonoksidi" src="../_images/CO.png" /></p></li>
-<li><p>Trikoorimetaani eli kloroformi (CHCl<sub>3</sub>): hiiliatomi pystyy muodostamaan neljä kovalenttista yksöissidosta, jolloin molekyylin muoto on tetraedri. Koska yksi metaanin (CH<sub>4</sub>) vetyatomeista ei ole korvautunut klooriatomilla, voidaan molekyylin sitä aluetta, jossa klooriatomit ovat, pitää varautuneena negatiivisesti ja vetyatomilla positiivinen osittaisvaraus.
-<br>
-<img alt="Trikloorimetaani" src="../_images/CHCl4.png" /></p></li>
-</ul>
-</div>
-</section>
-<section class="tex2jax_ignore mathjax_ignore" id="van-der-waals-voimat">
-<h1><span class="target" id="index-1"></span>van der Waals -voimat<a class="headerlink" href="#van-der-waals-voimat" title="Permalink to this headline">#</a></h1>
-<p>Tarkastellaan seuraavaksi, miten atomit voivat liittyä erilaisissa yhdisteissä toisiinsa kemiallisin sidoksin. Tällöin puhutaan vahvoista kemiallisista sidoksista, joita ovat</p>
-<ul class="simple">
-<li><p>ionisidos</p></li>
-<li><p>metallisidos</p></li>
-<li><p>ja kovalenttinen sidos.</p></li>
-</ul>
-<p>Kyseisten sidosten katkaiseminen vaatii paljon energiaa. Vahvojen kemiallisten sidosten muodostuminen pääryhmien alkuaineiden välillä voidaan selittää melko hyvin Bohrin atomimallilla, vaikkakin hapetuslukujen ja elektronien tarkemman siirtymisen atomilta toiselle ymmärtäminen vaatii usein kvanttimekaanista atomimallia.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="van-der-waals-voimat-puuttuu">
+<h1><span class="target" id="index-0"></span>van der Waals -voimat (puuttuu)<a class="headerlink" href="#van-der-waals-voimat-puuttuu" title="Permalink to this headline">#</a></h1>
+<p>dsf</p>
 </section>
 
     <script type="text/x-thebe-config">
@@ -512,11 +471,11 @@ title="Print to PDF"
                 
     <!-- Previous / next buttons -->
 <div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="kovalenttinen.html" title="previous page">
+    <a class='left-prev' id="prev-link" href="dipolisidokset.html" title="previous page">
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Kovalenttinen sidos</p>
+            <p class="prev-next-title">Dipoli-dipolisidos (puuttuu)</p>
         </div>
     </a>
     <a class='right-next' id="next-link" href="stoikiometriaa.html" title="next page">
