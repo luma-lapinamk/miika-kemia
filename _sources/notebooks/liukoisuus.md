@@ -7,7 +7,7 @@ Tarkastellaan liukenemisreaktiota
 
 $A_aB_b \ (s) ⇌  aA^{n+} \ (aq) + bB^{m-} \ (aq)$,
 
-jossa A on liukeneva kiinteä aine, joka liukenee (dissosioituu) liuokseen ioneiksi A<sup>n+</sup> ja B<sup>m-</sup>.
+jossa A on liukeneva kiinteä aine, joka liukenee liuokseen ioneina A<sup>n+</sup> ja B<sup>m-</sup>.
 
 Yleisesti liukenemisreaktiolle voidaan määritellä tasapainovakion lauseke
 
