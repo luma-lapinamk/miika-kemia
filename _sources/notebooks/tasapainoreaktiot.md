@@ -3,6 +3,8 @@ Kemialliset reaktiot voivat usein kulkea kumpaankin suuntaan, eli lähtöaineita
 
 Sana *dynaaminen* viittaa siihen tilaan, kun reaktiossa olevien aineiden konsentraatiot pysyvät vakioina ajan funktiona. Tämä tarkoittaa sitä, että reaktiot ovat edelleen käynnissä, mutta eteenpäin ja taaksepäin kulkevien reaktioiden nopeudet ovat tasapainossa, jolloin aineiden konsentraatiot eivät enää muutu.
 
+<p><a href="https://commons.wikimedia.org/wiki/File:Dynamic_equilibrium.png#/media/File:Dynamic_equilibrium.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Dynamic_equilibrium.png" alt="Dynamic equilibrium.png"></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=23023862">Link</a>, Parempi kuva tulossa myöhemmin...</p>
+
 Tasapainon saavuttaminen kemiallisessa reaktiossa voidaan esittää tasapainoreaktioyhtälön avulla, joka kuvaa reaktioiden keskinäisiä suhteita ja tasapainotilan pitoisuuksia. Tasapainoreaktioyhtälön yleinen muoto on seuraava:
 
 $aA + bB \rightleftharpoons cC + dD$
