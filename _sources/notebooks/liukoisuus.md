@@ -1,4 +1,4 @@
-# {index}`Liukoisuus (kesken)`
+# {index}`Liukoisuus (hieman kesken)`
 
 ## {index}`Liukoisuustulo`
 Liukoisuustulo (K<sub>s</sub>) on termodynamiikassa käytetty suure, joka kuvaa liukenevan aineen pitoisuuden ja liuoksen ioniaktiivisuuden suhdetta, kun liuos on tyydyttynyt eli se ei enää kykene liuottamaan lisää ainetta.
