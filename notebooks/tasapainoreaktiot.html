@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
 
-    <title>Tasapainoreaktiot (puuttuu) &#8212; Yleinen kemia</title>
+    <title>Tasapainoreaktiot (hieman kesken) &#8212; Yleinen kemia</title>
     
   <!-- Loaded before other Sphinx assets -->
   <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
@@ -51,10 +51,12 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Harjoituksia" href="harjoituksia_reaktioyht.html" />
-    <link rel="prev" title="Liukoisuus (kesken)" href="liukoisuus.html" />
+    <link rel="prev" title="Liukoisuus (hieman kesken)" href="liukoisuus.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="None">
     
@@ -207,8 +209,18 @@ const thebe_selector_output = ".output, .cell_output"
 </p>
 <ul class="nav bd-sidenav">
  <li class="toctree-l1">
-  <a class="reference internal" href="vanderWaals.html">
+  <a class="reference internal" href="dipoli.html">
    Dipoli
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="dipolisidokset.html">
+   Dipoli-dipolisidos (puuttuu)
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="vanderWaals.html">
+   van der Waals -voimat (puuttuu)
   </a>
  </li>
 </ul>
@@ -235,12 +247,12 @@ const thebe_selector_output = ".output, .cell_output"
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="liukoisuus.html">
-   Liukoisuus (kesken)
+   Liukoisuus (hieman kesken)
   </a>
  </li>
  <li class="toctree-l1 current active">
   <a class="current reference internal" href="#">
-   Tasapainoreaktiot (puuttuu)
+   Tasapainoreaktiot (hieman kesken)
   </a>
  </li>
  <li class="toctree-l1">
@@ -441,7 +453,7 @@ title="Print to PDF"
         <div class="col pl-md-3 pl-lg-5 content-container">
             <!-- Table of contents that is only displayed when printing the page -->
             <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Tasapainoreaktiot (puuttuu)</h1>
+                <h1>Tasapainoreaktiot (hieman kesken)</h1>
                 <!-- Table of contents -->
                 <div id="print-main-content">
                     <div id="jb-print-toc">
@@ -466,11 +478,26 @@ title="Print to PDF"
                 
               <div>
                 
-  <section class="tex2jax_ignore mathjax_ignore" id="tasapainoreaktiot-puuttuu">
-<h1><span class="target" id="index-0"></span>Tasapainoreaktiot (puuttuu)<a class="headerlink" href="#tasapainoreaktiot-puuttuu" title="Permalink to this headline">#</a></h1>
+  <section class="tex2jax_ignore mathjax_ignore" id="tasapainoreaktiot-hieman-kesken">
+<h1><span class="target" id="index-0"></span>Tasapainoreaktiot (hieman kesken)<a class="headerlink" href="#tasapainoreaktiot-hieman-kesken" title="Permalink to this headline">#</a></h1>
+<p>Kemialliset reaktiot voivat usein kulkea kumpaankin suuntaan, eli lähtöaineita reaktiotuotteisiin ja toisinpäin. Tämä reaktioiden tapahtuminen kumpaankin suuntaan etenee niin kauan, kunnes saavutetaan tilanne, jossa reaktioiden nopeudet ovat yhtä suuret ja systeemi saavuttaa dynaamisen tasapainotilan. Tämä tasapainotila tunnetaan reaktiotasapainona.</p>
+<p>Sana <em>dynaaminen</em> viittaa siihen tilaan, kun reaktiossa olevien aineiden konsentraatiot pysyvät vakioina ajan funktiona. Tämä tarkoittaa sitä, että reaktiot ovat edelleen käynnissä, mutta eteenpäin ja taaksepäin kulkevien reaktioiden nopeudet ovat tasapainossa, jolloin aineiden konsentraatiot eivät enää muutu.</p>
+<p>Tasapainon saavuttaminen kemiallisessa reaktiossa voidaan esittää tasapainoreaktioyhtälön avulla, joka kuvaa reaktioiden keskinäisiä suhteita ja tasapainotilan pitoisuuksia. Tasapainoreaktioyhtälön yleinen muoto on seuraava:</p>
+<p><span class="math notranslate nohighlight">\(aA + bB \rightleftharpoons cC + dD\)</span></p>
+<p>Tässä reaktiossa A ja B ovat lähtöaineita, C ja D ovat reaktiotuotteita, ja a, b, c ja d ovat stökiometrisiä kertoimia, jotka osoittavat, kuinka monta molekyyliä kustakin reaktioaineesta tarvitaan reaktiota varten.</p>
 <section id="tasapainovakio">
 <h2><span class="target" id="index-1"></span>Tasapainovakio<a class="headerlink" href="#tasapainovakio" title="Permalink to this headline">#</a></h2>
-<p>okfosaf</p>
+<p>Tasapainoreaktioon liittyy tasapainovakio, joka kuvaa tasapainon muodostumista reaktion aikana. Tasapainovakio määritellään seuraavasti:</p>
+<p><span class="math notranslate nohighlight">\(K = \frac{[C]^c[D]^d}{[A]^a[B]^b}\)</span>,</p>
+<p>jossa [A], [B], [C] ja [D] ovat reagoivien aineiden konsentraatioita.</p>
+<div class="tip admonition">
+<p class="admonition-title">Esimerkki: vety- ja jodikaasun reaktiot</p>
+<p>Kun vety- ja jodikaasu reagoivat, muodostuu vetyjodidia seuraavan tasapainoreaktioyhtälön mukaisesti:</p>
+<p><span class="math notranslate nohighlight">\(H_2 \ (g) + I_2 \ (g) \rightleftharpoons 2HI \ (g)\)</span></p>
+<p>Tasapainovakion (K) lausekkeeksi tälle reaktiolle saadaan:</p>
+<p><span class="math notranslate nohighlight">\(K = \frac{[HI]^2}{[H_2][I_2]}\)</span></p>
+<p>Tasapainoreaktion tunteminen on erittäin tärkeää kemian ymmärtämisen kannalta. Se auttaa ennustamaan, minkä tahansa reaktion lopullisen tasapainotilan ja käyttäytymisen tietyissä olosuhteissa.</p>
+</div>
 </section>
 </section>
 
@@ -505,7 +532,7 @@ title="Print to PDF"
         <i class="fas fa-angle-left"></i>
         <div class="prev-next-info">
             <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Liukoisuus (kesken)</p>
+            <p class="prev-next-title">Liukoisuus (hieman kesken)</p>
         </div>
     </a>
     <a class='right-next' id="next-link" href="harjoituksia_reaktioyht.html" title="next page">
