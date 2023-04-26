@@ -245,6 +245,11 @@ Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhd
 | C<sub>3</sub>H<sub>8</sub> (g) | -104.7 |
 | C<sub>4</sub>H<sub>10</sub> (g) | -125.6 |
 | n-C<sub>5</sub>H<sub>12</sub> (l) | -173.1 |
+| n-C<sub>6</sub>H<sub>14</sub> (l) | −167.4 |
+| n-C<sub>7</sub>H<sub>16</sub> (l) | −187.9 |
+| n-C<sub>8</sub>H<sub>18</sub> (l) | −208.4 |
+| n-C<sub>9</sub>H<sub>20</sub> (l) | −229.3 |
+| n-C<sub>10</sub>H<sub>22</sub> (l) | −249.4 |
 | C<sub>2</sub>H<sub>5</sub>OH (l) | -277.6 |
 | CoO (s) | -239.3 |
 | Cr<sub>2</sub>O<sub>3</sub> (s) | -1128.4 |
