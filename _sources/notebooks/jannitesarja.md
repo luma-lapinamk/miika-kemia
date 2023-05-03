@@ -22,6 +22,7 @@ Reaktiossa kupariatomit kiinnittyisivät rautaesineen pinnalle ja rautaionit Fe<
 :::
 
 ## Metallien reaktiot vedyn kanssa
-Huomaa epämetalli vety (H), joka on merkitty metallien jännitesarjaan. Vedyn vasmemmalla puolella ovat {index}`epäjalot metallit` ja oikealla puolella {index}`jalot metallit`. Epäjalot metallit siis pelkistävät liuoksessa olevat vetyionit, jolloin muodostuu vetykaasua. Usein sanotaan, että epäjalot metallit reagoivat (eli hapettuvat) suolahapon kanssa mutta jalot metallit eivät. Lisäksi alkalimetallit reagoivat voimakkaasti, jopa räjähdysmäisesti, jo veden kanssa, kuten alla olevalla videolla (mukana alkuperäisen Top Gearin juontaja Richard Hammond).
+Huomaa epämetalli vety (H), joka on merkitty metallien jännitesarjaan. Vedyn vasmemmalla puolella ovat {index}`epäjalot metallit` ja oikealla puolella {index}`jalot metallit`. Epäjalot metallit siis pelkistävät liuoksessa olevat vetyionit, jolloin muodostuu vetykaasua. Usein sanotaan, että epäjalot metallit reagoivat (eli hapettuvat) suolahapon kanssa mutta jalot metallit eivät. Lisäksi alkalimetallit reagoivat voimakkaasti, jopa räjähdysmäisesti, jo veden kanssa, kuten alla olevalla videolla.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m55kgyApYrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Tietoisku: videon juontajana toimii alkuperäisen Top Gearin juontaja Richard Hammond ja musiikista vastaa Kenny Loggins:n *Danger Zone*
