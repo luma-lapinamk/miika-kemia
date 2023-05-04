@@ -20,7 +20,7 @@ $Cu^{2+} + Fe → Cu + Fe^{2+}$
 
 Tässä reaktiossa kupari-ionit vastaanottavat rauta-atomeilta kaksi elektronia ja ne pelkistyvät atomeiksi, jolloin niiden hapetusluku pienenee +II → 0. Vastaavasti rauta hapettuu 0 → +II.
 
-Hapetus-pelkistysreaktiot ovat siis elektronien siirtoreaktioita, joissa aina jokin aine hapettuu ja jokin toinen pelkistyy siten, että luovutettujen ja vastaanotettujen elektronien lukumäärä on yhtä suuri.
+Hapetus-pelkistysreaktiot ovat siis elektronien siirtoreaktioita, joissa aina jokin aine hapettuu ja jokin toinen pelkistyy siten, että luovutettujen ja vastaanotettujen elektronien lukumäärä on yhtä suuri.1
 
 Esimerkiksi korroosio on metallien hapettumis- ja pelkistymisreaktio. Metallien hapettumis- ja pelkistymisreaktiot ovat erittäin tärkeitä myös sähkökemiassa. Patterit ja akkuteknologian kehitys nojaavat hapetus-pelkistysreaktioihin. Elektrolyysissä metallit voivat toimia anodi- tai katodiaineina riippuen siitä, hapettuvatko vai pelkistyvätkö ne. Anodi on aine, joka hapettuu elektrolyysissä, kun taas katodi on aine, joka pelkistyy.
 
