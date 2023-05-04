@@ -22,7 +22,12 @@ Reaktiossa kupariatomit kiinnittyisivät rautaesineen pinnalle ja rautaionit Fe<
 :::
 
 ## Metallien reaktiot vedyn kanssa
-Huomaa epämetalli vety (H), joka on merkitty metallien jännitesarjaan. Vedyn vasmemmalla puolella ovat {index}`epäjalot metallit` ja oikealla puolella {index}`jalot metallit`. Epäjalot metallit siis pelkistävät liuoksessa olevat vetyionit, jolloin muodostuu vetykaasua. Usein sanotaan, että epäjalot metallit reagoivat (eli hapettuvat) suolahapon kanssa mutta jalot metallit eivät. Lisäksi alkalimetallit reagoivat voimakkaasti, jopa räjähdysmäisesti, jo veden kanssa, kuten alla olevalla videolla.
+Huomaa epämetalli vety (H), joka on merkitty metallien jännitesarjaan. Vedyn vasemmalla puolella ovat {index}`epäjalot metallit` ja oikealla puolella {index}`jalot metallit`. Epäjalot metallit siis pelkistävät esimerkiksi suolahappoliuoksessa olevat vetyionit, jolloin muodostuu vetykaasua. Esimerkiksi litiumin ja suohahapon reaktioyhtälö on muotoa
+
+$2 \ Li \ (s) + 2 \ HCl \ (aq) → 2 \ Li^+ \ (aq) + 2 \ Cl^- \ (aq) + H_2 \ (g), \Delta H < 0$
+
+Lisäksi alkalimetallit reagoivat voimakkaasti, jopa räjähdysmäisesti, jo veden kanssa, kuten alla olevalla videolla demonstroidaan viihteellisesti.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m55kgyApYrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Tietoisku: videon juontajana toimii alkuperäisen Top Gearin juontaja Richard Hammond ja musiikista vastaa Kenny Loggins:n *Danger Zone*
+
+Tietoisku: videon juontajana toimii alkuperäisen Top Gearin juontaja Richard Hammond ja musiikista vastaa Kenny Loggins:n *Danger Zone*.

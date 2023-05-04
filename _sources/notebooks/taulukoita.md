@@ -1,6 +1,6 @@
 # Taulukoita
 
-Taulukot voivat olla puutteelisia. Jos huomaat, että jokin alkuaine puuttuu, ota tekijään yhteyttä. kiitos!
+Tavoitteena on kerätä tänne kaikki tarvittavat kemian taulukot. Useita aihepiirejä vielä puuttuu, eikä nykyisiä taulukoita ole kaikkia tarkastettu. Jos siis huomaat, että jokin taulukkoarvo on virheellinen tai jokin alkuaine puuttuu, ota yhteyttä kirjan tekijään. kiitos!
 
 ## {index}`Elektronegatiivisuusarvoja`
 Linus Paulingin mukaan
