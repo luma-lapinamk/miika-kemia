@@ -235,6 +235,7 @@ Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhd
 | CCl<sub>4</sub> (l) | -139.5 |
 | CH<sub>4</sub> (g) | -74.8 |
 | CHCl<sub>3</sub> (l) | -131.8 |
+| CH<sub>3</sub>OH (g) | −201.0 |
 | CH<sub>3</sub>OH (l) | -238.6 |
 | CO (g) | -110.5 |
 | CO<sub>2</sub> (g) | -393.5 |
