@@ -71,7 +71,7 @@ koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ain
 Kts. sivun alku.
 
 ```{figure-md} Puhdas aine - alkuaine
-<img src="../images/puhdas_aine1.png" alt="Alkuaine" class="bg-primary mb-1" width="350px" align="center">
+<img src="../images/puhdas_aine1.png" alt="Alkuaine" class="bg-primary mb-1" width="300px" align="center">
 
 Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2</sub>.
 ```
