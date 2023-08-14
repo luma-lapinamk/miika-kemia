@@ -51,18 +51,18 @@ Kun puhutaan molekyyliyhdisteen sisältämien atomien massojen summasta, käytet
 ### {index}`Ioni`
 syntyy atomista, joka on luovuttanut tai vastaanottanut elektroneita. Ionilla on täten varaus, joko positiivinen tai negatiivinen. Metalliatomeilla on kyky luovuttaa elektroneja, joten ne voivat esiintyvät positiivisina ioneina. Epämetalleilla on kyky vastaanottaa elektroneja, joten ne voivat esiintyvät yhdisteissä negatiivisina ioneina.
 
-```{figure-md} Aine
-<img src="../images/aine.png" alt="Aineen jako puhtaisiin aineisiin ja seoksiin." class="bg-primary mb-1" width="1500px" align="center">
-
-Aine voi olla puhdasta ainetta tai seosta.
-```
-
 ### {index}`Perusvuorovaikutukset`
 > - **Sähkömagneettisen vuorovaikutuksen** mukaan samanmerkkiset sähkövaraukset hylkivät toisiaan ja vastakkaismerkkiset varaukset vetävät toisiaan puoleensa.
 > - **Vahva vuorovaikutus** on voimakkain perusvuorovaikutuksista. Sen vaikutus ulottuu vain lyhyelle etäisyydelle ytimen sisällä ja se pitää atomin ytimen koossa, vaikka positiiviset protonit hylkivät toisiaan. Sen vuoksi kaukana ytimestä olevat elektronit eivät ole vahvan vuorovaikutuksen alaisuudessa ja niiden voima- ja varausominaisuudet määrittyvät sähkömagneettisen vuorovaikutuksen kautta.
 > - Muut perusvuorovaikutukset ovat **heikko vuorovaikutus**, joka liittyyy atomin ytimen ilmiöihin, sekä **gravitaatiovuorovaikutus**, jonka vaikutus atomitasolla on häviävän pieni.
 
 ## Aineiden luokittelu
+
+```{figure-md} Aine
+<img src="../images/aine.png" alt="Aineen jako puhtaisiin aineisiin ja seoksiin." class="bg-primary mb-1" width="1500px" align="center">
+
+Aine voi olla puhdasta ainetta tai seosta.
+```
 
 ### {index}`Puhdas aine`
 koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ainetta voidaan pitää kemiallisesti homogeenisena, eli sen ominaisuudet ovat kaikkialla samat. Esimerkkejä puhtaista aineista ovat luonnossa usein puhtaana esiintyvä kulta $ (Au) $, puhdas vesi $ (H_2O) $, helium $ (He) $ ja muut jalokaasut sekä kloorikaasu $ (Cl_2) $.
