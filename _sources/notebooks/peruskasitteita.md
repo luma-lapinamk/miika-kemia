@@ -67,7 +67,10 @@ Aine voi olla puhdasta ainetta tai seosta.
 ### {index}`Puhdas aine`
 koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ainetta voidaan pitää kemiallisesti homogeenisena, eli sen ominaisuudet ovat kaikkialla samat. Esimerkkejä puhtaista aineista ovat luonnossa usein puhtaana esiintyvä kulta $ (Au) $, puhdas vesi $ (H_2O) $, helium $ (He) $ ja muut jalokaasut sekä kloorikaasu $ (Cl_2) $.
 
-### {index}`Yhdiste`
+#### Alkuaine
+Kts. sivun alku.
+
+#### {index}`Yhdiste`
 (kemiallinen yhdiste) on aine, joka koostuu kahdesta tai useammasta eri alkuaineesta. Yhdisteillä on oma, tietty kemiallinen kaava, joka kuvaa alkuaineiden määrällistä suhdetta toisiinsa. Esimerkkejä yhdisteistä ovat vesi $ (H_2O) $, ruokasuola $ (NaCl) $ ja hiilidioksidi $ (CO_2) $. Yhdiste voi olla
 - metalliyhdiste
 - ioniyhdiste
