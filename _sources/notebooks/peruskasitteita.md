@@ -100,29 +100,17 @@ Seos koostuu kahdesta tai useammasta eri aineesta, jotka eivät ole kemiallisest
 
 Homogeenisessa eli *tasakoosteisessa* seoksessa aineita ei voida erottaa silmin, toisin kuin heterogeenisessa seoksessa, jossa aineet ovat eri faaseissa. Esimerkkejä homogeenisista seoksista ovat mm. rasvaton maito, etikka, nestekaasu ja ilma. Heterogeenisiä seoksia ovat mm.
 - sumu: nestepisaroita kaasussa.
-
 > Esim. suihkutettavat deodorantit, 
-
 - savu: kiinteitä hiukkasia kaasussa.
-
 > Painovoiman ja ajan vaikutuksesta pöly ja savun partikkelit voivat lasketua alas astian pohjalle tai maahan.
-
 - vaahto: kaasukuplia, kuten ilmaa, nesteen sisällä.
-
 > Vaahto on harvoin tasalaatuista, joten sen koostumus voi vaihdella eri kohdissa.
-
 - emulsio: kahden toisiinsa liukenemattoman nesteen seos.
-
 >Toinen nesteistä on jakautunut toiseen nesteen pieninä pisaroina. Ajan kuluessa kerrokset voivat jakautua erilleen tiheyserojen mukaisesti. Esimerkkejä emulsioista ovat rasvainen maito sekä ja öljyn ja veden seos.
-
 - liete eli suspensio: kiinteitä hiukkasia nesteessä.
-
 > Liukenemattomat hiukkaset voivat laskeutua astian pohjalle, jos seos jätetään seisomaan. Esimerkkejä suspensioista ovat hiekka-vesi-seos ja maalit.
-
 - geeli: nestettä kiinteässä aineessa.
-
 > Geelin rakenne muodostuu kiinteiden hiukkasten ja nesteen välisestä kolmiulotteisesta verkosta. Kiinteä aine pystyy imemään itseensä nestettä ja turpoaa. Esimerkkejä geelistä ovat hyytelö ja hammastahna.
-
 
 Lisäksi on mahdollista, että kiinteään aineeseen on sekoittuneena kaasua, kuten esimerkiksi epäpuhtaissa metalleissa (vetyä palladiumin seassa). **{index}`Kolloidi`** on yleisnimitys heterogeenisille seoksille, joissa kaikissa olomuodoissa olevia pieniä hiukkasia on jakautuneena nesteeseen tai kiinteään aineeseen.
 
