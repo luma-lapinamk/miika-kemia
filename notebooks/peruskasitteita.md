@@ -67,19 +67,56 @@ Aine voi olla puhdasta ainetta tai seosta.
 ### {index}`Puhdas aine`
 koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ainetta voidaan pitää kemiallisesti homogeenisena, eli sen ominaisuudet ovat kaikkialla samat. Esimerkkejä puhtaista aineista ovat luonnossa usein puhtaana esiintyvä kulta $ (Au) $, puhdas vesi $ (H_2O) $, helium $ (He) $ ja muut jalokaasut sekä kloorikaasu $ (Cl_2) $.
 
-### {index}`Yhdiste`
+#### Alkuaine
+Kts. sivun alku.
+
+```{figure-md} Puhdas aine - alkuaine
+<img src="../images/puhdas_aine1.png" alt="Alkuaine" class="bg-primary mb-1" width="300px" align="center">
+
+Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2</sub>.
+```
+
+#### {index}`Yhdiste`
 (kemiallinen yhdiste) on aine, joka koostuu kahdesta tai useammasta eri alkuaineesta. Yhdisteillä on oma, tietty kemiallinen kaava, joka kuvaa alkuaineiden määrällistä suhdetta toisiinsa. Esimerkkejä yhdisteistä ovat vesi $ (H_2O) $, ruokasuola $ (NaCl) $ ja hiilidioksidi $ (CO_2) $. Yhdiste voi olla
 - metalliyhdiste
 - ioniyhdiste
 - molekyyliyhdiste
 - kompleksiyhdiste
 
+```{figure-md} Puhdas aine - kemiallinen yhdiste
+<img src="../images/puhdas_aine2.png" alt="Kemiallinen yhdiste" class="bg-primary mb-1" width="350px" align="center">
+
+Kemialliset yhdisteet ovat puhtaita aineita. Kuvassa molekyyliyhdiste ammoniakki, NH<sub>3</sub>.
+```
+
 ### {index}`Seos`
-koostuu kahdesta tai useammasta eri alkuaineesta tai yhdisteestä. Seokset eivät ole yhdisteitä, sillä niissä ainesosat eivät ole kemiallisesti sitoutuneet toisiinsa. Homogeenisessa seoksessa aineita ei voida erottaa silmin, toisin kuin heterogeenisessa seoksessa, jossa aineet ovat eri faaseissa. Esimerkkejä homogeenisista seoksista ovat mm. sementti ja teräs, öljy ja hanavesi sekä nestekaasu ja ilma. Heterogeenisiä seoksia ovat mm.
-- suspensiot: kiinteitä hiukkasia sekoittuneena nesteeseen. Liukenemattomat hiukkaset voivat laskeutua astian pohjalle, jos seos jätetään seisomaan. Esimerkkejä suspensioista ovat hiekka-vesi-seos ja maalit.
-- geelit: vain vähän kiinteää ainetta sekoittuneena nesteeseen. Geelin rakenne muodostuu kiinteiden hiukkasten ja nesteen välisestä kolmiulotteisesta verkosta. Esimerkkejä geelistä ovat hyytelö ja hammastahna.
-- emulsiot: kahden toisiinsa liukenemattoman nesteen seos. Toinen nesteistä on jakautunut toiseen nesteen pieninä pisaroina. Ajan kuluessa kerrokset voivat jakautua erilleen tiheyserojen mukaisesti. Esimerkkejä emulsioista ovat rasvainen maito sekä ja öljyn ja veden seos.
-- vaahdot: kaasukuplia, kuten ilmaa, nesteen sisällä. Vaahto on harvoin tasalaatuista, joten sen koostumus voi vaihdella eri kohdissa.
+koostuu kahdesta tai useammasta eri alkuaineesta tai yhdisteestä. Seokset eivät ole yhdisteitä, sillä niissä ainesosat eivät ole kemiallisesti sitoutuneet toisiinsa.
+
+```{figure-md} Homogeeninen kahden kaasun seos
+<img src="../images/seos.png" alt="Seos koostuu kahdesta tai useammasta eri aineesta." class="bg-primary mb-1" width="500px" align="center">
+
+Seos koostuu kahdesta tai useammasta eri aineesta, jotka eivät ole kemiallisesti sitoutuneet toisiinsa.
+```
+
+Homogeenisessa eli *tasakoosteisessa* seoksessa aineita ei voida erottaa silmin, toisin kuin heterogeenisessa seoksessa, jossa aineet ovat eri faaseissa. Esimerkkejä homogeenisista seoksista ovat mm. rasvaton maito, etikka, nestekaasu ja ilma. Heterogeenisiä seoksia ovat mm.
+- sumu
+    - nestepisaroita kaasussa
+    - Nesteen tulee muodostaa sen verran pieniä pisaroita, että ne pysyvät lämpöliikkeen vaikutuksesta kaasufaasin seassa. Täten yksittäiset vesimolekyylit tai sadepisarat eivät muodosta sumua. Muita esimerkkejä ovat mm. suihkutettavat deodorantit ja spray-maalit.
+- savu
+    - kiinteitä hiukkasia kaasussa
+    - Painovoiman ja ajan vaikutuksesta pöly ja savun partikkelit voivat lasketua alas astian pohjalle tai maahan.
+- vaahto
+    - kaasukuplia, kuten ilmaa, nesteen sisällä
+    - Vaahto on harvoin tasalaatuista, joten sen koostumus voi vaihdella eri kohdissa.
+- emulsio
+    - kahden toisiinsa liukenemattoman nesteen seos
+    - Toinen nesteistä on jakautunut toiseen nesteen pieninä pisaroina. Ajan kuluessa kerrokset voivat jakautua erilleen tiheyserojen mukaisesti. Esimerkkejä emulsioista ovat rasvainen maito sekä ja öljyn ja veden seos.
+- liete eli suspensio
+    - kiinteitä hiukkasia nesteessä
+    - Liukenemattomat hiukkaset voivat laskeutua astian pohjalle, jos seos jätetään seisomaan. Esimerkkejä suspensioista ovat hiekka-vesi-seos ja maalit.
+- geeli
+    - nestettä kiinteässä aineessa
+    - Geelin rakenne muodostuu kiinteiden hiukkasten ja nesteen välisestä kolmiulotteisesta verkosta. Kiinteä aine pystyy imemään itseensä nestettä ja turpoaa. Esimerkkejä geelistä ovat hyytelö ja hammastahna.
 
 Lisäksi on mahdollista, että kiinteään aineeseen on sekoittuneena kaasua, kuten esimerkiksi epäpuhtaissa metalleissa (vetyä palladiumin seassa). **{index}`Kolloidi`** on yleisnimitys heterogeenisille seoksille, joissa kaikissa olomuodoissa olevia pieniä hiukkasia on jakautuneena nesteeseen tai kiinteään aineeseen.
 
