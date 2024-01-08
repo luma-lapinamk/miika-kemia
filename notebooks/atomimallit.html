@@ -1,49 +1,61 @@
 
+
 <!DOCTYPE html>
 
-<html>
+
+<html lang="en" data-content_root="" >
+
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
     <title>Atomimallien kehittyminen &#8212; Yleinen kemia</title>
-    
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+  <link href="../_static/styles/theme.css?digest=bd9e20870c6007c4c509" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=bd9e20870c6007c4c509" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=bd9e20870c6007c4c509" rel="stylesheet" />
 
-    
-  <link rel="stylesheet"
-    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+  
+  <link href="../_static/vendor/fontawesome/6.5.1/css/all.min.css?digest=bd9e20870c6007c4c509" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.1/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
-    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" href="../_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
     <link rel="stylesheet" type="text/css" href="../_static/myfile.css" />
-    <link rel="stylesheet" type="text/css" href="../_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
-    
+    <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=bd9e20870c6007c4c509" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=bd9e20870c6007c4c509" />
+  <script src="../_static/vendor/fontawesome/6.5.1/js/all.min.js?digest=bd9e20870c6007c4c509"></script>
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/jquery.js"></script>
     <script src="../_static/underscore.js"></script>
+    <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
-    <script src="../_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="../_static/togglebutton.js"></script>
-    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="../_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
@@ -51,61 +63,112 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'notebooks/atomimallit';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Harjoituksia" href="harjoituksia_atomimassa.html" />
     <link rel="prev" title="Peruskäsitteitä" href="peruskasitteita.html" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="None">
-    
-
-    <!-- Google Analytics -->
-    
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
-<!-- Checkboxes to toggle the left sidebar -->
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
-<label class="overlay overlay-navbar" for="__navigation">
-    <div class="visually-hidden">Toggle navigation sidebar</div>
-</label>
-<!-- Checkboxes to toggle the in-page toc -->
-<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
-<label class="overlay overlay-pagetoc" for="__page-toc">
-    <div class="visually-hidden">Toggle in-page Table of Contents</div>
-</label>
-<!-- Headers at the top -->
-<div class="announcement header-item noprint"></div>
-<div class="header header-item noprint"></div>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
 
-    
-    <div class="container-fluid" id="banner"></div>
+  
+  
+  <a id="pst-skip-link" class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
 
-    
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
 
-    <div class="container-xl">
-      <div class="row">
-          
-<!-- Sidebar -->
-<div class="bd-sidebar noprint" id="site-navigation">
-    <div class="bd-sidebar__content">
-        <div class="bd-sidebar__top"><div class="navbar-brand-box">
-    <a class="navbar-brand text-wrap" href="../index.html">
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <header>
+  
+    <div class="bd-header navbar navbar-expand-lg bd-navbar">
+    </div>
+  
+  </header>
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
       
-        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+      
+      
         
       
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
       
-      <img src="../_static/logo.png" class="logo" alt="logo">
-      
-      
-      <h1 class="site-logo" id="site-title">Yleinen kemia</h1>
-      
-    </a>
-</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
-    <div class="bd-toc-item active">
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="Yleinen kemia - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="Yleinen kemia - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
@@ -114,464 +177,259 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Johdanto
- </span>
-</p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Johdanto</span></p>
 <ul class="current nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="peruskasitteita.html">
-   Peruskäsitteitä
-  </a>
- </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   Atomimallien kehittyminen
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="harjoituksia_atomimassa.html">
-   Harjoituksia
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="peruskasitteita.html">Peruskäsitteitä</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Atomimallien kehittyminen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="harjoituksia_atomimassa.html">Harjoituksia</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Elektronien kemiaa
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Elektronien kemiaa</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="bohr.html">
-   Bohrin atomimalli
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="jaksollinen.html">
-   Jaksollinen järjestelmä
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="epa_ja_metallit.html">
-   Metallit ja epämetallit
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="ryhmat.html">
-   Pääryhmät I - VIII
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="siirtymametallit.html">
-   Siirtymämetallit
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="orbitaalit.html">
-   Kvanttimekaaninen atomimalli
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="bohr.html">Bohrin atomimalli</a></li>
+<li class="toctree-l1"><a class="reference internal" href="jaksollinen.html">Jaksollinen järjestelmä</a></li>
+<li class="toctree-l1"><a class="reference internal" href="epa_ja_metallit.html">Metallit ja epämetallit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ryhmat.html">Pääryhmät I - VIII</a></li>
+<li class="toctree-l1"><a class="reference internal" href="siirtymametallit.html">Siirtymämetallit</a></li>
+<li class="toctree-l1"><a class="reference internal" href="orbitaalit.html">Kvanttimekaaninen atomimalli</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Vahvat kemialliset sidokset
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Vahvat kemialliset sidokset</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="elektroneg.html">
-   Elektronegatiivisuus
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="ionisidos.html">
-   Ionisidos
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="metallisidos.html">
-   Metallisidos
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="kovalenttinen.html">
-   Kovalenttinen sidos
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="elektroneg.html">Elektronegatiivisuus</a></li>
+
+<li class="toctree-l1"><a class="reference internal" href="ionisidos.html">Ionisidos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="metallisidos.html">Metallisidos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="kovalenttinen.html">Kovalenttinen sidos</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Heikot kemialliset sidokset
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Heikot kemialliset sidokset</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="dipoli.html">
-   Dipoli
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="dipolisidokset.html">
-   Dipoli-dipolisidos (puuttuu)
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="vanderWaals.html">
-   van der Waals -voimat (puuttuu)
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="dipoli.html">Dipoli</a></li>
+<li class="toctree-l1"><a class="reference internal" href="dipolisidokset.html">Dipoli-dipolisidos (puuttuu)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="vanderWaals.html">van der Waals -voimat (puuttuu)</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Kemialliset reaktiot
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Kemialliset reaktiot</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="stoikiometriaa.html">
-   Stoikiometriaa
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="reaktioyht.html">
-   Reaktioyhtälö
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="reaktiot.html">
-   Reaktiokinetiikka
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="tasapainoreaktiot.html">
-   Tasapainoreaktiot (hieman kesken)
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="liukoisuus.html">
-   Liukoisuus (hieman kesken)
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="harjoituksia_reaktioyht.html">
-   Harjoituksia
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="stoikiometriaa.html">Stoikiometriaa</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reaktioyht.html">Reaktioyhtälö</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reaktiot.html">Reaktiokinetiikka</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tasapainoreaktiot.html">Tasapainoreaktiot (hieman kesken)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="liukoisuus.html">Liukoisuus (hieman kesken)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="harjoituksia_reaktioyht.html">Harjoituksia</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Sähkökemiaa
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Sähkökemiaa</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="hapetuspelkistys.html">
-   Hapettuminen ja pelkistyminen
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="jannitesarja.html">
-   Metallien jännitesarja
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="galvaaninen_kenno.html">
-   Galvaaninen kenno (kesken)
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="elektrolyysi.html">
-   Elektrolyysi (puuttuu)
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="hapetuspelkistys.html">Hapettuminen ja pelkistyminen</a></li>
+<li class="toctree-l1"><a class="reference internal" href="jannitesarja.html">Metallien jännitesarja</a></li>
+<li class="toctree-l1"><a class="reference internal" href="galvaaninen_kenno.html">Galvaaninen kenno (kesken)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="elektrolyysi.html">Elektrolyysi (puuttuu)</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Henkilökuvia
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Henkilökuvia</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="kemistit.html">
-   Kemian merkkihenkilöitä
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="kemistit.html">Kemian merkkihenkilöitä</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Liitteet
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Liitteet</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="vakioita.html">
-   Vakioita ja kaavoja
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="taulukoita.html">
-   Taulukoita
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../genindex.html">
-   Hakemisto
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="vakioita.html">Vakioita ja kaavoja</a></li>
+<li class="toctree-l1"><a class="reference internal" href="taulukoita.html">Taulukoita</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../genindex.html">Hakemisto</a></li>
 </ul>
 
     </div>
 </nav></div>
-        <div class="bd-sidebar__bottom">
-             <!-- To handle the deprecated key -->
-            
-            <div class="navbar_extra_footer">
-            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-            </div>
-            
-        </div>
     </div>
-    <div id="rtd-footer-container"></div>
-</div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
-          
+      </div>
+      
+      <main id="main-content" class="bd-main">
+        
+        
 
-
-          
-<!-- A tiny helper pixel to detect if we've scrolled -->
 <div class="sbt-scroll-pixel-helper"></div>
-<!-- Main content -->
-<div class="col py-0 content-container">
-    
-    <div class="header-article row sticky-top noprint">
-        
 
-
-
-<div class="col py-1 d-flex header-article-main">
-    <div class="header-article__left">
-        
-        <label for="__navigation"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="right"
-title="Toggle navigation"
->
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
   
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-bars"></i>
-  </span>
-
-</label>
-
-        
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
     </div>
-    <div class="header-article__right">
-<button onclick="toggleFullScreen()"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="bottom"
-title="Fullscreen mode"
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+<a href="https://github.com/luma-lapinamk/miika-kemia" target="_blank"
+   class="btn btn-sm btn-source-repository-button"
+   title="Source repository"
+   data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
-  <i class="fas fa-expand"></i>
-  </span>
-
-</button>
-<a href="https://github.com/luma-lapinamk/miika-kemia"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="bottom"
-title="Source repository"
->
-  
-
-<span class="headerbtn__icon-container">
+<span class="btn__icon-container">
   <i class="fab fa-github"></i>
   </span>
 
 </a>
 
-<div class="menu-dropdown menu-dropdown-download-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Download this page">
-      <i class="fas fa-download"></i>
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
   </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="../_sources/notebooks/atomimallit.md"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Download source file"
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/notebooks/atomimallit.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
+<span class="btn__icon-container">
   <i class="fas fa-file"></i>
   </span>
-<span class="headerbtn__text-container">.md</span>
+<span class="btn__text-container">.md</span>
 </a>
-
-      </li>
+</li>
+      
+      
+      
       
       <li>
-        
-<button onclick="printPdf(this)"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="left"
-title="Print to PDF"
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
+<span class="btn__icon-container">
   <i class="fas fa-file-pdf"></i>
   </span>
-<span class="headerbtn__text-container">.pdf</span>
+<span class="btn__text-container">.pdf</span>
 </button>
-
-      </li>
+</li>
       
-    </ul>
-  </div>
+  </ul>
 </div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
   </span>
 
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
 </label>
-
+</div></div>
+      
     </div>
+  
 </div>
-
-<!-- Table of contents -->
-<div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#ekr-antiikin-kreikka">
-   400-300 eKr Antiikin Kreikka
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#daltonin-atomimalli">
-   1803 Daltonin atomimalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#thomsonin-rusinakakkumalli">
-   1904 Thomsonin rusinakakkumalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#rutherfordin-atomimalli">
-   1909 Rutherfordin atomimalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#bohrin-atomimalli">
-   1913 Bohrin atomimalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#atomin-ydin-hahmottuu">
-   1917-1932 Atomin ydin hahmottuu
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
-    </div>
-    <div class="article row">
-        <div class="col pl-md-3 pl-lg-5 content-container">
-            <!-- Table of contents that is only displayed when printing the page -->
-            <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Atomimallien kehittyminen</h1>
-                <!-- Table of contents -->
-                <div id="print-main-content">
-                    <div id="jb-print-toc">
-                        
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#ekr-antiikin-kreikka">
-   400-300 eKr Antiikin Kreikka
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#daltonin-atomimalli">
-   1803 Daltonin atomimalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#thomsonin-rusinakakkumalli">
-   1904 Thomsonin rusinakakkumalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#rutherfordin-atomimalli">
-   1909 Rutherfordin atomimalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#bohrin-atomimalli">
-   1913 Bohrin atomimalli
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#atomin-ydin-hahmottuu">
-   1917-1932 Atomin ydin hahmottuu
-  </a>
- </li>
-</ul>
+              
+              
 
-                        </nav>
-                    </div>
-                </div>
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Atomimallien kehittyminen</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
             </div>
-            <main id="main-content" role="main">
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ekr-antiikin-kreikka">400-300 eKr Antiikin Kreikka</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#daltonin-atomimalli">1803 Daltonin atomimalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#thomsonin-rusinakakkumalli">1904 Thomsonin rusinakakkumalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rutherfordin-atomimalli">1909 Rutherfordin atomimalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bohrin-atomimalli">1913 Bohrin atomimalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#atomin-ydin-hahmottuu">1917-1932 Atomin ydin hahmottuu</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
                 
-              <div>
-                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
   <section class="tex2jax_ignore mathjax_ignore" id="atomimallien-kehittyminen">
-<h1>Atomimallien kehittyminen<a class="headerlink" href="#atomimallien-kehittyminen" title="Permalink to this headline">#</a></h1>
+<h1>Atomimallien kehittyminen<a class="headerlink" href="#atomimallien-kehittyminen" title="Permalink to this heading">#</a></h1>
 <section id="ekr-antiikin-kreikka">
-<h2>400-300 eKr Antiikin Kreikka<a class="headerlink" href="#ekr-antiikin-kreikka" title="Permalink to this headline">#</a></h2>
+<h2>400-300 eKr Antiikin Kreikka<a class="headerlink" href="#ekr-antiikin-kreikka" title="Permalink to this heading">#</a></h2>
 <p>Leukippos ja Demokritos ajattelivat, että kaikki materia koostuu pienistä, jakamattomista ja liikkumattomista perusyksiköistä, atomeista, joiden välillä ei ole tyhjää tilaa. Epicuros esitti myöhemmin ajatuksen tyhjien tilojen olemassaolosta atomien välillä, jolloin ne voivat liikkua toistensa suhteen. Hän väitti myös, että liike ja järjestys johtuvat satunnaisista atomien törmäyksistä ja että kaiken tärkein tavoite on ”tasapaino ja hiljaisuus”.</p>
 </section>
 <section id="daltonin-atomimalli">
-<h2>1803 <span class="target" id="index-0"></span>Daltonin atomimalli<a class="headerlink" href="#daltonin-atomimalli" title="Permalink to this headline">#</a></h2>
+<h2>1803 <span class="target" id="index-0"></span>Daltonin atomimalli<a class="headerlink" href="#daltonin-atomimalli" title="Permalink to this heading">#</a></h2>
 <p>Brittiläinen John Dalton esitti teoreettisen atomimallin, jonka mukaan atomit ovat pieniä, jakamattomia yksiköitä ja että ne ovat homogeenisia, eli eri alkuaineet koostuvat keskenään erilaisista atomeista. Täten esimerkiksi kaikilla happiatomeilla olisi sama massa sekä samat fysikaaliset ja kemialliset ominaisuudet. Dalton oli ensimmäinen, joka esitti, että atomien lukumäärä pysyy vakiona kemiallisissa reaktioissa.</p>
 <blockquote>
 <div><p>Atomeja ei synny eikä häviä kemiallisissa reaktioissa, vaan ne voivat ainoastaan järjestäytyä uudelleen irtoamalla toisistaan ja liittymällä toisiinsa muodostaen uusia yhdisteitä.</p>
 </div></blockquote>
 </section>
 <section id="thomsonin-rusinakakkumalli">
-<h2>1904 <span class="target" id="index-1"></span>Thomsonin rusinakakkumalli<a class="headerlink" href="#thomsonin-rusinakakkumalli" title="Permalink to this headline">#</a></h2>
+<h2>1904 <span class="target" id="index-1"></span>Thomsonin rusinakakkumalli<a class="headerlink" href="#thomsonin-rusinakakkumalli" title="Permalink to this heading">#</a></h2>
 <p>J.J. Thomson oli yhdessä oppilaansa G.J. Stoney kanssa päätelleet kuuluisalla katodisädekokeellaan, että katodilta lähtevä säteily koostuikin atomia vielä pienemmistä negatiivisesti varautuneista hiukkasista, ”corpuscle”:ista, joita Stoney nimitti elektroneiksi.  Thomsonin atomimallissa atomit koostuivat positiivisesta aineksesta, jonka sisällä elektronit olivat, mistä nimitys rusinakakku. ”Corpuscle”:t muodostivat yhdessä positiivisen aineksen kanssa sähköisesti neutraalin tasapainotilan.</p>
 </section>
 <section id="rutherfordin-atomimalli">
-<h2>1909 <span class="target" id="index-2"></span>Rutherfordin atomimalli<a class="headerlink" href="#rutherfordin-atomimalli" title="Permalink to this headline">#</a></h2>
+<h2>1909 <span class="target" id="index-2"></span>Rutherfordin atomimalli<a class="headerlink" href="#rutherfordin-atomimalli" title="Permalink to this heading">#</a></h2>
 <p>Uusiseelantilainen Ernest Rutherford onnistui yhdessä Hans Geigerin kanssa luomaan alpha-säteilyä, ”kanavapartikkeleita”, joilla hän pommitti ohutta kultakalvoa. Hän huomasi, että suurin osa alpha-säteilystä läpäisi kulta-atomit mutta pieni osa säteilystä heijastui takaisin eri kulmissa. Tämä johti Rutherfordin päätelmään, että atomi koostui suurimmalta osin tyhjästä tilasta, jonka keskellä oli suurimassainen mutta pieni positiivisesti varautunut ydin, jota elektronit kiertävät.</p>
 <p>Tutki alla olevan appletin avulla, mitä Rutherfordin sirontakokeessa tapahtui ja mitä Thomsonin rusinakakkumallin mukaan pitäisi tapahtua.</p>
 <iframe src="https://phet.colorado.edu/sims/html/rutherford-scattering/latest/rutherford-scattering_fi.html"
@@ -581,7 +439,7 @@ title="Print to PDF"
 </iframe>
 </section>
 <section id="bohrin-atomimalli">
-<h2>1913 Bohrin atomimalli<a class="headerlink" href="#bohrin-atomimalli" title="Permalink to this headline">#</a></h2>
+<h2>1913 Bohrin atomimalli<a class="headerlink" href="#bohrin-atomimalli" title="Permalink to this heading">#</a></h2>
 <p>Tanskalainen Nils Bohr kehitti atomimallinsa tutkiessaan, miksi kuuma vetykaasu tuottaa vain tietynlaista valoa. Siinä missä tavallisen hehkulampun lanka tuottaa lähes kaikkia näkyvän valon aallonpituuksia, olivat Gustav Kirchoff ja Robert Bunsen havainneet vuonna 1859, että kuuma vetykaasu tuottaa näkyvän valon aallonpituudella vain punertavaa väriä, joka koostuu tietyistä aallonpituuksista. Näistä voimakkain sijoituu punaisen värin aallonpituudelle ja muut pienemmille aallonpituuksille.</p>
 <figure class="align-default" id="balmerin-sarja">
 <a class="bg-primary mb-1 reference internal image-reference" href="../_images/Balmerin_sarja.png"><img alt="Balmer sarjan näkyvän valon spektriviivat" class="bg-primary mb-1 align-center" src="../_images/Balmerin_sarja.png" style="width: 600px;" /></a>
@@ -601,7 +459,7 @@ Bohrin atomimalli loi perustan seuraaville käsityksille atomin elektronirakente
 <p>Bohrin atomiallille on oppikirjassa oma kappaleensa.</p>
 </section>
 <section id="atomin-ydin-hahmottuu">
-<h2>1917-1932 Atomin ydin hahmottuu<a class="headerlink" href="#atomin-ydin-hahmottuu" title="Permalink to this headline">#</a></h2>
+<h2>1917-1932 Atomin ydin hahmottuu<a class="headerlink" href="#atomin-ydin-hahmottuu" title="Permalink to this heading">#</a></h2>
 <p>Teorian ytimessä olevista positiivisista protoneista kehitti Rutherford Hans Geigerin ja Ernest Marsdenin jatkotutkimusten perusteella vuonna <strong>1917</strong>. Teoria ytimessä olevista toisista hiukkasista, varauksettomista neutroneista, vahvistui vuonna <strong>1932</strong> James Chadwickin toimesta.</p>
 <p>Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla. Valitse vasemmalta valikosta kohta <strong>-Ennustus</strong> ja tutki, miten atomallit eroavat toisistaan. Jos appletin käynnistymisessä kestää liian pitkään, voit kokeilla avata sen osoitteesta <a href="https://phet.colorado.edu/fi/simulations/hydrogen-atom" target="_blank">PhET Interactive Simulations</a>.</p>
 <iframe src="https://phet.colorado.edu/sims/cheerpj/hydrogen-atom/latest/hydrogen-atom.html?simulation=hydrogen-atom&locale=fi"
@@ -623,7 +481,7 @@ Bohrin atomimalli loi perustan seuraaville käsityksille atomin elektronirakente
             mode: "python"
         },
         kernelOptions: {
-            kernelName: "python3",
+            name: "python3",
             path: "./notebooks"
         },
         predefinedOutput: true
@@ -631,50 +489,108 @@ Bohrin atomimalli loi perustan seuraaville käsityksille atomin elektronirakente
     </script>
     <script>kernelName = 'python3'</script>
 
-              </div>
+                </article>
               
-            </main>
-            <footer class="footer-article noprint">
-                
-    <!-- Previous / next buttons -->
-<div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="peruskasitteita.html" title="previous page">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Peruskäsitteitä</p>
-        </div>
+
+              
+              
+              
+              
+                <footer class="prev-next-footer">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="peruskasitteita.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Peruskäsitteitä</p>
+      </div>
     </a>
-    <a class='right-next' id="next-link" href="harjoituksia_atomimassa.html" title="next page">
-    <div class="prev-next-info">
+    <a class="right-next"
+       href="harjoituksia_atomimassa.html"
+       title="next page">
+      <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
         <p class="prev-next-title">Harjoituksia</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
-            </footer>
-        </div>
-    </div>
-    <div class="footer-content row">
-        <footer class="col footer"><p>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#ekr-antiikin-kreikka">400-300 eKr Antiikin Kreikka</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#daltonin-atomimalli">1803 Daltonin atomimalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#thomsonin-rusinakakkumalli">1904 Thomsonin rusinakakkumalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rutherfordin-atomimalli">1909 Rutherfordin atomimalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#bohrin-atomimalli">1913 Bohrin atomimalli</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#atomin-ydin-hahmottuu">1917-1932 Atomin ydin hahmottuu</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
   
-    By <a href="https://luma-lapinamk.pub">LUMA-team</a> (<a href="mailto:luma@lapinamk.fi">luma@lapinamk.fi</a>), <a href="https://www.lapinamk.fi/en">Lapland University of Applied Sciences</a> / Miika Aitomaa (<a href="mailto:miika.aitomaa@lapinamk.fi">miika.aitomaa@lapinamk.fi</a>)<br/>
-  
-      &copy; Copyright 2023.<br/>
-</p>
-        </footer>
-    </div>
+  <div class="footer-item">
     
+<p class="component-author">
+By <a href="https://luma-lapinamk.pub">LUMA-team</a> (<a href="mailto:luma@lapinamk.fi">luma@lapinamk.fi</a>), <a href="https://www.lapinamk.fi/en">Lapland University of Applied Sciences</a> / Miika Aitomaa (<a href="mailto:miika.aitomaa@lapinamk.fi">miika.aitomaa@lapinamk.fi</a>)
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
 </div>
+          </footer>
+        
 
-
-      </div>
+      </main>
     </div>
+  </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=bd9e20870c6007c4c509"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=bd9e20870c6007c4c509"></script>
 
-
+  <footer class="bd-footer">
+  </footer>
   </body>
 </html>
