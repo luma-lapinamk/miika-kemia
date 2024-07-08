@@ -13,7 +13,6 @@
 | standardiolosuhteet | STP | $0$ C°, $1$ atm |
 | normaaliolosuhteet | NTP | $20$ C°, $1$ atm |
 | normaalipaine | $p_0$ | $1$ atm = $101 325$ Pa = $101.325$ kPa = $1.01325$ bar |
-| moolitilavuus | $V_m$ | $22.41$ l/mol |
 
 | Suure | Tunnus | Kaava |
 | --- | --- | --- |
