@@ -1,103 +1,111 @@
 # Taulukoita
 
-Tavoitteena on kerätä tänne kaikki tarvittavat kemian taulukot. Useita aihepiirejä vielä puuttuu, eikä nykyisiä taulukoita ole kaikkia tarkastettu. Jos siis huomaat, että jokin taulukkoarvo on virheellinen tai jokin alkuaine puuttuu, ota yhteyttä kirjan tekijään. kiitos!
+Tavoitteena on kerätä tänne kaikki tarvittavat kemian taulukot. Useita aihepiirejä vielä puuttuu, eikä nykyisiä taulukoita ole kaikkia tarkastettu. Jos siis huomaat, että jokin taulukkoarvo on virheellinen tai jokin alkuaine puuttuu, ota yhteyttä kirjan tekijään - kiitos!
 
 ## {index}`Elektronegatiivisuusarvoja`
-Linus Paulingin mukaan
+Linus Paulingin mukaan, lähde <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_blank">ptable.com</a>
 
-| Alkuaine     | Kemiallinen merkki | Elektronegatiivisuusarvo |
-|--------------|--------------------|--------------------------|
-| Aktinium     | Ac                 | 1.1                      |
-| Alumiini     | Al                 | 1.5                      |
-| Amerikium    | Am                 | 1.3                      |
-| Antimoni     | Sb                 | 1.9                      |
-| Arseeni      | As                 | 2.0                      |
-| Astatiini    | At                 | 2.2                      |
-| Barium       | Ba                 | 0.9                      |
-| Berkelium    | Bk                 | 1.3                      |
-| Boori        | B                  | 2.0                      |
-| Beryllium    | Be                 | 1.5                      |
-| Bromi        | Br                 | 2.8                      |
-| Cerium       | Ce                 | 1.1                      |
-| Cesium       | Cs                 | 0.7                      |
-| Curium       | Cm                 | 1.3                      |
-| Dysprosium   | Dy                 | 1.2                      |
-| Einsteinium  | Es                 | 1.3                      |
-| Elohopea     | Hg                 | 1.9                      |
-| Erbium       | Er                 | 1.2                      |
-| Fermium      | Fm                 | 1.3                      |
-| Fluori       | F                  | 4.0                      |
-| Frankium     | Fr                 | 0.7                      |
-| Fosfori      | P                  | 2.1                      |
-| Gadolinium   | Gd                 | 1.2                      |
-| Gallium      | Ga                 | 1.6                      |
-| Germanium    | Ge                 | 1.8                      |
-| Hafnium      | Hf                 | 1.3                      |
-| Happi        | O                  | 3.5                      |
-| Hiili        | C                  | 2.5                      |
-| Holmium      | Ho                 | 1.2                      |
-| Hopea        | Ag                 | 1.9                      |
-| Indium       | In                 | 1.7                      |
-| Iridium      | Ir                 | 2.2                      |
-| Jodi         | I                  | 2.5                      |
-| Kloori       | Cl                 | 3.0                      |
-| Kadmium      | Cd                 | 1.7                      |
-| Kalifornium  | Cf                 | 1.3                      |
-| Kalium       | K                  | 0.8                      |
-| Kalsium      | Ca                 | 1.0                      |
-| Koboltti     | Co                 | 1.8                      |
-| Kromi        | Cr                 | 1.6                      |
-| Kulta        | Au                 | 2.4                      |
-| Kupari       | Cu                 | 1.9                      |
-| Lantaani     | La                 | 1.1                      |
-| Litium       | Li                 | 1.0                      |
-| Lutetium     | Lu                 | 1.3                      |
-| Lyijy        | Pb                 | 1.9                      |
-| Magnesium    | Mg                 | 1.2                      |
-| Mangaani     | Mn                 | 1.5                      |
-| Mendelevium  | Md                 | 1.3                      |
-| Molybdeeni   | Mo                 | 1.8                      |
-| Natrium      | Na                 | 0.9                      |
-| Neodyymi     | Nd                 | 1.1                      |
-| Neptunium    | Np                 | 1.4                      |
-| Nikkeli      | Ni                 | 1.8                      |
-| Niobium      | Nb                 | 1.6                      |
-| Nobelium     | No                 | 1.3                      |
-| Osmium       | Os                 | 2.2                      |
-| Palladium    | Pd                 | 2.2                      |
-| Pii          | Si                 | 1.8                      |
-| Platina      | Pt                 | 2.2                      |
-| Plutonium    | Pu                 | 1.3                      |
-| Polonium     | Po                 | 2.0                      |
-| Praseodyymi  | Pr                 | 1.1                      |
-| Protaktinium | Pa                 | 1.5                      |
-| Radium       | Ra                 | 0.9                      |
-| Rauta        | Fe                 | 1.8                      |
-| Renium       | Re                 | 1.9                      |
-| Rikki        | S                  | 2.5                      |
-| Rubidium     | Rb                 | 0.8                      |
-| Rutenium     | Ru                 | 2.2                      |
-| Samarium     | Sm                 | 1.2                      |
-| Seleeni      | Se                 | 2.4                      |
-| Sinkki       | Zn                 | 1.6                      |
-| Skandium     | Sc                 | 1.3                      |
-| Strontium    | Sr                 | 1.0                      |
-| Tallium      | Tl                 | 1.8                      |
-| Tantaali     | Ta                 | 1.5                      |
-| Teknetium    | Tc                 | 1.9                      |
-| Telluuri     | Te                 | 2.1                      |
-| Tina         | Sn                 | 1.8                      |
-| Titaani      | Ti                 | 1.5                      |
-| Torium       | Th                 | 1.3                      |
-| Tuliumi      | Tm                 | 1.3                      |
-| Typpi        | N                  | 3.0                      |
-| Uraani       | U                  | 1.4                      |
-| Vanadiini    | V                  | 1.6                      |
-| Vety         | H                  | 2.1                      |
-| Vismutti     | Bi                 | 1.9                      |
-| Wolframii    | W                  | 1.7                      |
-| Yttrium      | Y                  | 1.3                      |
-| Zirkonium    | Zr                 | 1.4                      |
+| Alkuaine | Kemiallinen merkki | Elektronegatiivisuusarvo |
+|----------|--------------------|-------------------------|
+| Aktinium | Ac                 | 1.1                     |
+| Alumiini | Al                 | 1.61                    |
+| Amerikium| Am                 | 1.3                     |
+| Antimoni | Sb                 | 2.05                    |
+| Argon    | Ar                 | -                       |
+| Arseeni  | As                 | 2.18                    |
+| Astatiini| At                 | 2.2                     |
+| Barium   | Ba                 | 0.89                    |
+| Berkelium| Bk                 | 1.3                     |
+| Beryllium| Be                 | 1.57                    |
+| Boori    | B                  | 2.04                    |
+| Bromi    | Br                 | 2.96                    |
+| Cerium   | Ce                 | 1.12                    |
+| Cesium   | Cs                 | 0.79                    |
+| Curium   | Cm                 | 1.3                     |
+| Dysprosium| Dy                | 1.22                    |
+| Einsteinium| Es               | 1.3                     |
+| Elohopea | Hg                 | 2.00                    |
+| Erbium   | Er                 | 1.24                    |
+| Europium | Eu                 | -                       |
+| Fermium  | Fm                 | 1.3                     |
+| Fluori   | F                  | 3.98                    |
+| Frankium | Fr                 | 0.7                     |
+| Fosfori  | P                  | 2.19                    |
+| Gadolinium| Gd                | 1.20                    |
+| Gallium  | Ga                 | 1.81                    |
+| Germanium| Ge                 | 2.01                    |
+| Hafnium  | Hf                 | 1.3                     |
+| Happi    | O                  | 3.44                    |
+| Helium   | He                 | -                       |
+| Hiili    | C                  | 2.55                    |
+| Holmium  | Ho                 | 1.23                    |
+| Hopea    | Ag                 | 1.93                    |
+| Indium   | In                 | 1.78                    |
+| Iridium  | Ir                 | 2.20                    |
+| Jodi     | I                  | 2.66                    |
+| Kadmium  | Cd                 | 1.69                    |
+| Kalifornium| Cf               | 1.3                     |
+| Kalium   | K                  | 0.83                    |
+| Kalsium  | Ca                 | 1.00                    |
+| Kloori   | Cl                 | 3.16                    |
+| Koboltti | Co                 | 1.88                    |
+| Kromi    | Cr                 | 1.66                    |
+| Krypton  | Kr                 | 3.0                     |
+| Kulta    | Au                 | 2.54                    |
+| Kupari   | Cu                 | 1.90                    |
+| Lantaani | La                 | 1.10                    |
+| Litium   | Li                 | 0.98                    |
+| Lutetium | Lu                 | 1.27                    |
+| Lyijy    | Pb                 | 2.33                    |
+| Magnesium| Mg                 | 1.31                    |
+| Mangaani | Mn                 | 1.55                    |
+| Mendelevium| Md               | 1.3                     |
+| Molybdeeni| Mo                | 2.16                    |
+| Natrium  | Na                 | 0.93                    |
+| Neodyymi | Nd                 | 1.14                    |
+| Neon     | Ne                 | -                       |
+| Neptunium| Np                 | 1.36                    |
+| Nikkeli  | Ni                 | 1.91                    |
+| Niobium  | Nb                 | 1.6                     |
+| Nobelium | No                 | 1.3                     |
+| Osmium   | Os                 | 2.2                     |
+| Palladium| Pd                 | 2.20                    |
+| Pii      | Si                 | 1.90                    |
+| Platina  | Pt                 | 2.28                    |
+| Plutonium| Pu                 | 1.28                    |
+| Polonium | Po                 | 2.0                     |
+| Praseodyymi| Pr               | 1.13                    |
+| Protaktinium| Pa              | 1.5                     |
+| Radium   | Ra                 | 0.89                    |
+| Rauta    | Fe                 | 1.83                    |
+| Renium   | Re                 | 1.9                     |
+| Rikki    | S                  | 2.58                    |
+| Rodium   | Rh                 | 2.28                    |
+| Rubidium | Rb                 | 0.82                    |
+| Rutenium | Ru                 | 2.2                     |
+| Samarium | Sm                 | 1.17                    |
+| Seleeni  | Se                 | 2.55                    |
+| Sinkki   | Zn                 | 1.65                    |
+| Skandium | Sc                 | 1.36                    |
+| Strontium| Sr                 | 0.95                    |
+| Tallium  | Tl                 | 1.62                    |
+| Tantaali | Ta                 | 1.5                     |
+| Teknetium| Tc                 | 1.9                     |
+| Telluuri | Te                 | 2.1                     |
+| Tina     | Sn                 | 1.96                    |
+| Titaani  | Ti                 | 1.54                    |
+| Torium   | Th                 | 1.3                     |
+| Tulium   | Tm                 | 1.25                    |
+| Typpi    | N                  | 3.04                    |
+| Uraani   | U                  | 1.38                    |
+| Vanadiini| V                  | 1.63                    |
+| Vety     | H                  | 2.20                    |
+| Vismutti | Bi                 | 2.02                    |
+| Volframi | W                  | 2.36                    |
+| Yttrium  | Y                  | 1.22                    |
+| Zirkonium| Zr                 | 1.33                    |
+
+
 
 ## {index}`Sidoksen ioniluonne`
 Linus Paulingin mukaan
