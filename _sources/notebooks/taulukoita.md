@@ -108,6 +108,8 @@ Linus Paulingin mukaan, lähde <a href="https://ptable.com/#Ominaisuudet/Elektro
 
 
 ## {index}`Sidoksen ioniluonne`
+Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi.
+
 Linus Paulingin mukaan
 
 | Elektronegatiivisuusero | Sidoksen ioniluonne % |
