@@ -3,7 +3,7 @@
 Tervetuloa opiskelemaan kemiaa! Tämä sähköinen oppikirja sisältää materiaalia opintojaksoille
 - Rakennusalan kemia
 - Maatalousalan matematiikka
-- Kasvien kasvu
+- Kasvien kasvu sdkjfsdohgjisdg
 
 
 > **Ohje: kaavojen zoomaaminen**
