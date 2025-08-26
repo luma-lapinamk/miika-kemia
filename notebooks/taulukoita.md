@@ -2,6 +2,24 @@
 
 Tavoitteena on kerätä tänne kaikki tarvittavat kemian taulukot. Useita aihepiirejä vielä puuttuu, eikä nykyisiä taulukoita ole kaikkia tarkastettu. Jos siis huomaat, että jokin taulukkoarvo on virheellinen tai jokin alkuaine puuttuu, ota yhteyttä kirjan tekijään - kiitos!
 
+## Anioneja ja kationeja
+
+| Kationeja   |            | Anioneja     |        |
+|-------------|------------|--------------|--------|
+| alumiini    | Al³⁺       | bromidi      | Br⁻    |
+| ammonium    | NH₄⁺       | fluoridi     | F⁻     |
+| hopea       | Ag⁺        | fosfidi      | P³⁻    |
+| kalium      | K⁺         | hydroksidi   | OH⁻    |
+| kalsium     | Ca²⁺       | jodidi       | I⁻     |
+| kupari      | Cu²⁺       | karbonaatti  | CO₃²⁻  |
+| litium      | Li⁺        | kloridi      | Cl⁻    |
+| lyijy       | Pb²⁺       | nitraatti    | NO₃⁻   |
+| magnesium   | Mg²⁺       | oksidi       | O²⁻    |
+| natrium     | Na⁺        | permangaatti | MnO₄⁻  |
+| oksonium    | H₃O⁺       | peroksidi    | O₂²⁻   |
+| rauta       | Fe³⁺       | sulfaatti    | SO₄²⁻  |
+| sinkki      | Zn²⁺       | sulfidi      | S²⁻    |
+
 ## {index}`Elektronegatiivisuusarvoja`
 Linus Paulingin mukaan, lähde <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_blank">ptable.com</a>
 
@@ -104,8 +122,6 @@ Linus Paulingin mukaan, lähde <a href="https://ptable.com/#Ominaisuudet/Elektro
 | Volframi | W                  | 2.36                    |
 | Yttrium  | Y                  | 1.22                    |
 | Zirkonium| Zr                 | 1.33                    |
-
-
 
 ## {index}`Sidoksen ioniluonne`
 Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi.
