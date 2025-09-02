@@ -2,23 +2,67 @@
 
 Tavoitteena on kerätä tänne kaikki tarvittavat kemian taulukot. Useita aihepiirejä vielä puuttuu, eikä nykyisiä taulukoita ole kaikkia tarkastettu. Jos siis huomaat, että jokin taulukkoarvo on virheellinen tai jokin alkuaine puuttuu, ota yhteyttä kirjan tekijään - kiitos!
 
-## Anioneja ja kationeja
+## Kationeja ja anioneja
 
-| Kationeja   |            | Anioneja     |        |
-|-------------|------------|--------------|--------|
-| alumiini    | Al³⁺       | bromidi      | Br⁻    |
-| ammonium    | NH₄⁺       | fluoridi     | F⁻     |
-| hopea       | Ag⁺        | fosfidi      | P³⁻    |
-| kalium      | K⁺         | hydroksidi   | OH⁻    |
-| kalsium     | Ca²⁺       | jodidi       | I⁻     |
-| kupari      | Cu²⁺       | karbonaatti  | CO₃²⁻  |
-| litium      | Li⁺        | kloridi      | Cl⁻    |
-| lyijy       | Pb²⁺       | nitraatti    | NO₃⁻   |
-| magnesium   | Mg²⁺       | oksidi       | O²⁻    |
-| natrium     | Na⁺        | permangaatti | MnO₄⁻  |
-| oksonium    | H₃O⁺       | peroksidi    | O₂²⁻   |
-| rauta       | Fe³⁺       | sulfaatti    | SO₄²⁻  |
-| sinkki      | Zn²⁺       | sulfidi      | S²⁻    |
+**Yksiatomiset ionit**
+| Kationeja     |    | Anioneja              |         |
+|---------------|---------|-----------------------|--------------|
+| alumiini      | Al³⁺    | bromidi               | Br⁻          |
+| barium        | Ba²⁺    | fluoridi              | F⁻           |
+| elohopea(II)  | Hg²⁺    | fosfidi               | P³⁻          |
+| hopea         | Ag⁺     | hydridi               | H⁻           |
+| kadmium       | Cd²⁺    | jodidi                | I⁻           |
+| kalium        | K⁺      | kloridi               | Cl⁻          |
+| kalsium       | Ca²⁺    | nitridi               | N³⁻          |
+| koboltti(II)  | Co²⁺    | oksidi                | O²⁻          |
+| kromi(III)    | Cr³⁺    | sulfidi               | S²⁻          |
+| kupari(II)    | Cu²⁺    |                       |              |
+| litium        | Li⁺     |                       |              |
+| lyijy(II)     | Pb²⁺    |                       |              |
+| magnesium     | Mg²⁺    |                       |              |
+| mangaani(II)  | Mn²⁺    |                       |              |
+| natrium       | Na⁺     |                       |              |
+| nikkeli(II)   | Ni²⁺    |                       |              |
+| rauta(II)     | Fe²⁺    |                       |              |
+| rauta(III)    | Fe³⁺    |                       |              |
+| sinkki        | Zn²⁺    |                       |              |
+| strontium     | Sr²⁺    |                       |              |
+
+**Moniatomiset ionit**
+| Kationeja     |    | Anioneja              |         |
+|---------------|---------|-----------------------|--------------|
+| ammonium      | NH₄⁺    | aluminaatti           | Al(OH)₄⁻, AlO₂⁻ |
+| oksonium      | H₃O⁺    | amidi                 | NH₂⁻         |
+|               |         | arsenaatti            | AsO₄³⁻       |
+|               |         | arseniitti            | AsO₃³⁻       |
+|               |         | asetaatti             | CH₃COO⁻      |
+|               |         | bromaatti             | BrO₃⁻        |
+|               |         | dikromaatti           | Cr₂O₇²⁻      |
+|               |         | divetyfosfaatti       | H₂PO₄⁻       |
+|               |         | formiaatti            | HCOO⁻        |
+|               |         | fosfaatti             | PO₄³⁻        |
+|               |         | karbonaatti           | CO₃²⁻        |
+|               |         | kloraatti             | ClO₃⁻        |
+|               |         | kloriitti             | ClO₂⁻        |
+|               |         | kromaatti             | CrO₄²⁻       |
+|               |         | metafosfaatti         | PO₃⁻         |
+|               |         | monovetyfosfaatti     | HPO₄²⁻       |
+|               |         | nitraatti             | NO₃⁻         |
+|               |         | nitriitti             | NO₂⁻         |
+|               |         | oksalaatti            | C₂O₄²⁻       |
+|               |         | perkloraatti          | ClO₄⁻        |
+|               |         | permanganaatti        | MnO₄⁻        |
+|               |         | peroksidi             | O₂²⁻         |
+|               |         | silikaatti            | SiO₄⁴⁻, SiO₃²⁻ |
+|               |         | sulfaatti             | SO₄²⁻        |
+|               |         | sulfiitti             | SO₃²⁻        |
+|               |         | syanidi               | CN⁻          |
+|               |         | tiosulfaatti          | S₂O₃²⁻       |
+|               |         | tiosyanaatti          | SCN⁻         |
+|               |         | vetykarbonaatti       | HCO₃⁻        |
+|               |         | vetysulfaatti         | HSO₄⁻        |
+|               |         | vetysulfidi           | HS⁻          |
+|               |         | vetysulfiitti         | HSO₃⁻        |
 
 ## {index}`Elektronegatiivisuusarvoja`
 Linus Paulingin mukaan, lähde <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_blank">ptable.com</a>
