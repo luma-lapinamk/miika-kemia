@@ -16,11 +16,11 @@ Ainemäärän (n) ja kappalemäärän (N) välillä on seuraava suhde:
 $N = n \cdot N_A$, eli
 $n = \frac{N}{N_a}$
 
-Ainemäärä voidaan muuttaa massaksi (m), kun alkuaineen tai yhdisteen atomimassat on tiedossa. Jos ainetta on yhden moolin verran, atomimassan sijaan käytetään termiä **{index}`moolimassa`** (M). Atomimassayksikkö määritteltiin hiili-12 isotoopin ytimen massaksi, joka vastaa massaa grammoina,yhden hiili-12 isotoopin moolin massaa grammoina eli $ M(_{12}C)=12.055 \frac{g}{mol}$.
+Ainemäärä voidaan muuttaa massaksi (*m*), kun alkuaineen tai yhdisteen atomimassat ovat tiedossa. Atomimassayksikön *u* määriteltiin olevan 1/12-osaa hiili-12 isotoopin ytimen massasta. Jos ainetta on yhden moolin verran, atomimassan sijaan käytetään termiä **{index}`moolimassa`** (*M*). Yksi mooli hiili-12 isotooppia on massaltaan 12.055 g, joten $ M(^{12}C)=12.055 \frac{g}{mol}$. 
 
 :::{admonition} Esimerkki: hiilen moolimassa
 :class: tip
-Taulukkoarvon mukaan yksi mooli hiiltä on massaltaan 12.055 grammaa. Täten kaksi moolia on massaltaan $2 \cdot 12.055 \ g = 24.110 \ g$. Kun hiilen ainemäärä $n(C)=0.43 \ mol$, niin hiilen massa $m(C)=0.43 \ mol \cdot 12.055 \frac{g}{mol} = 5.18365 \ g \approx 5.2 \ g$
+Taulukkoarvon mukaan yksi mooli hiili-12 isotooppia on massaltaan 12.055 grammaa. Täten kaksi moolia on massaltaan $2 \cdot 12.055 \ g = 24.110 \ g$. Kun hiilen ainemäärä $n(C)=0.43 \ mol$, niin hiilen massa $m(C)=0.43 \ mol \cdot 12.055 \frac{g}{mol} = 5.18365 \ g \approx 5.2 \ g$
 :::
 
 > Kemiassa stoikiometristen laskujen vastausten pyöristäminen tapahtuu **epätarkimman lähtöarvon merkitsevien numeroiden määrän** mukaan.
