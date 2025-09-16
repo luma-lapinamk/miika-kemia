@@ -20,7 +20,7 @@ Ainemäärä voidaan muuttaa massaksi (m), kun alkuaineen tai yhdisteen atomimas
 
 :::{admonition} Esimerkki: hiilen moolimassa
 :class: tip
-Taulukkoarvon mukaan yksi mooli hiiltä on massaltaan 12.055 grammaa. Täten kaksi moolia on massaltaan $2 \cdot 12.055 g = 24.110 g$. Kun hiilen ainemäärä $n(C)=0.43 \ mol$, niin hiilen massa $m(C)=0.43 \ mol \cdot 12.055 \frac{g}{mol} = 5.18365 g \approx 5.2 g$
+Taulukkoarvon mukaan yksi mooli hiiltä on massaltaan 12.055 grammaa. Täten kaksi moolia on massaltaan $2 \cdot 12.055 \ g = 24.110 \ g$. Kun hiilen ainemäärä $n(C)=0.43 \ mol$, niin hiilen massa $m(C)=0.43 \ mol \cdot 12.055 \frac{g}{mol} = 5.18365 \ g \approx 5.2 \ g$
 :::
 
 > Kemiassa stoikiometristen laskujen vastausten pyöristäminen tapahtuu **epätarkimman lähtöarvon merkitsevien numeroiden määrän** mukaan.
