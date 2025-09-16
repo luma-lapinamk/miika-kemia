@@ -20,7 +20,7 @@ Ainemäärä voidaan muuttaa massaksi (m), kun alkuaineen tai yhdisteen atomimas
 
 :::{admonition} Esimerkki: hiilen moolimassa
 :class: tip
-Taulukkoarvon mukaan yksi mooli hiiltä on massaltaan 12.055 grammaa. Täten kaksi moolia on massaltaan $2 \cdot 12.055 \frac{g}{mol} = 24.110 \frac{g}{mol}$. Kun hiilen ainemäärä $n(C)=0.43 \ mol$, niin hiilen massa $m(C)=0.43 \ mol \cdot 12.055 \frac{g}{mol} = 5.18365 \frac{g}{mol} \approx 5.2 \frac{g}{mol}$
+Taulukkoarvon mukaan yksi mooli hiiltä on massaltaan 12.055 grammaa. Täten kaksi moolia on massaltaan $2 \cdot 12.055 g = 24.110 g$. Kun hiilen ainemäärä $n(C)=0.43 \ mol$, niin hiilen massa $m(C)=0.43 \ mol \cdot 12.055 \frac{g}{mol} = 5.18365 g \approx 5.2 g$
 :::
 
 > Kemiassa stoikiometristen laskujen vastausten pyöristäminen tapahtuu **epätarkimman lähtöarvon merkitsevien numeroiden määrän** mukaan.
@@ -65,7 +65,7 @@ Raudan yhtyminen hapeen eli raudan hapettuminen voidaan kuvata alla olevan reaki
 
 :::{admonition} Esimerkki: raudan hapettuminen
 :class: tip
-Laboratoriossa tarvitaan tasan 500 grammaa rauta(III)oksidia. Riittää 300 g puhdasta rautaa ja 200 g happea tuottamaan tarvittavan määrä rautaoksidia?
+Laboratoriossa tarvitaan tasan 500 grammaa rauta(III)oksidia. Riittääkö 300 g puhdasta rautaa ja 200 g happea tuottamaan tarvittavan määrä rautaoksidia?
 
 Koska reaktioyhtälön mukaisia aineiden suhteita voi tarkastella vain ainemäärinä, muunnetaan aineiden massat ensin ainemääriksi.
 
@@ -90,7 +90,7 @@ Suhteen perusteella raudan ainemäärän tulisi olla kaksinkertainen rauta(III)o
 
 <br>
 
-Lasketaan kuinka paljon rautaa tulisi olla, jotta saataisiin valmistettua tasan 500 g rauta(III)oksidia. Todellisuudessa reaktiot eivät ikinä tapahdu täydellisesti, mutta oletetaan tässä tapauksessa reaktion tapahtuvan ideaalisesti.
+Lasketaan lopuksi kuinka paljon rautaa tulisi olla, jotta saataisiin valmistettua tasan 500 g rauta(III)oksidia. Todellisuudessa reaktiot eivät ikinä tapahdu täydellisesti, mutta oletetaan tässä tapauksessa reaktion tapahtuvan ideaalisesti.
 
 Reaktioyhtälön kertoimien perusteella
 
