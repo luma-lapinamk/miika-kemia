@@ -384,7 +384,7 @@ Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhd
 ## {index}`Normaalipotentiaaleja`
 T = 25 °C
 
-| Reaktio                                             | E° (V)  |
+| Pelkistymisreaktiot                                 | E° (V)  |
 |-----------------------------------------------------|---------|
 | Li⁺ + e⁻ → Li                                       | -3,05   |
 | K⁺ + e⁻ → K                                         | -2,93   |
@@ -406,7 +406,6 @@ T = 25 °C
 | I₂ + 2e⁻ → 2I⁻                                      | +0,54   |
 | O₂ + 2H⁺ + 2e⁻ → H₂O₂                               | +0,68   |
 | Fe³⁺ + e⁻ → Fe²⁺                                    | +0,77   |
-| Hg₂²⁺ + 2e⁻ → 2Hg                                   | +0,80   |
 | Ag⁺ + e⁻ → Ag                                       | +0,80   |
 | NO₃⁻ + 2H⁺ + e⁻ → NO₂ + H₂O                         | +0,81   |
 | Hg²⁺ + 2e⁻ → Hg                                     | +0,85   |
