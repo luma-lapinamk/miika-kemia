@@ -379,6 +379,49 @@ Muodostumislämmöllä (ΔH°) tarkoitetaan entalpiamuutosta, kun yksi mooli yhd
 | SO<sub>3</sub> (g) | -395.2 |
 | ZnO (s) | -348.0 |
 
+
+
+## {index}`Normaalipotentiaaleja`
+T = 25 °C
+
+| Reaktio                                             | E° (V)  |
+|-----------------------------------------------------|---------|
+| Li⁺ + e⁻ → Li                                       | -3,05   |
+| K⁺ + e⁻ → K                                         | -2,93   |
+| Ba²⁺ + 2e⁻ → Ba                                     | -2,91   |
+| Ca²⁺ + 2e⁻ → Ca                                     | -2,87   |
+| Na⁺ + e⁻ → Na                                       | -2,71   |
+| Mg²⁺ + 2e⁻ → Mg                                     | -2,38   |
+| Al³⁺ + 3e⁻ → Al                                     | -1,66   |
+| 2H₂O + 2e⁻ → 2OH⁻ + H₂                              | -0,83   |
+| Zn²⁺ + 2e⁻ → Zn                                     | -0,76   |
+| Fe²⁺ + 2e⁻ → Fe                                     | -0,44   |
+| Co²⁺ + 2e⁻ → Co                                     | -0,28   |
+| Ni²⁺ + 2e⁻ → Ni                                     | -0,25   |
+| Sn²⁺ + 2e⁻ → Sn                                     | -0,14   |
+| Pb²⁺ + 2e⁻ → Pb                                     | -0,13   |
+| **2H⁺ + 2e⁻ → H₂**                                  |**0,00** |
+| Cu²⁺ + 2e⁻ → Cu                                     | +0,34   |
+| O₂ + 2H₂O + 4e⁻ → 4OH⁻                              | +0,40   |
+| I₂ + 2e⁻ → 2I⁻                                      | +0,54   |
+| O₂ + 2H⁺ + 2e⁻ → H₂O₂                               | +0,68   |
+| Fe³⁺ + e⁻ → Fe²⁺                                    | +0,77   |
+| Hg₂²⁺ + 2e⁻ → 2Hg                                   | +0,80   |
+| Ag⁺ + e⁻ → Ag                                       | +0,80   |
+| NO₃⁻ + 2H⁺ + e⁻ → NO₂ + H₂O                         | +0,81   |
+| Hg²⁺ + 2e⁻ → Hg                                     | +0,85   |
+| NO₃⁻ + 4H⁺ + 3e⁻ → NO + 2H₂O                        | +0,96   |
+| Br₂ + 2e⁻ → 2Br⁻                                    | +1,07   |
+| Pt²⁺ + 2e⁻ → Pt                                     | +1,19   |
+| O₂ + 4H⁺ + 4e⁻ → 2H₂O                               | +1,23   |
+| MnO₂ + 4H⁺ + 2e⁻ → Mn²⁺ + 2H₂O                      | +1,23   |
+| Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O                | +1,33   |
+| Cl₂ + 2e⁻ → 2Cl⁻                                    | +1,36   |
+| MnO₄⁻ + 8H⁺ + 5e⁻ → Mn²⁺ + 4H₂O                     | +1,51   |
+| Au⁺ + e⁻ → Au                                       | +1,69   |
+| S₂O₈²⁻ + 2e⁻ → 2SO₄²⁻                               | +2,01   |
+| F₂ + 2e⁻ → 2F⁻                                      | +2,87   |
+
 Lähteet:
 - <a href="https://webbook.nist.gov/chemistry/name-ser/" target="_blank">NIST Chemistry WebBook</a>
 - <a href="https://en.wikipedia.org/wiki/Standard_enthalpy_of_formation#Examples:_standard_enthalpies_of_formation_at_25_%C2%B0C" target="_blank">Wikipedia</a>
