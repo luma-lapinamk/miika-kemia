@@ -7,8 +7,11 @@ on yksinkertaisin mahdollinen kemiallinen aine. Alkuaineilla on yksilöllinen ke
 
 ### {index}`Atomi`
 on alkuaineen perusyksikkö. Se koostuu ytimestä sekä elektroneista, jotka kiertävät ydintä elektronipilvessä. Atomien koko eri alkuaineilla vaihtelee.
-```{figure-md} Atomi
-<img src="../images/atomi.png" alt="Esimerkki atomista, jonka ydintä kiertävät elektronit." class="bg-primary mb-1" width="200px" align="center">
+```{figure} ../images/atomi.png
+:name: fig-atomi
+:alt: Esimerkki atomista, jonka ydintä kiertävät elektronit.
+:width: 200px
+:align: center
 
 Atomi
 ```
