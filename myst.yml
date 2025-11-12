@@ -2,13 +2,13 @@ version: 1
 project:
   title: Yleinen kemia
   authors:
-    - name: >-
-        <a href="https://luma-lapinamk.pub">LUMA-team</a> (<a
-        href="mailto:luma@lapinamk.fi">luma@lapinamk.fi</a>)
-    - name: >-
-        <a href="https://www.lapinamk.fi/en">Lapland University of Applied
-        Sciences</a> / Miika Aitomaa (<a
-        href="mailto:miika.aitomaa@lapinamk.fi">miika.aitomaa@lapinamk.fi</a>)
+    authors:
+      - name: "LUMA-team"
+        url: "https://luma-lapinamk.pub"
+        email: "luma@lapinamk.fi"
+      - name: "Miika Aitomaa / Lapland University of Applied Sciences"
+        url: "https://www.lapinamk.fi/en"
+        email: "miika.aitomaa@lapinamk.fi"
   copyright: '2023'
   github: luma-lapinamk/miika-kemia
   toc:
