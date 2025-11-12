@@ -1,0 +1,66 @@
+version: 1
+project:
+  title: Yleinen kemia
+  authors:
+    - name: >-
+        <a href="https://luma-lapinamk.pub">LUMA-team</a> (<a
+        href="mailto:luma@lapinamk.fi">luma@lapinamk.fi</a>)
+    - name: >-
+        <a href="https://www.lapinamk.fi/en">Lapland University of Applied
+        Sciences</a> / Miika Aitomaa (<a
+        href="mailto:miika.aitomaa@lapinamk.fi">miika.aitomaa@lapinamk.fi</a>)
+  copyright: '2023'
+  github: luma-lapinamk/miika-kemia
+  toc:
+    - file: notebooks\intro.md
+    - title: Johdanto
+      children:
+        - file: notebooks\peruskasitteita.md
+        - file: notebooks\atomimallit.md
+        - file: notebooks\harjoituksia_atomimassa.md
+    - title: Elektronien kemiaa
+      children:
+        - file: notebooks\bohr.md
+        - file: notebooks\jaksollinen.md
+        - file: notebooks\epa_ja_metallit.md
+        - file: notebooks\ryhmat.md
+        - file: notebooks\siirtymametallit.md
+        - file: notebooks\orbitaalit.md
+    - title: Vahvat kemialliset sidokset
+      children:
+        - file: notebooks\elektroneg.md
+        - file: notebooks\ionisidos.md
+        - file: notebooks\metallisidos.md
+        - file: notebooks\kovalenttinen.md
+    - title: Heikot kemialliset sidokset
+      children:
+        - file: notebooks\dipoli.md
+        - file: notebooks\dipolisidokset.md
+        - file: notebooks\vanderWaals.md
+    - title: Kemialliset reaktiot
+      children:
+        - file: notebooks\stoikiometriaa.md
+        - file: notebooks\reaktioyht.md
+        - file: notebooks\reaktiot.md
+        - file: notebooks\tasapainoreaktiot.md
+        - file: notebooks\liukoisuus.md
+        - file: notebooks\harjoituksia_reaktioyht.md
+    - title: Sähkökemiaa
+      children:
+        - file: notebooks\hapetuspelkistys.md
+        - file: notebooks\jannitesarja.md
+        - file: notebooks\galvaaninen_kenno.md
+        - file: notebooks\elektrolyysi.md
+    - title: Henkilökuvia
+      children:
+        - file: notebooks\kemistit.md
+    - title: Liitteet
+      children:
+        - file: notebooks\vakioita.md
+        - file: notebooks\taulukoita.md
+        - file: genindex.md
+site:
+  options:
+    logo: images/logo.png
+    folders: true
+  template: book-theme

@@ -1,0 +1,52 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: notebooks/intro
+parts: 
+  - caption: Johdanto
+    chapters:
+    - file: notebooks/peruskasitteita
+    - file: notebooks/atomimallit
+    - file: notebooks/harjoituksia_atomimassa
+  - caption: Elektronien kemiaa
+    chapters:
+    - file: notebooks/bohr
+    - file: notebooks/jaksollinen
+    - file: notebooks/epa_ja_metallit
+    - file: notebooks/ryhmat
+    - file: notebooks/siirtymametallit
+    - file: notebooks/orbitaalit
+  - caption: Vahvat kemialliset sidokset
+    chapters:
+    - file: notebooks/elektroneg
+    - file: notebooks/ionisidos
+    - file: notebooks/metallisidos
+    - file: notebooks/kovalenttinen
+  - caption: Heikot kemialliset sidokset
+    chapters:
+    - file: notebooks/dipoli
+    - file: notebooks/dipolisidokset
+    - file: notebooks/vanderWaals
+  - caption: Kemialliset reaktiot
+    chapters:
+    - file: notebooks/stoikiometriaa
+    - file: notebooks/reaktioyht
+    - file: notebooks/reaktiot
+    - file: notebooks/tasapainoreaktiot
+    - file: notebooks/liukoisuus
+    - file: notebooks/harjoituksia_reaktioyht
+  - caption: Sähkökemiaa
+    chapters:
+    - file: notebooks/hapetuspelkistys
+    - file: notebooks/jannitesarja
+    - file: notebooks/galvaaninen_kenno
+    - file: notebooks/elektrolyysi
+  - caption: Henkilökuvia
+    chapters:
+    - file: notebooks/kemistit
+  - caption: Liitteet
+    chapters:
+    - file: notebooks/vakioita
+    - file: notebooks/taulukoita
+    - file: genindex
