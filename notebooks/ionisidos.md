@@ -94,15 +94,25 @@ Alla olevalla videolla esitellään ylikylläisen natriumasetaattiliuoksen valmi
 
 Kun ionit ympäröivät itsensä vesimolekyyleillä, ionien ympärille muodostuu ns. **{index}`hydraattiverho`**. Hydratoitunut metalli-ioni pystyy sitomaan ympärilleen eri määrän vesimolekyylejä riippuen kationin koosta ja varauksesta. Syntynyttä **{index}`hydraatti`a** (aine, johon on sitoutunut vettä) kutsutaan myös nimellä **{index}`akvakompleksi`**. Esimerkiksi kuparikationi pystyy sitomaan ympärilleen kuusi vesimolekyyliä. Tällaiset **{index}`kompleksi-ioni`t** merkitään hakasulkeisiin, joissa keskusatomina eli ligandina toimivan kupari-ionin perään merkitään kiinnittyneiden molekyylien määrä sulkeisiin ja ionin varaus hakasulkeiden ulkopuolelle seuraavasti: [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>. Kun akvakompleksin vesiliuosta haihdutetaan, vesimolekyylit voivat joissain tapauksissa järjestäytyä kiteytyvän suolan hilarakenteen sekaan. Suola, jonka hilarakenne sisältää vesimolekyylejä, on nimeltään **{index}`kidevedellinen suola`**. Kuparisulfaatti on vedettömänä eli **{index}`anhydraatti`na** kiinteää vaaleaa jauhetta mutta kidevedellisenä muodostaa sinertäviä kauniita kiteitä.
 
-```{figure-md} Kidevedellisen CuSO4
-<img src="../images/CuSO4.jpg" alt="kidevedelliden kuparisulfaatin kiteitä" class="bg-primary mb-1" width="150px" align="center">
+```{figure} ../images/CuSO4.jpg
+:label: fig-CuSO4
+:width: 150px
+:align: center
+:alt: Kuvassa kidevedelllinen kupari(II)sulfaatin pentahydraatti CuSO<sub>4</sub> · 5 H<sub>2</sub>O
 
 Kidevedelllinen kupari(II)sulfaatin pentahydraatti CuSO<sub>4</sub> · 5 H<sub>2</sub>O
 ```
 
 Ionien ja vesimolekyylien välistä sidosta kutsutaan **ionidipolisidokseksi**, joka on esimerkki heikosta kemiallisesta sidoksta, joten siitä lisää kappaleessa *Heikot kemialliset sidokset* (linkki puuttuu).
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Sodium_chloride_dissolution.jpg#/media/File:Sodium_chloride_dissolution.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sodium_chloride_dissolution.jpg" alt="Sodium chloride dissolution.jpg" height="297" width="640"></a><br><a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51450525">Link</a></p>
+```{figure} https://upload.wikimedia.org/wikipedia/commons/d/d9/Sodium_chloride_dissolution.jpg
+:label: NaCl_hydraattiverho
+:width: 600px
+:align: center
+:alt: NaCl liukenee veteen ja muodostaa vesimolekyylien kanssa ionidipolisidoksia.
+
+NaCl liukenee veteen ja muodostaa vesimolekyylien kanssa ionidipolisidoksia. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sodium_chloride_dissolution.jpg" target="_blank">Wikipedia</a>
+```
     
 <iframe src="https://phet.colorado.edu/sims/cheerpj/sugar-and-salt-solutions/latest/sugar-and-salt-solutions.html?simulation=sugar-and-salt-solutions&locale=fi"
         width="800"
