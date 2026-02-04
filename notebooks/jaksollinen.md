@@ -38,7 +38,7 @@ Sivuryhmien alkuaineita nimitetään nimellä **{index}`siirtymämetallit`**. N�
 
 Lisäksi jaksollisen järjestelmän alareunaan on erikseen sijoitettu lantanoidit ja aktinoidit syystä, että näiden kuudennen ja seitsemännen jakson alkunaineiden atomeilla on samalla kuorella niin paljon elektroneja, että jaksollisesta järjestelmästä tulisi hyvin leveä. <a href="https://ptable.com/" target="_blank">Ptablen</a> voi halutessaan muuttaa leveään muotoon yläreunassa löytyvästä napista.
 
-```{figure} ../images/jaksollinen_alternative.png
+```{figure} ../images/jaksollinen_alternative.jpg
 :label: fig-jaksollinen_alternative
 :alt: Eri tapoja esittää jaksollinen järjestelmä, lähde elements.wlonk.com
 :width: 1000px

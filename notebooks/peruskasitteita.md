@@ -149,6 +149,5 @@ Myös teräsbetonin voidaan ajatella olevan kemian mielessä seos. Kun betoniin 
 :align: center
 :alt: Halkaisukuva betonirakenteesta ja raudoituksesta.
 
-Halkaisukuva betonirakenteesta ja raudoituksesta.
+Halkaisukuva betonirakenteesta ja raudoituksesta. Kuvan lähde: <a href="https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg" target="_blank">Wikipedia</a>
 ```
-Kuvan lähde: <a href="https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg" target="_blank">Wikipedia</a>
