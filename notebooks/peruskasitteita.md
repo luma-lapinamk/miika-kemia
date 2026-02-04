@@ -9,11 +9,11 @@ on yksinkertaisin mahdollinen kemiallinen aine. Alkuaineilla on yksilöllinen ke
 on alkuaineen perusyksikkö. Se koostuu ytimestä sekä elektroneista, jotka kiertävät ydintä elektronipilvessä. Atomien koko eri alkuaineilla vaihtelee.
 ```{figure} ../images/atomi.png
 :name: fig-atomi
-:alt: Esimerkki atomista, jonka ydintä kiertävät elektronit.
+:alt: Esimerkki litium-atomista, jonka ydintä kiertävät elektronit.
 :width: 200px
 :align: center
 
-Atomi
+Bohrin atomimallin mukainen malli litium-atomista.
 ```
 
 Protoni, neutroni ja elektroni ovat tärkeimmät **{index}`perushiukkaset`**.
@@ -30,8 +30,11 @@ kertoo atomin ytimessä olevien protonien määrän. Sähköisesti varauksettomi
 
 ### {index}`Massaluku` (M)
 kertoo atomin ytimessä olevien protonien ja neutronien lukumäärän yhteensä. Jos atomin järjestysluku ja massaluku tunnetaan, voidaan neutronien lukumäärä laskea vähentämällä massaluvusta järjestysluku: **neutronien lkm = M – Z**
-```{figure-md} Järjestysluku ja massaluku
-<img src="../images/merkinnat.png" alt="Miten alkuaineen järjestysluku ja massaluku merkintään sen kemialliseen merkkiin." class="bg-primary mb-1" width="400px" align="center">
+```{figure} ../images/merkinnat.png
+:name: fig-merkinnat-Z&M
+:alt: Esimerkki, miten alkuaineen järjestysluku ja massaluku merkintään sen kemialliseen merkkiin.
+:width: 400px
+:align: center
 
 Järjestysluku Z ja Massaluku M
 ```
@@ -39,8 +42,11 @@ Voit tutustua ja rakentaa atomeja seuraavan linkin takaa löytyvän appletin avu
 
 ### {index}`Isotooppi`
 on saman alkuaineen atomi, jolla on eri määrä neutroneja ytimessään. Esimerkiksi vedyn isotoopit ovat tavallinen vety, deuterium ja radioaktiivinen tritium. Osa alkuaineen isotoopeista on stabiileja ja osa hajoaa radioaktiivisesti lähes samantien tai pitkän ajan kuluessa kuva tai linkki. Isotooppeja hyödynnetään monella eri alalla, kuten terveydenhuollon kuvantamismenetelmissä, orgaanisen materiaalin iänmäärityksessä $ (_6^{14}C) $, geologian tutkimuksissa, teollisuudessa laadunvalvonnassa ja tuotantoprosessien seuraamisessa sekä tietysti ydinfysiikassa ja ydinvoimaloissa.
-```{figure-md} Vedyn isotoopit
-<img src="../images/vedyn_isotoopit.png" alt="Kuva vedyn kolmesta isotoopista." class="bg-primary mb-1" width="400px" align="center">
+```{figure} ../images/vedyn_isotoopit.png
+:name: fig-vedyn_isotoopit
+:alt: Kuvan vedyn isotoopeista: tavallinen vety, deuterium ja radioaktiivinen tritium
+:width: 400px
+:align: center
 
 Vedyn isotoopit: tavallinen vety, deuterium ja radioaktiivinen tritium
 ```
@@ -61,8 +67,11 @@ syntyy atomista, joka on luovuttanut tai vastaanottanut elektroneita. Ionilla on
 
 ## Aineiden luokittelu
 
-```{figure-md} Aine
-<img src="../images/aine.png" alt="Aineen jako puhtaisiin aineisiin ja seoksiin." class="bg-primary mb-1" width="1500px" align="center">
+```{figure} ../images/aine.png
+:name: fig-aine
+:alt: Aineen jako puhtaisiin aineisiin ja seoksiin.
+:width: 1500px
+:align: center
 
 Aine voi olla puhdasta ainetta tai seosta.
 ```
@@ -73,8 +82,11 @@ koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ain
 #### Alkuaine
 Kts. sivun alku.
 
-```{figure-md} Puhdas aine - alkuaine
-<img src="../images/puhdas_aine1.png" alt="Alkuaine" class="bg-primary mb-1" width="300px" align="center">
+```{figure} ../images/puhdas_aine1.png
+:name: fig-puhdas_aine1
+:alt: Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2</sub>.
+:width: 300px
+:align: center
 
 Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2</sub>.
 ```
@@ -86,8 +98,11 @@ Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2<
 - molekyyliyhdiste
 - kompleksiyhdiste
 
-```{figure-md} Puhdas aine - kemiallinen yhdiste
-<img src="../images/puhdas_aine2.png" alt="Kemiallinen yhdiste" class="bg-primary mb-1" width="350px" align="center">
+```{figure} ../images/puhdas_aine2.png
+:name: fig-puhdas_aine2
+:alt: Kemialliset yhdisteet ovat puhtaita aineita. Kuvassa molekyyliyhdiste ammoniakki, NH<sub>3</sub>.
+:width: 350px
+:align: center
 
 Kemialliset yhdisteet ovat puhtaita aineita. Kuvassa molekyyliyhdiste ammoniakki, NH<sub>3</sub>.
 ```
@@ -95,8 +110,11 @@ Kemialliset yhdisteet ovat puhtaita aineita. Kuvassa molekyyliyhdiste ammoniakki
 ### {index}`Seos`
 koostuu kahdesta tai useammasta eri alkuaineesta tai yhdisteestä. Seokset eivät ole yhdisteitä, sillä niissä ainesosat eivät ole kemiallisesti sitoutuneet toisiinsa.
 
-```{figure-md} Homogeeninen kahden kaasun seos
-<img src="../images/seos.png" alt="Seos koostuu kahdesta tai useammasta eri aineesta." class="bg-primary mb-1" width="500px" align="center">
+```{figure} ../images/seos.png
+:name: fig-seos
+:alt: Seos koostuu kahdesta tai useammasta eri aineesta, jotka eivät ole kemiallisesti sitoutuneet toisiinsa.
+:width: 500px
+:align: center
 
 Seos koostuu kahdesta tai useammasta eri aineesta, jotka eivät ole kemiallisesti sitoutuneet toisiinsa.
 ```
