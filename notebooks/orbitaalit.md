@@ -6,9 +6,9 @@ Ajasta riippumaton Schrödingerin aaltoyhtälö yhdelle elektronille kolmessa ul
 
 $$ 
 \left(-\frac{\hbar^2}{2m}\nabla^2 + V(x,y,z)\right)\psi(x,y,z) = E\psi(x,y,z)
-$$ , jossa
+$$
 
-$\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaalifunktio, $m$ elektronin massa, $\hbar$ Planckin vakio ja $E$ energia. $\nabla^2$ on Laplacen operaattori kolmessa ulottuvuudessa, joka voidaan ilmaista seuraavasti:
+jossa $\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaalifunktio, $m$ elektronin massa, $\hbar$ Planckin vakio ja $E$ energia. $\nabla^2$ on Laplacen operaattori kolmessa ulottuvuudessa, joka voidaan ilmaista seuraavasti:
 
 $$
 \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}
