@@ -43,7 +43,7 @@ Voit tutustua ja rakentaa atomeja seuraavan linkin takaa löytyvän appletin avu
 ### {index}`Isotooppi`
 on saman alkuaineen atomi, jolla on eri määrä neutroneja ytimessään. Esimerkiksi vedyn isotoopit ovat tavallinen vety, deuterium ja radioaktiivinen tritium. Osa alkuaineen isotoopeista on stabiileja ja osa hajoaa radioaktiivisesti lähes samantien tai pitkän ajan kuluessa kuva tai linkki. Isotooppeja hyödynnetään monella eri alalla, kuten terveydenhuollon kuvantamismenetelmissä, orgaanisen materiaalin iänmäärityksessä $ (_6^{14}C) $, geologian tutkimuksissa, teollisuudessa laadunvalvonnassa ja tuotantoprosessien seuraamisessa sekä tietysti ydinfysiikassa ja ydinvoimaloissa.
 ```{figure} ../images/vedyn_isotoopit.png
-:name: fig-vedyn_isotoopit
+:label: fig-vedyn_isotoopit
 :alt: Kuvan vedyn isotoopeista: tavallinen vety, deuterium ja radioaktiivinen tritium
 :width: 400px
 :align: center
@@ -68,12 +68,12 @@ syntyy atomista, joka on luovuttanut tai vastaanottanut elektroneita. Ionilla on
 ## Aineiden luokittelu
 
 ```{figure} ../images/aine.png
-:name: fig-aine
+:label: fig-aine
 :alt: Aineen jako puhtaisiin aineisiin ja seoksiin.
 :width: 1500px
 :align: center
 
-Aine voi olla puhdasta ainetta tai seosta.
+Aine voi olla puhdasta ainetta tai seosta. Suurenna kuvaa avaamalla se uuteen välilehteen.
 ```
 
 ### {index}`Puhdas aine`
@@ -83,12 +83,12 @@ koostuu vain yhdestä komponentista, alkuaineesta tai yhdisteestä. Puhdasta ain
 Kts. sivun alku.
 
 ```{figure} ../images/puhdas_aine1.png
-:name: fig-puhdas_aine1
+:label: fig-puhdas_aine1
 :alt: Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2</sub>.
 :width: 300px
 :align: center
 
-Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2</sub>.
+Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatomisia happimolekyylejä, O<sub>2</sub>.
 ```
 
 #### {index}`Yhdiste`
@@ -99,24 +99,24 @@ Alkuaineet ovat puhtaita aineita. Kuvassa kaksiatominen happimolekyyli, O<sub>2<
 - kompleksiyhdiste
 
 ```{figure} ../images/puhdas_aine2.png
-:name: fig-puhdas_aine2
+:label: fig-puhdas_aine2
 :alt: Kemialliset yhdisteet ovat puhtaita aineita. Kuvassa molekyyliyhdiste ammoniakki, NH<sub>3</sub>.
 :width: 350px
 :align: center
 
-Kemialliset yhdisteet ovat puhtaita aineita. Kuvassa molekyyliyhdiste ammoniakki, NH<sub>3</sub>.
+Kemialliset yhdisteet ovat puhtaita aineita. Kuvassa molekyyliyhdistettä ammoniakki, NH<sub>3</sub>.
 ```
 
 ### {index}`Seos`
 koostuu kahdesta tai useammasta eri alkuaineesta tai yhdisteestä. Seokset eivät ole yhdisteitä, sillä niissä ainesosat eivät ole kemiallisesti sitoutuneet toisiinsa.
 
 ```{figure} ../images/seos.png
-:name: fig-seos
-:alt: Seos koostuu kahdesta tai useammasta eri aineesta, jotka eivät ole kemiallisesti sitoutuneet toisiinsa.
+:label: fig-seos
 :width: 500px
 :align: center
+:alt: Seos koostuu kahdesta tai useammasta eri aineesta, jotka eivät ole kemiallisesti sitoutuneet toisiinsa. Kuvassa happi- ja ammoniakkimolekyylien kaasuseos.
 
-Seos koostuu kahdesta tai useammasta eri aineesta, jotka eivät ole kemiallisesti sitoutuneet toisiinsa.
+Happi- ja ammoniakkimolekyylien kaasuseos.
 ```
 
 Homogeenisessa eli *tasakoosteisessa* seoksessa aineita ei voida erottaa silmin, toisin kuin heterogeenisessa seoksessa, jossa aineet ovat eri faaseissa. Esimerkkejä homogeenisista seoksista ovat mm. rasvaton maito, etikka, nestekaasu ja ilma. Heterogeenisiä seoksia ovat mm.
@@ -143,4 +143,4 @@ Lisäksi on mahdollista, että kiinteään aineeseen on sekoittuneena kaasua, ku
 
 Myös teräsbetonin voidaan ajatella olevan kemian mielessä seos. Kun betoniin yhdistetään terästankojen tai -verkkojen hyvä vetolujuus, betonirakenteesta tulee kestävämpi ja vahvempi. Teräs ja betoni ovat lämpölaajenemisominaisuuksiltaan hyvin lähellä toisiaan, jolloin lämpötilanmuutokset eivät aiheuta teräsbetonirakenteisiin suurta sisäistä painetta.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg#/media/Tiedosto:Chantier_de_construction_du_complexe_associatif_multifonctions_à_Antony_07.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg" alt="Chantier de construction du complexe associatif multifonctions à Antony 07.jpg" height="427" width="640"></a><br><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25507982">Linkki</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg#/media/Tiedosto:Chantier_de_construction_du_complexe_associatif_multifonctions_à_Antony_07.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg" alt="Chantier de construction du complexe associatif multifonctions à Antony 07.jpg" height="427" width="640"></a><br><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25507982">Linkki</a> alkuperäiseen kuvaan</p>

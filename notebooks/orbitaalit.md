@@ -4,16 +4,20 @@ Bohrin atomimallin jälkeen Werner Heisenberg, Erwin Schrödinger, Max Born sek�
 
 Ajasta riippumaton Schrödingerin aaltoyhtälö yhdelle elektronille kolmessa ulottuvuudessa
 
-$ \left(-\frac{\hbar^2}{2m}\nabla^2 + V(x,y,z)\right)\psi(x,y,z) = E\psi(x,y,z) $, jossa
+$$ 
+\left(-\frac{\hbar^2}{2m}\nabla^2 + V(x,y,z)\right)\psi(x,y,z) = E\psi(x,y,z)
+$$ , jossa
 
 $\psi(x,y,z)$ on aaltofunktio, $V(x,y,z)$ potentiaalifunktio, $m$ elektronin massa, $\hbar$ Planckin vakio ja $E$ energia. $\nabla^2$ on Laplacen operaattori kolmessa ulottuvuudessa, joka voidaan ilmaista seuraavasti:
 
-$ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2} $
+$$
+\nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} + \frac{\partial^2}{\partial z^2}
+$$
 
 Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. Jokainen Bohrin atomimallia vastaava elektronikuori jaetaan useisiin energiatasoihin eli $s, p, d \ \text{ja} \ f$ -orbitaaleihin. Ensimmäinen K-kuori vastaa yhtä 1s-orbitaalia ja toinen L-kuori vastaa yhtä 2s- ja kolmea 2p-orbitaalia. Tätä korkeammat energiatasot (elektronikuoret M, N jne.) voivat jakautua useisiin energiatasoihin, joissa on s-orbitaalin ja kolmen p-orbitaalin lisäksi viisi d-orbitaalia ja seitsemän f-orbitaalia.
 
 ```{figure} ../images/orbitaalit_jaksollisessa.png
-:name: fig-orbitaalit_jaksollisessa
+:label: fig-orbitaalit_jaksollisessa
 :alt: Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä.
 :width: 1255px
 :align: center
@@ -22,7 +26,7 @@ Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä.
 ```
 
 ```{figure} ../images/orbitaalit.png
-:name: fig-orbitaalit
+:label: fig-orbitaalit
 :alt: Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
 :width: 1315px
 :align: center
@@ -48,7 +52,7 @@ Litiumin elektronikonfiguraatio on täten $1s^22s$.
 
 Elektronien täyttyminen orbitaaleille voidaan käytännössä tiiviistää seuraavaan kuvaan.
 ```{figure} ../images/orbitaalien_taytto.png
-:name: fig-orbitaalien_taytto
+:label: fig-orbitaalien_taytto
 :alt: Elektronien täyttyminen orbitaaleille taulukon muodossa.
 :width: 300px
 :align: center
