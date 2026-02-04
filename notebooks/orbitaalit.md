@@ -21,12 +21,6 @@ Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. E
 Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä.
 ```
 
-```{figure-md} Orbitaalit
-<img src="../images/orbitaalit.png" alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1" width="1315px" align="center">
-
-Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
-```
-
 ```{figure} ../images/orbitaalit.png
 :name: fig-orbitaalit
 :alt: Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
@@ -53,12 +47,6 @@ Litiumin elektronikonfiguraatio on täten $1s^22s$.
 :::
 
 Elektronien täyttyminen orbitaaleille voidaan käytännössä tiiviistää seuraavaan kuvaan.
-```{figure-md} Elektronien täyttyminen orbitaaleille
-<img src="../images/orbitaalien_taytto.png" alt="Elektronien täyttyminen orbitaaleille taulukon muodossa." class="bg-primary mb-1" width="300px" align="center">
-
-Elektronien täyttyminen orbitaaleille
-```
-
 ```{figure} ../images/orbitaalien_taytto.png
 :name: fig-orbitaalien_taytto
 :alt: Elektronien täyttyminen orbitaaleille taulukon muodossa.
