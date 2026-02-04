@@ -65,7 +65,7 @@ Tavoitteena on kerätä tänne kaikki tarvittavat kemian taulukot. Useita aihepi
 |               |         | vetysulfiitti         | HSO₃⁻        |
 
 ## {index}`Elektronegatiivisuusarvoja`
-Linus Paulingin mukaan, lähde <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_blank">ptable.com</a>
+Lähde <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_blank">ptable.com</a>
 
 | Alkuaine | Kemiallinen merkki | Elektronegatiivisuusarvo |
 |----------|--------------------|-------------------------|

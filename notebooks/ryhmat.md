@@ -7,9 +7,11 @@ Jaksollisessa järjestelmässä alkuaineiden metalliset ominaisuudet kasvavat me
 | Ryhmä    | 1              | 2                  | 13         | 14         | 15         | 16         | 17         | 18         |
 | Nimi     | alkalimetallit | maa-alkalimetallit | booriryhmä | hiiliryhmä | typpiryhmä | happiryhmä | halogeenit | jalokaasut |
 
-
-```{figure-md} Jaksollisen järjestelmän pääryhmät
-<img src="../images/paaryhmat.png" alt="Kuvassa jaksollisen järjestelmän pääryhmät I-VIII." class="bg-primary mb-1" width="500px" align="center">
+```{figure} ../images/paaryhmat.png
+:label: fig-paaryhmat
+:alt: Kuvassa jaksollisen järjestelmän pääryhmät I-VIII, kuvan lähde: <a href="https://ptable.com/" target="_blank">Ptable</a>
+:width: 500px
+:align: center
 
 Jaksollisen järjestelmän pääryhmät I-VIII, kuvan lähde: <a href="https://ptable.com/" target="_blank">Ptable</a>
 ```
@@ -28,8 +30,11 @@ Maa-alkalimetalleilla on aina kaksi ulkoelektronia (samalla s-orbitaalilla eri m
 
 Kalsium on maankuoren kolmanneksi yleisin metalli ja yksi tärkeimmistä maa-alkalimetalleista. Esimerkiksi ihmisen {index}`luusto`n kova pintakerros on kalsiumfluoridia (CaF<sub>2</sub>) ja sisäosa eli luumassa kalsiumfosfaattia (Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>). **{index}`Kipsi`** on kidevedellistä kalsiumsulfaattia (CaSO<sub>4</sub> $\cdot$ 2 H<sub>2</sub>O). Luonnossa maaperään kerrostunut **{index}`kalkkikivi`** on enimmäkseen kalsiumkarbonaattia (CaCO<sub>3</sub>) eli {index}`kalsiitti`a. Puhtaana ja kiteytyneenä kalsiittia kutsutaan {index}`marmori`ksi. Kalsiumoksidi (CaO) eli **{index}`poltettu kalkki`** on käytössä useilla eri teollisuudenaloilla, kuten maataloudessa, jossa se auttaa vähentämään maaperän happamuutta. Kalsiumhydroksidi (Ca(OH)<sub>2</sub>) eli **{index}`sammutettu kalkki`** on käytössä laajasti esimerkiksi rakennusmateriaalien valmistuksessa ja vesienkäsittelyssä.
 
-```{figure-md} Kalkki
-<img src="../images/kalkki.png" alt="Kuvassa, miten kalkkikivestä saadaan kuumentamalla poltettua kalkkia, josta edelleen sammutettua kalkkia, josta edelleen kalsiumkarbonaattia." class="bg-primary mb-1" width="400px" align="center">
+```{figure} ../images/kalkki.png
+:label: fig-kalkki
+:alt: Kuvassa, miten kalkkikivestä saadaan kuumentamalla poltettua kalkkia, josta edelleen sammutettua kalkkia, josta edelleen kalsiumkarbonaattia.
+:width: 400px
+:align: center
 
 Kalkkikiven poltto ja sammutus, kuvan lähde: <a href="https://fi.wikipedia.org/wiki/Kalkki" target="_blank">Wikipedia</a>
 ```
@@ -55,11 +60,15 @@ Hiiliryhmän alkuaineet jakavat yhteisen ulkokuoren rakenteen, jossa on neljä u
 
 **{index}`Allotropia`** tarkoittaa alkuaineen esiintymistä erilaisissa kemiallisissa muodoissa. Toisin sanoen, alkuaineen atomit ovat sitoutuneet toisiinsa eri allotrooppisissa muodoissa eri tavalla. Hiilellä tunnetaan useita allotrooppisia muotoja, joista mm. timanttia ja grafeenia esiintyy luonnossa, mutta osa on valmistettu laboratorioissa.
 
-```{figure-md} Hiilen allotropia
-<img src="../images/hiili.png" alt="Kuvassa hiilen allotrooppisia muotoja." class="bg-primary mb-1" width="600px" align="center">
+```{figure} ../images/hiili.png
+:label: fig-hiili
+:alt: Kuvassa hiilen allotrooppisia muotoja, kuvan lähde: <a href="https://en.wikipedia.org/wiki/Allotropes_of_carbon" target="_blank">Wikipedia</a>
+:width: 600px
+:align: center
 
 Hiilen allotrooppisia muotoja, kuvan lähde: <a href="https://en.wikipedia.org/wiki/Allotropes_of_carbon" target="_blank">Wikipedia</a>
 ```
+
 > a) **{index}`timantti`**: jokainen hiiliatomi on sitoutunut neljään muuhun hiiliatomiin tetraedrin muotoisesti muodostaen kolmiulotteisen verkon. Käytetään korujen ja leikkuutyökalujen valmistuksessa. Kovin tunnettu hiilen muoto.
 >
 > b) **{index}`grafiitti`** ja **{index}`grafeeni`**: grafiitilla on monikerroksinen rakenne, jossa hiiliatomit ovat järjestäytyneet kuusikulmaisista hiilirenkaista tasoksi. Käytetään esimerkiksi sähkömoottorien hiiliharjoissa, lyijykynissä sekä ydinreaktoreissa vapautuvia neutroneja hidastavana aineena. Grafeeni on yhden atomikerroksen paksuinen muoto grafiitista, mutta samalla erittäin vahva ja joustava materiaali, joka johtaa hyvin sähköä ja lämpöä. Käytetään mm. elektroniikan komponenteissa ja kosketusnäytöissä, kestävin tunnettu aine.
@@ -90,8 +99,12 @@ Kloorikaasua käytetään veden desinfiointiin ja aikaisemmin myös selluloosan 
 Jaksollisen järjestelmän oikeassa reunassa sijaitsevat jalokaasut ovat oktetissa. Ne eivät siis reagoi vaan ovat kemiallisesti hyvin passiivia ja täten esiintyvät yksittäisinä atomeina. Jalokaasuja (helium ja argon) käytetään usein suojakaasuina, ns. inerttinä kaasuna, joka reagoi esim. palamisreaktiossa. Radon-kaasua vapautuu ilmaan maankuoressa olevan uraanin ja toriumin hajoamisen seurauksena, jolloin syntyy edelleen radioaktiivista $^{222}Rn$ isotooppia.
 
 Virittämällä jalokaasuatomien elektroneja korkeammille energiatasoille saadaan aikaiseksi suuri määrä sähkömagneettista säteilyä näkyvän valon alueella. Esimerkiksi auton polttimoissa käytetyn ksenonin viritystilojen purkautuessa syntyy voimakas valkoinen valo, joka koostuu useista aallonpituuksista.
-```{figure-md} Jalokaasujen purkauksia
-<img src="../images/jalokaasut.jpg" alt="Kuvassa jalokaasujen viritystilojen purkauksissa syntyvät näkyvät valot." class="bg-primary mb-1" width="1200px" align="center">
 
-Jalokaasujen viritystilojen purkauksissa syntyvät näkyvät valot, kuvan lähde: <a href="https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg" target="_blank">Wikipedia</a>
+```{figure} ../images/jalokaasut.png
+:label: fig-jalokaasut
+:alt: Jalokaasujen viritystilojen purkauksissa syntyvät näkyvät valot, kuvan lähde: <a href="https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg"
+:width: 600px
+:align: center
+
+Jalokaasujen viritystilojen purkauksissa syntyvät näkyvät valot, kuvan lähde: <a href="https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg"
 ```

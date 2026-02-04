@@ -7,9 +7,9 @@ Kun tutkitaan kahden atomin välisen sidoksen luonnetta, nyrkkisääntönä void
 
 **Elektronegatiivisuudella** tarkoitetaan atomin suhteellista kykyä vetää kemiallisen sidoksen muodostumiseen osallistuvia **sidoselektroneja** puoleensa. Taulukkoarvot kuvaavat siis vain alkuaineiden keskinäistä suhdetta, ja usein riittääkin tarkastella, kummalla sidokseen osallistuvalla atomilla on suurempi **{index}`elektronegatiivisuusarvo`** ja kuinka suuri on taulukkoarvoista laskettu **{index}`elektronegatiivisuusero`**. Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi. Tällöin sanotaan, että sidoksen **{index}`ioniluonne`** on prosentteina yli 50 %. Jos elektronegatiivisuusero on alle 1,7, sidos tulkitaan kovalenttiseksi sidokseksi.  Todellisuudessa selkeää jakoa ionisidoksen ja kovalenttisen sidoksen välillä voida näin karkeasti aina tehdä, mutta taulukko riittää tekemään suhteellisen hyvät tulkinnat sidoksen luonteesta.
 
-Oppikirjan > <a href="https://luma-lapinamk.github.io/miika-kemia/notebooks/taulukoita.html#elektronegatiivisuusarvoja" target="_blank">Taulukoita</a>-osiossa ja Moodlen tehtävissä olevat arvot on poimittu <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_blank">ptable.com</a>-sivustolta.
+Oppikirjan > <a href="https://luma-lapinamk.github.io/miika-kemia/notebooks/taulukoita/#elektronegatiivisuusarvoja" target="_blank">Taulukoita</a>-osiossa ja Moodlen tehtävissä olevat arvot on poimittu <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_blank">ptable.com</a>-sivustolta.
 
-> Taulukkoarvoina käyttiin pitkään, myös MAOL:n taulukkokirjassa, Linus Paulingin mittaamia kokeellisia arvoja vuodelta 1932.
+> Taulukkoarvoina käytettiin pitkään, myös MAOL:n taulukkokirjassa, Linus Paulingin mittaamia kokeellisia arvoja vuodelta 1932.
 >
 > <a href="https://www.taulukot.com/kemia/alkuaineet/#sidoksen_ioniluonne%C2%A0%C2%A0_(l._paulingin_mukaan)" target="_blank">Taulukot.com: sidoksen ioniluonne (L. Paulingin mukaan)</a>
 

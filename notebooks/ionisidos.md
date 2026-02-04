@@ -3,18 +3,36 @@ Ionisidos muodostuu, kun metalliatomi luovuttaa yhden tai useamman ulkoelektroni
 
 Alla esimerkkinä ionisidoksen syntymisestä, kun natriumatomi (Na) luovuttaa ulkoelektroninsa fluoriatomille (F). Natrium kuuluu alkalimetallien ryhmään ja fluori halogeeneihin, joten kumpikin atomi saavuttaa oktetin yhden elektronin siirtymisellä natriumlta fluorille. Syntyy natrium-kationi ja fluoridi-anioni, ja yhdiste nimeltä natriumfluoridi (NaF), jota käytetään mm. fluorihammastahnoissa hammaskiillettä vahvistamaan sekä rotanmyrkkynä.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:NaF.gif#/media/File:NaF.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif" alt="NaF.gif" align="center"></a><br><a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15539913">Link</a></p>
+```{figure} https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif
+:label: fig-ionisidos_Na+F
+:width: 600px
+:align: center
+:alt: Kuvassa gif-animaatio, miten natrium ja fluori muodostavat ionisidoksen.
+
+Natriumin ja fluorin muodostama ionisidos. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/a/a8/NaF.gif" target="_blank">Wikipedia</a>
+```
 
 Luovutettujen ja vastaanotettujen elektronien määrän tulee aina olla yhtä suuri, ja syntyneen ioniyhdisteen varaus tulee olla nolla. Jos metalliatomi luovuttaa useamman kuin yhden valenttielektronin, kuten maa-alkalimetallit ja kolmannen pääryhmän alumiini, tarvitaan useampi halogeeniatomi, jotta kaikki luovutetut elektronit tulevat vastaanotetuiksi. Täten kun esimerksi kalsium ja alumiini muodostavat fluorin kanssa ioniyhdisteet, yhdisteiden kaavat ovat CaF<sub>2</sub> ja AlF<sub>3</sub>.
-```{figure-md} ionien varaukset
-<img src="../images/lekot.jpg" alt="Ioniyhdisteiden varausten tulee olla nolla." class="bg-primary mb-1" width="400px" align="center">
+
+```{figure} ../images/lekot.jpg
+:label: fig-lekot
+:width: 400px
+:align: center
+:alt: Kuvassa lego-palikoiden yhdistelmiä kationeista ja anioneista, jotta ioniyhdisteen varaus on nolla.
 
 Yhdistelmiä kationeista ja anioneista, jotta ioniyhdisteen varaus on nolla.
 ```
 
 Kationit ja anionit järjestäytyvät kolmiulotteiseen rakenteeseen, jota kutsutaan **{index}`ionihila`ksi**.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Sodium-fluoride-3D-ionic.png#/media/File:Sodium-fluoride-3D-ionic.png"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Sodium-fluoride-3D-ionic.png" alt="Sodium-fluoride-3D-ionic.png" align="center" height="288" width="272" ></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1799711">Link</a></p>
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sodium-fluoride-3D-ionic.png/960px-Sodium-fluoride-3D-ionic.png
+:label: NaF-ionihila
+:width: 600px
+:align: center
+:alt: Kuvassa natriumin ja fluorin muodostavat ionihila.
+
+Natriumin ja fluorin muodostama ionihila. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sodium-fluoride-3D-ionic.png/960px-Sodium-fluoride-3D-ionic.png" target="_blank">Wikipedia</a>
+```
 
 Ionisidos tekee aineesta yleensä huoneenlämmössä kiinteän, kovan ja hauraan, koska ionit ovat järjestäytyneet tiiviiseen hilarakenteeseen eivätkä pysty liikkumaan toistensa suhteen. **{index}`Ioniyhdiste`ille** eli **suoloille** on tyypillistä korkeat sulamis- ja kiehumispisteet, koska vaaditaan suuri määrä energiaa ionien erottamiseen toisistaan. Esimerkiksi kuvien natriumfluoridin (NaF) sulamispiste on 993 °C ja kiehumispiste 1704 °C.
 
@@ -40,13 +58,20 @@ Ioniyhdisteiden nimeäminen perustuu yhdisteen kationin ja anionin nimien yhdist
 :::
 
 ## Suolojen liuokoisuus veteen (siirtyy reaktioiden puolelle aikanaan)
-Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kooltaan ja varaukseltaan pienet ja yksinkertaiset ioniyhdisteet liukenevat yleensä helpommin kuin suuremmat ja monimutkaisemmat ioniyhdisteet. Suola on **{index}`niukkaliukoinen`**, jos sitä liukenee litraan huoneenlämpöistä vettä alle yhden gramman verran (liukoisuus alle 0,1 g / 100 ml). Esimerkkejä niukkaliukoisista suoloista ovat bariumsulfaatti (BaSO<sub>4</sub>), hopeakloridi (AgCl) ja lyijykloridi (PbCl<sub>2</sub>). Taulukosta <a href="https://www.taulukot.com/kemia/yhdisteet/#suolojen_liukoisuus_veteen" target="_blank">Suolojen liukoisuus veteen</a> voidaan nähdä useimpien suolojen liukoisuus veteen.
+Ioniyhdisteiden liukoisuus veteen riippuu mm. ionien koosta ja varauksista. Kooltaan ja varaukseltaan pienet ja yksinkertaiset ioniyhdisteet liukenevat yleensä helpommin kuin suuremmat ja monimutkaisemmat ioniyhdisteet. Suola on **{index}`niukkaliukoinen`**, jos sitä liukenee litraan huoneenlämpöistä vettä alle yhden gramman verran (liukoisuus alle 0,1 g / 100 ml). Esimerkkejä niukkaliukoisista suoloista ovat bariumsulfaatti (BaSO<sub>4</sub>), hopeakloridi (AgCl) ja lyijykloridi (PbCl<sub>2</sub>). Taulukosta <a href="https://www.taulukot.com/kemia/yhdisteet/#suolojen_liukoisuus_veteen" target="_blank">Suolojen liukoisuus veteen</a> voidaan nähdä, onko suola niukkaliukoinen vai runsasliukoinen veteen ja happoihin.
 
 Kun ioniyhdiste liukenee veteen, ionit irtoavat toisistaan ja sekoittuvat vesimolekyylien sekaan. Tämä tapahtuu, koska pienet pooliset vesimolekyylit pystyvät ympäröimään hilarakenteen uloimpia ioneja, kiinnittymään niihin ja heikentämään ionien välistä vetovoimaa. Tällöin ionit irtoavat yksitellen ionihilasta ja liukenevat veden sekaan. Tästä syytä suolojen vesiliuokset eli **{index}`elektrolyytit`** johtavat sähköä.
 
 Liukoisuus on riippuvainen lämpötilasta. Yleensä suolan liukoisuus kasvaa veden lämpötilan kasvaessa mutta näin ei läheskään aina ole, kuten alla olevasta kuvasta voidaan huomata. Esimerkiksi ruokasuolan (NaCl) liukoisuus ei juurikaan muutu lämpötilan funktiona.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:CNX_Chem_11_03_solubility.png#/media/File:CNX_Chem_11_03_solubility.png"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/CNX_Chem_11_03_solubility.png" alt="CNX Chem 11 03 solubility.png" height="480" width="380"></a><br><a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64300230">Link</a></p>
+```{figure} https://upload.wikimedia.org/wikipedia/commons/2/2f/CNX_Chem_11_03_solubility.png
+:label: suolojen_liukoisuus
+:width: 600px
+:align: center
+:alt: Kuvaajassa erilaisten suolojen liukoisuus veteen lämpötilan funktiona.
+
+Eri suolojen liukoisuus veteen. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/2/2f/CNX_Chem_11_03_solubility.png" target="_blank">Wikipedia</a>
+```
 
 Kun suolaa lisätään liuokseen yhä enemmissä määrin, jossain vaiheessa saavutetaan piste, jonka jälkeen suolaa ei enää liukene. Tällöin lisätty suola vajoaa astian pohjalle ja liuos on **{index}`kylläinen liuos`**. Tässä linkki <a href="https://fi.wikibooks.org/wiki/Lukion_taulukot/Er%C3%A4iden_suolojen_liukoisuus_kylm%C3%A4%C3%A4n_ja_kuumaan_veteen" target="_blank">taulukkoon</a>, jossa on lueteltuna kuinka suuri määrä suoloja liukenee 0 °C asteiseen veteen. Vaikka liuos voi olla kylläinen yhden suolan suhteen, siihen voi vielä liueta jotain toista suolaa.
 
