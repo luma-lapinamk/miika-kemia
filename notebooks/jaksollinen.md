@@ -8,11 +8,15 @@ Katso aiheeseen liittyvä 10 minuutin video <a href="https://areena.yle.fi/1-500
 ## Taulukon rakenne
 Alkuaineiden jaksollinen järjestelmä on taulukko, jossa alkuaineet on järjestetty kasvavan järjestysluvun mukaisesti. Suurin osa alkuaineista on **metalleja**. **Epämetalleja** on 11 kpl (kuvassa vihreällä pohjalla), vaikkakin useissa kemian lähdemateriaaleissa jaksollisen järjestelmän oikeassa reunassa olevat jalokaasut luetaan myös epämetalleihin. Lisäksi on olemassa **puolimetalleja**, joilla voi esiintyä niin metallien ja epämetallien ominaisuuksia. Jaksollisen järjestelmän vaakarivit ovat nimeltään jaksoja ja pystysarakkeet ryhmiä.
 
-```{figure-md} Alkuaineiden jaksollinen järjestelmä, lähde: ptable.com
-<img src="../images/jaksollinen_jarjestelma.png" alt="Alkuaineiden jaksollinen järjestelmä, lähde ptable.com" class="bg-primary mb-1" width="1422px" align="center">
+```{figure} ../images/jaksollinen_jarjestelma.png
+:label: fig-jaksollinen_jarjestelma
+:alt: Alkuaineiden jaksollinen järjestelmä, lähde: <a href="https://ptable.com" target="_blank">Ptable.com</a>
+:width: 1420px
+:align: center
 
 Alkuaineiden jaksollinen järjestelmä, lähde: <a href="https://ptable.com" target="_blank">Ptable.com</a>
 ```
+
 Interaktiivinen jaksollinen järjestelmä: <a href="https://elements.wlonk.com/ElementsTable.htm" target="_blank">Mihin alkuaineita käytetään?</a>
 
 Jaksoja, eli vaakarivejä, on 7 kappaletta. Alkuaineen jakson numero vastaa atomin elektronikuorien lukumäärää. Ryhmiä taasen on 18. Ryhmät 1–2 ja 13–18 ovat pääryhmiä ja ryhmät 3–12 sivuryhmiä. Pääryhmiä merkitään tässä materiaalissa roomalaisilla numeroilla. Pääryhmillä on lisäksi omat nimensä.
@@ -34,8 +38,11 @@ Sivuryhmien alkuaineita nimitetään nimellä **{index}`siirtymämetallit`**. N�
 
 Lisäksi jaksollisen järjestelmän alareunaan on erikseen sijoitettu lantanoidit ja aktinoidit syystä, että näiden kuudennen ja seitsemännen jakson alkunaineiden atomeilla on samalla kuorella niin paljon elektroneja, että jaksollisesta järjestelmästä tulisi hyvin leveä. <a href="https://ptable.com/" target="_blank">Ptablen</a> voi halutessaan muuttaa leveään muotoon yläreunassa löytyvästä napista.
 
-```{figure-md} Eri tapoja esittää jaksollinen järjestelmä, lähde: elements.wlonk.com
-<img src="../images/jaksollinen_alternative.jpg" alt="Eri tapoja esittää jaksollinen järjestelmä, lähde elements.wlonk.com" class="bg-primary mb-1" width="1000px" align="center">
+```{figure} ../images/jaksollinen_alternative.png
+:label: fig-jaksollinen_alternative
+:alt: Eri tapoja esittää jaksollinen järjestelmä, lähde elements.wlonk.com
+:width: 1000px
+:align: center
 
 Vaihtoehtoisia tapoja esittää alkuaineiden jaksollinen järjestelmä. Lähde: Periodic Table of the Elements, in Pictures and Words © 2005-2016 Keith Enevoldsen <a href="https://elements.wlonk.com" target="_blank">elements.wlonk.com</a>
 ```

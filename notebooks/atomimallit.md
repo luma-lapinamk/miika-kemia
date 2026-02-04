@@ -23,8 +23,12 @@ Tutki alla olevan appletin avulla, mitä Rutherfordin sirontakokeessa tapahtui j
 
 ## 1913 Bohrin atomimalli
 Tanskalainen Nils Bohr kehitti atomimallinsa tutkiessaan, miksi kuuma vetykaasu tuottaa vain tietynlaista valoa. Siinä missä tavallisen hehkulampun lanka tuottaa lähes kaikkia näkyvän valon aallonpituuksia, olivat Gustav Kirchoff ja Robert Bunsen havainneet vuonna 1859, että kuuma vetykaasu tuottaa näkyvän valon aallonpituudella vain punertavaa väriä, joka koostuu tietyistä aallonpituuksista. Näistä voimakkain sijoituu punaisen värin aallonpituudelle ja muut pienemmille aallonpituuksille.
-```{figure-md} Balmerin sarja
-<img src="../images/Balmerin_sarja.png" alt="Balmer sarjan näkyvän valon spektriviivat" class="bg-primary mb-1" width="600px" align="center">
+
+```{figure} ../images/Balmerin_sarja.png
+:label: fig-Balmerin_sarja
+:alt: Kuvassa Balmer-sarjan näkyvän valon spektriviivat
+:width: 600px
+:align: center
 
 Vetyatomin näkyvän valon aallonpituudella tuottamaa spektriä kutsutaan Balmerin sarjaksi. Johann Balmer kehitti sarjalle matemaattisen mallin vuonna 1885.
 ```
@@ -42,9 +46,9 @@ Bohrin atomiallille on oppikirjassa oma kappaleensa.
 ## 1917-1932 Atomin ydin hahmottuu
 Teorian ytimessä olevista positiivisista protoneista kehitti Rutherford Hans Geigerin ja Ernest Marsdenin jatkotutkimusten perusteella vuonna **1917**. Teoria ytimessä olevista toisista hiukkasista, varauksettomista neutroneista, vahvistui vuonna **1932** James Chadwickin toimesta.
 
-Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla. Valitse vasemmalta valikosta kohta **-Ennustus** ja tutki, miten atomallit eroavat toisistaan. Jos appletin käynnistymisessä kestää liian pitkään, voit kokeilla avata sen osoitteesta <a href="https://phet.colorado.edu/fi/simulations/hydrogen-atom" target="_blank">PhET Interactive Simulations</a>.
+Alla olevaan applettiin on koottu, miten vetyatomia voidaan kuvata eri mallien avulla. Valitse valikosta **Spectra** ja tutki, miten atomallit eroavat toisistaan.
 
-<iframe src="https://phet.colorado.edu/sims/cheerpj/hydrogen-atom/latest/hydrogen-atom.html?simulation=hydrogen-atom&locale=fi"
+<iframe src="https://phet.colorado.edu/sims/html/models-of-the-hydrogen-atom/latest/models-of-the-hydrogen-atom_en.html"
         width="800"
         height="600"
         allowfullscreen>

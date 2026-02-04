@@ -14,12 +14,16 @@ Alkuaineiden järjestysluvut voidaan katsoa jaksollisesta järjestelmästä, esi
 | Cs       | 55                           | 127 | 127 - 55 = 72       |
 :::
 
+<br>
+
 :::{admonition} 2. Laske hiilidioksidin molekyylimassa.
 :class: tip, dropdown
 **Ratkaisu**
 
 Hiilidioksidimolekyyli koostuu yhdestä hiiliatomista ja kahdesta happiatomista. Täten sen molekyylimassa on $ 12.011 \ u + 2 \cdot 15.999 \ u = 44.007 \ u \approx 44 \ u $
 :::
+
+<br>
 
 :::{admonition} 3. Kumpi seuraavista kupariyhdisteistä sisältää enemmän kuparia, kupari(II)oksidissa $ CuO $ vai kuparifosfaatissa $ Cu_3{PO_4}_2 $?
 :class: tip, dropdown
@@ -43,6 +47,8 @@ $ \frac{2 \cdot 63.546}{2 \cdot 63.546+18.998+4 \cdot 15.999} = 0.6049... \appro
 Täten yhdiste $ CuO $ sisältää kuparia suhteellisesti enemmän.
 :::
 
+<br>
+
 :::{admonition} 4. Laske atomimassojen avulla seuraavien yhdisteiden prosentuaaliset alkuainekoostumukset. a) $H_2O$ b) $CO_2$ c) $H_2SO_4$
 :class: tip, dropdown
 **Ratkaisu**
@@ -55,6 +61,8 @@ Vety $ \frac{2 \cdot 1.008 \ u}{18.015 \ u}=0.1119... \approx 11.2 \% $
 
 Hapen osuus voidaan laskea samoin kuin vedyn, mutta helpommin se saadaan suoraan vähennyslaskulla $ 100 \% - 11.2 \% = 88.8 \% $.
 :::
+
+<br>
 
 :::{admonition} 5. Onko seuraava aine alkuaine vai yhdiste ja puhdas aine vai jokin seoksista? a) $HCl$ b) hernekeitto c) $O_2$ d) uretaani
 :class: tip, dropdown
