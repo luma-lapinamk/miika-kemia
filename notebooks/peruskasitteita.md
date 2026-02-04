@@ -143,7 +143,7 @@ Lisäksi on mahdollista, että kiinteään aineeseen on sekoittuneena kaasua, ku
 
 Myös teräsbetonin voidaan ajatella olevan kemian mielessä seos. Kun betoniin yhdistetään terästankojen tai -verkkojen hyvä vetolujuus, betonirakenteesta tulee kestävämpi ja vahvempi. Teräs ja betoni ovat lämpölaajenemisominaisuuksiltaan hyvin lähellä toisiaan, jolloin lämpötilanmuutokset eivät aiheuta teräsbetonirakenteisiin suurta sisäistä painetta.
 
-```{figure} https://commons.wikimedia.org/wiki/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg#/media/File:Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg
+```{figure} https://upload.wikimedia.org/wikipedia/commons/f/ff/Chantier_de_construction_du_complexe_associatif_multifonctions_%C3%A0_Antony_07.jpg
 :label: fig-betonirakenne
 :width: 600px
 :align: center
