@@ -27,7 +27,7 @@ Kationit ja anionit järjestäytyvät kolmiulotteiseen rakenteeseen, jota kutsut
 
 ```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sodium-fluoride-3D-ionic.png/960px-Sodium-fluoride-3D-ionic.png
 :label: NaF-ionihila
-:width: 600px
+:width: 300px
 :align: center
 :alt: Kuvassa natriumin ja fluorin muodostavat ionihila.
 
@@ -66,7 +66,7 @@ Liukoisuus on riippuvainen lämpötilasta. Yleensä suolan liukoisuus kasvaa ved
 
 ```{figure} https://upload.wikimedia.org/wikipedia/commons/2/2f/CNX_Chem_11_03_solubility.png
 :label: suolojen_liukoisuus
-:width: 600px
+:width: 400px
 :align: center
 :alt: Kuvaajassa erilaisten suolojen liukoisuus veteen lämpötilan funktiona.
 
