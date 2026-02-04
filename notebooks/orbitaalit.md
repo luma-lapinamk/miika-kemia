@@ -12,23 +12,26 @@ $ \nabla^2 = \frac{\partial^2}{\partial x^2} + \frac{\partial^2}{\partial y^2} +
 
 Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. Elektronit eivät siis liiku tiettyä rataa pitkin, kuten Bohrin atomimallissa, sillä niiden tarkkaa sijaintia ei voida ennustaa. {index}`Orbitaali` kuvaakin matemaattista todennäköisyysaluetta, jossa tietyllä energiatasolla oleva elektroni sijaitsee. Jokainen Bohrin atomimallia vastaava elektronikuori jaetaan useisiin energiatasoihin eli $s, p, d \ \text{ja} \ f$ -orbitaaleihin. Ensimmäinen K-kuori vastaa yhtä 1s-orbitaalia ja toinen L-kuori vastaa yhtä 2s- ja kolmea 2p-orbitaalia. Tätä korkeammat energiatasot (elektronikuoret M, N jne.) voivat jakautua useisiin energiatasoihin, joissa on s-orbitaalin ja kolmen p-orbitaalin lisäksi viisi d-orbitaalia ja seitsemän f-orbitaalia.
 
-```{figure-md} Orbitaalit jaksollisessa järjestelmässä
-<img src="../images/orbitaalit_jaksollisessa.png" alt="Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä." class="bg-primary mb-1" width="1255px" align="center">
-
-Atomien orbitaalit jaksollisessa järjestelmässä
-```
-
 ```{figure} ../images/orbitaalit_jaksollisessa.png
 :name: fig-orbitaalit_jaksollisessa
 :alt: Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä.
 :width: 1255px
 :align: center
 
-Atomien orbitaalit jaksollisessa järjestelmässä
+Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä.
 ```
 
 ```{figure-md} Orbitaalit
 <img src="../images/orbitaalit.png" alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1" width="1315px" align="center">
+
+Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
+```
+
+```{figure} ../images/orbitaalit.png
+:name: fig-orbitaalit
+:alt: Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
+:width: 1315px
+:align: center
 
 Atomien orbitaalien muotoja eri kvanttilukuyhdistelmillä. lähde: <a href="https://en.wikipedia.org/wiki/Atomic_orbital" target="_blank">Wikipedia</a>
 ```
@@ -54,6 +57,15 @@ Elektronien täyttyminen orbitaaleille voidaan käytännössä tiiviistää seur
 <img src="../images/orbitaalien_taytto.png" alt="Elektronien täyttyminen orbitaaleille taulukon muodossa." class="bg-primary mb-1" width="300px" align="center">
 
 Elektronien täyttyminen orbitaaleille
+```
+
+```{figure} ../images/orbitaalien_taytto.png
+:name: fig-orbitaalien_taytto
+:alt: Elektronien täyttyminen orbitaaleille taulukon muodossa.
+:width: 300px
+:align: center
+
+Elektronien täyttyminen orbitaaleille taulukon muodossa.
 ```
 
 ## Kvanttiluvut
