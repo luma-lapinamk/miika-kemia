@@ -78,14 +78,14 @@ Kun suolaa lisätään liuokseen yhä enemmissä määrin, jossain vaiheessa saa
 On myös mahdollista valmistaa **{index}`ylikylläinen liuos`** alentamalla kuuman kylläisen liuoksen lämpötilaa hallitusti. Esimerkiksi kädenlämmittimien toiminta perustuu natriumasetaatin (CH<sub>3</sub>COO<sup>-</sup>Na<sup>+</sup>) ylikylläiseen liuokseen. Kun liuoksen sisällä olevaa metallinappia naksauttaa, metallinapin nopea liike törmäyttää liuenneita ioneja tarpeeksi suurella voimalla toisiinsa ja aloittaa metallinapin pinnalla ketjureaktion, jonka seurauksena suolan kiteytyminen alkaa leviämään ympäröivään liuokseen.
     
 Alla olevalla videolla esitellään ylikylläisen natriumasetaattiliuoksen valmistus ja kiteytymisreaktio.
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I2hOhOIATII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br><br>
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I2hOhOIATII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 <iframe src="https://phet.colorado.edu/sims/cheerpj/soluble-salts/latest/soluble-salts.html?simulation=soluble-salts&locale=fi"
         width="800"
         height="600"
         allowfullscreen>
-</iframe><br><br>
-
+</iframe>
+  
 Kun ionit ympäröivät itsensä vesimolekyyleillä, ionien ympärille muodostuu ns. **{index}`hydraattiverho`**. Hydratoitunut metalli-ioni pystyy sitomaan ympärilleen eri määrän vesimolekyylejä riippuen kationin koosta ja varauksesta. Syntynyttä **{index}`hydraatti`a** (aine, johon on sitoutunut vettä) kutsutaan myös nimellä **{index}`akvakompleksi`**. Esimerkiksi kuparikationi pystyy sitomaan ympärilleen kuusi vesimolekyyliä. Tällaiset **{index}`kompleksi-ioni`t** merkitään hakasulkeisiin, joissa keskusatomina eli ligandina toimivan kupari-ionin perään merkitään kiinnittyneiden molekyylien määrä sulkeisiin ja ionin varaus hakasulkeiden ulkopuolelle seuraavasti: [Cu(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup>. Kun akvakompleksin vesiliuosta haihdutetaan, vesimolekyylit voivat joissain tapauksissa järjestäytyä kiteytyvän suolan hilarakenteen sekaan. Suola, jonka hilarakenne sisältää vesimolekyylejä, on nimeltään **{index}`kidevedellinen suola`**. Kuparisulfaatti on vedettömänä eli **{index}`anhydraatti`na** kiinteää vaaleaa jauhetta mutta kidevedellisenä muodostaa sinertäviä kauniita kiteitä.
 
 ```{figure} ../images/CuSO4.jpg
@@ -107,13 +107,13 @@ Ionien ja vesimolekyylien välistä sidosta kutsutaan **ionidipolisidokseksi**, 
 
 NaCl liukenee veteen ja muodostaa vesimolekyylien kanssa ionidipolisidoksia. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/d/d9/Sodium_chloride_dissolution.jpg" target="_blank">Wikipedia</a>
 ```
-    
+  
 <iframe src="https://phet.colorado.edu/sims/cheerpj/sugar-and-salt-solutions/latest/sugar-and-salt-solutions.html?simulation=sugar-and-salt-solutions&locale=fi"
         width="800"
         height="600"
         allowfullscreen>
 </iframe>
-
+  
 ### Saostuminen
 Yhdistämällä kahta eri suolaa samaan liuokseen on mahdollista saostaa liuoksesta jokin haluttu ioni pois siten, että syntyy niukkaliukoinen suola.
 
