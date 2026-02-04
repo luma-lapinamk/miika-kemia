@@ -18,6 +18,15 @@ Kvanttimekaanisessa atomimallissa elektronit sijatsevat ns. **orbitaaleilla**. E
 Atomien orbitaalit jaksollisessa järjestelmässä
 ```
 
+```{figure} ../images/orbitaalit_jaksollisessa.png
+:name: fig-orbitaalit_jaksollisessa
+:alt: Atomien orbitaalien määräytyminen jaksollisessa järjestelmässä.
+:width: 1255px
+:align: center
+
+Atomien orbitaalit jaksollisessa järjestelmässä
+```
+
 ```{figure-md} Orbitaalit
 <img src="../images/orbitaalit.png" alt="Atomien orbitaaleja eri kvanttilukuyhdistelmillä." class="bg-primary mb-1" width="1315px" align="center">
 
