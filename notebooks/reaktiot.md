@@ -63,9 +63,9 @@ $ \begin{align}ΔH_{reaktio} &= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
 :label: fig-reaktiolampolasku
 :width: 400px
 :align: center
-:alt: LaTex-koodi ei toiminut, joten lasku tuotu kuvatiedostona
+:alt: LaTex-koodi ei toiminut, joten lasku tuotu kuvatiedostona.
 
-Lasku kuvamuodossa, koodimuotoinen teksti ei yllä toimi.
+Lasku kuvamuodossa, koska koodimuotoinen teksti ei yllä toimi.
 ```
 
 Koska ΔH < 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukaisesti moolia kohden.
@@ -84,9 +84,9 @@ $ \begin{equation*} \begin{array}{ c c c }
 
 ```{figure} ../images/Hessin_laki.png
 :label: fig-Hessin_laki
-:width: 1000px
+:width: 300px
 :align: center
-:alt: LaTex-koodi ei toiminut, joten Hessin lain kaavio tuotu kuvatiedostona
+:alt: LaTex-koodi ei toiminut, joten Hessin lain kaavio tuotu kuvatiedostona.
 
 Hessin laki, jos koodimuotoinen kuva ei yllä toimi.
 ```
@@ -125,13 +125,13 @@ $\mathrm{\Delta H_1 + \Delta H_2 + (-\Delta H_3) = (-393.5-571.6+890) \ kJ = -75
 :::
 
 ### Olomuodon muutokset ja entalpia
-```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Physics_matter_state_transition_1_en.svg/2560px-Physics_matter_state_transition_1_en.svg.png
+```{figure} https://commons.wikimedia.org/wiki/File:Physics_matter_state_transition_1_en.svg#/media/File:Physics_matter_state_transition_1_en.svg
 :label: olomuodon_muutokset
-:width: 640px
+:width: 709px
 :align: center
 :alt: Kuvassa olomuodon muutokset: kiinteä, neste ja kaasu
 
-Olomuodon muutokset. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Physics_matter_state_transition_1_en.svg/2560px-Physics_matter_state_transition_1_en.svg.png" target="_blank">Wikipedia</a>
+Olomuodon muutokset. Kuvan lähde: <a href="https://commons.wikimedia.org/wiki/File:Physics_matter_state_transition_1_en.svg?uselang=fi" target="_blank">Wikipedia</a>
 ```
 
 ## Reaktionopeuteen vaikuttavat tekijät
