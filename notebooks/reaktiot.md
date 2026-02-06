@@ -1,7 +1,14 @@
 # {index}`Reaktiokinetiikka`
 Kinetiikka tutkii kemiallisen reaktion kulkua, reaktiomekanismeja ja reaktionopeuksia. Kemialliset reaktiot ovat tarkalleen ottaen elektronien siirtoreaktioita, joissa lähtöaineiden kemialliset sidokset katkeavat ja syntyy uusia sidoksia.
 
-<p><a href="https://commons.wikimedia.org/wiki/File:Combustion_reaction_of_methane.jpg#/media/File:Combustion_reaction_of_methane.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Combustion_reaction_of_methane.jpg" alt="Combustion reaction of methane.jpg" height="229" width="512"></a><br>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=24953730">Link</a></p>
+```{figure} https://upload.wikimedia.org/wikipedia/commons/7/7c/Combustion_reaction_of_methane.jpg
+:label: metaanin_palaminen
+:width: 512px
+:align: center
+:alt: Kuvassa metaanin palamisreaktio
+
+Metaanin palamisreaktio. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/7/7c/Combustion_reaction_of_methane.jpg" target="_blank">Wikipedia</a>
+```
 
 - Lähtöaineiden vahvojen sidosten katkeaminen vaatii aina energiaa. Tämän energian suuruutta kuvastaa reaktion **{index}`aktivoitumisenergia`**, tai **aktivaatiokynnys**. Jotta reaktio saadaan aikaan, kynnys on ylitettävä tuomalla systeemiin lisäenergiaa esimerkiksi tarpeeksi suuren lämpötilan avulla, jotta reagoivat aineet törmäävät toisiinsa riittävän suurella energialla.
 - **{index}`Aktivoitu kompleksi`** tarkoittaa välituotetta, joka syntyy yhdisteiden törmättyä ja sidosten rikkouduttua. Tämän jälkeen atomit tai ionit alkavat sitoutua uudella tavalla.
@@ -11,8 +18,12 @@ Kinetiikka tutkii kemiallisen reaktion kulkua, reaktiomekanismeja ja reaktionope
 - Reaktiossa vapautunutta tai sitoutunutta energiaa kutsutaan nimellä **{index}`reaktiolämpö`**, $\Delta H$ eli entalpiamuutos.
     - Eksotermiselle reaktiolle $\Delta H < 0$
     - Endotermiselle reaktiolle $\Delta H > 0$
-```{figure-md} energiakaaviot
-<img src="../images/aktivaatioenergia.jpg" alt="Ekso- ja endotermisen reaktion energiakaaviot." class="bg-primary mb-1" width="1000px" align="center">
+
+```{figure} ../images/aktivaatioenergia.jpg
+:label: fig-aktivaatioenergia
+:width: 1000px
+:align: center
+:alt: Ekso- ja endotermisen reaktion energiakaaviot
 
 Ekso- ja endotermisen reaktion energiakaaviot. Kuvan alkuperäinen tekijä: <a href="https://openstax.org/books/biology/pages/1-introduction" target="_blank">CNX OpenStax</a>, lähde: <a href="https://commons.wikimedia.org/wiki/File:Figure_06_03_03.jpg" target="_blank">Wikipedia</a>
 ```
@@ -43,10 +54,10 @@ $\mathrm{H_2 \ (g) + \frac{1}{2} O_2 \ (g) \longrightarrow H_2O \ (g); \ \Delta 
 
 Reaktiolämmöksi saadaan reaktiotuotteiden ja lähtöaineiden välisenä entalpiaerona
 
-$\begin{align}ΔH_{reaktio} &= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
+$ \begin{align}ΔH_{reaktio} &= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
 &=4\Delta H_3 + 2\Delta H_4 - (2\Delta H_1 + 5\Delta H_2) \\ \\
 &=[4 \cdot (-393.5) + 2 \cdot (-241.8) - (2 \cdot 226.7 + 5 \cdot 0)] \ kJ \\ \\
-&=-2511 \ kJ\end{align}$
+&=-2511 \ kJ\end{align} $
 
 Koska ΔH < 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukaisesti moolia kohden.
 :::
@@ -54,14 +65,13 @@ Koska ΔH < 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukais
 ### {index}`Hessin laki`
 Entalpiamuutos eli reaktiolämpö on riippumaton siitä, tapahtuuko reaktio suoraan vai välivaiheiden (osareaktioiden) kautta. Hessin lain mukaan reaktion entalpia voidaan laskea osareaktioiden avulla. Lain avulla voidaan täten määrittää minkä tahansa reaktion reaktiolämpö, jos kokonaisreaktion osareaktioiden reaktiolämmöt tunnetaan.
 
-$\begin{equation*}
-\begin{array}{ c c c }
+$ \begin{equation*} \begin{array}{ c c c }
 \mathrm{Lähtöaineet} & \xrightarrow[]{\Delta H} & \mathrm{Reaktiotuotteet} \\
 \uparrow & & \uparrow \\
 \Delta H_{lähtöaineet} & & \Delta H_{tuotteet} \\
 & \mathrm{Aineet} & \\
 \end{array}
-\end{equation*}$
+\end{equation*} $
 
 :::{admonition} Esimerkki: metaanin muodostumislämpö
 :class: tip
@@ -97,7 +107,14 @@ $\mathrm{\Delta H_1 + \Delta H_2 + (-\Delta H_3) = (-393.5-571.6+890) \ kJ = -75
 :::
 
 ### Olomuodon muutokset ja entalpia
-<p><a href="https://commons.wikimedia.org/wiki/File:Physics_matter_state_transition_1_en.svg#/media/File:Physics_matter_state_transition_1_en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Physics_matter_state_transition_1_en.svg" alt="Physics matter state transition 1 en.svg" height="192" width="640"></a><br><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15779425">Link</a></p>
+```{figure} https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Physics_matter_state_transition_1_en.svg/2560px-Physics_matter_state_transition_1_en.svg.png
+:label: olomuodon_muutokset
+:width: 640px
+:align: center
+:alt: Kuvassa olomuodon muutokset: kiinteä, neste ja kaasu
+
+Olomuodon muutokset. Kuvan lähde: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Physics_matter_state_transition_1_en.svg/2560px-Physics_matter_state_transition_1_en.svg.png" target="_blank">Wikipedia</a>
+```
 
 ## Reaktionopeuteen vaikuttavat tekijät
 Kemiallisen reaktion nopeuteen vaikuttavat
@@ -107,8 +124,12 @@ Kemiallisen reaktion nopeuteen vaikuttavat
 - Aineiden hienojakoisuus (kosketus- eli vuorovaikutuspinta-ala)
 - Paine (törmäyksiä aikayksikössä)
 - Katalyytti / Katalysaattori (muuttaa reaktiomekanismia ja alentaa siten aktivoitumisenergiaa, mutta ei itse kulu reaktiossa. Luonnon katalyytti = entsyymi)
-```{figure-md} katalyytti
-<img src="../images/aktivaatioenergia2.jpg" alt="Katalyytin vaikutus endotermisen reaktion aktivoitumisenergiaan." class="bg-primary mb-1" width="400px" align="center">
+
+```{figure} ../images/aktivaatioenergia2.jpg
+:label: katalyytti
+:width: 400px
+:align: center
+:alt: Kuvassa olomuodon muutokset: kiinteä, neste ja kaasu
 
 Katalyytin vaikutus endotermisen reaktion aktivoitumisenergiaan. Kuvan alkuperäinen tekijä: <a href="https://openstax.org/books/biology/pages/1-introduction" target="_blank">CNX OpenStax</a>, lähde: <a href="https://commons.wikimedia.org/wiki/File:Figure_06_05_01.jpg" target="_blank">Wikipedia</a>
 ```
