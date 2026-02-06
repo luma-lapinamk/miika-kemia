@@ -54,17 +54,18 @@ $\mathrm{H_2 \ (g) + \frac{1}{2} O_2 \ (g) \longrightarrow H_2O \ (g); \ \Delta 
 
 Reaktiolämmöksi saadaan reaktiotuotteiden ja lähtöaineiden välisenä entalpiaerona
 
-/* $ \begin{align}ΔH_{reaktio} &= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
+$ \begin{align}ΔH_{reaktio} &= H_{reaktiotuotteet} - H_{lähtöaineet} \\ \\
 &=4\Delta H_3 + 2\Delta H_4 - (2\Delta H_1 + 5\Delta H_2) \\ \\
 &=[4 \cdot (-393.5) + 2 \cdot (-241.8) - (2 \cdot 226.7 + 5 \cdot 0)] \ kJ \\ \\
-&=-2511 \ kJ\end{align} $ */
+&=-2511 \ kJ\end{align} $
 
-```{figure} ../images/reaktiolampolasku.jpg
+```{figure} ../images/reaktiolampolasku.png
 :label: fig-reaktiolampolasku
 :width: 400px
 :align: center
 :alt: LaTex-koodi ei toiminut, joten lasku tuotu kuvatiedostona
 
+Lasku kuvamuodossa, koodimuotoinen teksti ei yllä toimi.
 ```
 
 Koska ΔH < 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukaisesti moolia kohden.
@@ -73,21 +74,21 @@ Koska ΔH < 0, reaktio on eksoterminen ja arvo -2511 kJ on määritelmän mukais
 ### {index}`Hessin laki`
 Entalpiamuutos eli reaktiolämpö on riippumaton siitä, tapahtuuko reaktio suoraan vai välivaiheiden (osareaktioiden) kautta. Hessin lain mukaan reaktion entalpia voidaan laskea osareaktioiden avulla. Lain avulla voidaan täten määrittää minkä tahansa reaktion reaktiolämpö, jos kokonaisreaktion osareaktioiden reaktiolämmöt tunnetaan.
 
-/* $ \begin{equation*} \begin{array}{ c c c }
+$ \begin{equation*} \begin{array}{ c c c }
 \mathrm{Lähtöaineet} & \xrightarrow[]{\Delta H} & \mathrm{Reaktiotuotteet} \\
 \uparrow & & \uparrow \\
 \Delta H_{lähtöaineet} & & \Delta H_{tuotteet} \\
 & \mathrm{Aineet} & \\
 \end{array}
-\end{equation*} $ */
+\end{equation*} $
 
-```{figure} ../images/Hessin_laki.jpg
+```{figure} ../images/Hessin_laki.png
 :label: fig-Hessin_laki
 :width: 1000px
 :align: center
 :alt: LaTex-koodi ei toiminut, joten Hessin lain kaavio tuotu kuvatiedostona
 
-Hessin laki
+Hessin laki, jos koodimuotoinen kuva ei yllä toimi.
 ```
 
 :::{admonition} Esimerkki: metaanin muodostumislämpö
