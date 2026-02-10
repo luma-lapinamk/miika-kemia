@@ -3,7 +3,7 @@ Karkean jaon mukaan kovalenttinen sidos syntyy epämetalliatomien välille, vaik
 
 Kovalenttinen sidos muodostuu, kun kaksi epämetalliatomia pyrkivät oktettiin. Koska kummallakin on vajausta ulkoelektroneista, atomit jakavat ulkoelektroneitaan siten, että sidoksen muodostumiseen osallistuvat elektronit lasketaan kuuluvaksi kummallekin atomille. Kovalenttisessa yksöissidoksessa kumpikin atomi luovuttaa yhden ulkoelektronin yhteiseen käyttöön, jolloin muodostuu {index}`sidoselektronipari`. Vety sekä pääryhmän VII epämetallit eli halogeenit pystyvät täten muodostamaan vain yhden kovalenttisen yksöissidoksen, koska ne tarvitsevat yhden valenssielektronin lisää saavuttaakseen oktetin. Pääryhmän VI eli happiryhmän epämetallit happi, (O), rikki (S) ja seleeni (Se) pystyvät muodostamaan kaksi kovalenttista yksöissidosta, pääryhmän V epämetallit typpi (N) ja fosfori (P) kolme kovalenttista yksöissidosta ja hiili jopa neljä kovalenttista yksöissidosta oktetin saavuttamiseksi, kuten kuvassa alla.
 
-```{figure} ../images/4kovalenttista.npg
+```{figure} ../images/4kovalenttista.png
 :label: fig-4kovalenttista
 :width: 500px
 :align: center
@@ -18,7 +18,7 @@ Kovalenttisia sidoksia voi olla myös kaksinkertaisia tai kolminkertaisia, riipp
 
 Yksinkertaistettu tapa molekyylien piirtämiseksi on **{index}`Lewis'n rakennekaava`**, joka on nimetty kehittäjänsä Gilbert Newton Lewis'n mukaan. Rakennekaavassa yksittäisiä valenssielektroneita kuvataan pisteinä ja elektronipareja viivoina atomin kemiallisen merkin ympärillä. 
 
-```{figure} ../images/happi_ja_typpi.npg
+```{figure} ../images/happi_ja_typpi.png
 :label: fig-happi_ja_typpi
 :width: 300px
 :align: center
@@ -32,7 +32,7 @@ Sidoksen vahvuus riippuu useista tekijöistä, kuten atomien ytimien varauksista
 ## {index}`Poolinen` ja {index}`pooliton` kovalenttinen sidos
 Jos eri epämetalleilla on erilainen kyky vetää sidoselektroneita puoleensa (eri elektronegatiivisuusarvo), kovalenttisessa sidoksessa sidoselektronit eivät ole jakaantuneet tasaisesti atomien kesken. Sidoselektronit ovat tällöin lähempänä elektronegatiivisempaa atomia, jolloin kyseinen atomi on varautunut *heikosti negatiivisesti*. Tämä tarkoittaa sitä, että elektronegatiivisemmalla atomilla on yhtä alkeisvarausta pienempi negatiivinen varaus, ns. **{index}`osittaisvaraus`**, jota merkitään kreikkalaisella kirjaimella *delta*, $\delta^-$. Sidoksen toisella atomilla on tällöin positiivinen osittaisvaraus, $\delta^+$. Osittaisvarausten suuruus on esimerkiksi vesimolekyylissä hapella -0.86 ja vetyatomeilla +0.43, koska hapessa on kiinni kaksi vetyatomia.
 
-```{figure} ../images/vesimolek.npg
+```{figure} ../images/vesimolek.png
 :label: fig-vesimolek
 :width: 400px
 :align: center
@@ -49,7 +49,7 @@ Vesi on esimerkki, jossa kovalenttiset sidokset ovat siis **poolisia**. Todellis
 
 Yksittäisen sidosten poolisuudesta seuraa usein, että koko molekyyli on poolinen (polaarinen). Tällöin molekyyliä kutsutaan {index}`dipoliksi`, josta voidaan erottaa negatiivisen ja positiivisen osittaisvarauksen omaavat kohtiot, ikäänkuin pariston navat. Vesimolekyylissä happiatomi on dipolin negatiivinen kohtio ja vedyt positiivinen kohtio. Vesimolekyylin poolisuutta vahvistaa myös hapen vapaat elektroniparit.
 
-```{figure} ../images/vesidipoli.npg
+```{figure} ../images/vesidipoli.png
 :label: fig-vesidipoli
 :width: 400px
 :align: center
@@ -66,7 +66,7 @@ Molekyylin symmetrinen muoto voi kumota molekyylin poolisuuden (polaarisuuden), 
 
 Hiilidioksidin (CO<sub>2</sub>) lineaarinen muoto kumoaa myös molekyylin poolisuuden. Hiilidioksidinolekyylissä hiiliatomin keskellä olevat happiatomit ovat 180° kulmassa toisiinsa nähden ja molekyylissä on symmetriaa, mikä tarkoittaa sitä, että molekyylissä ei ole varautuneita alueita. Tämän vuoksi hiilidioksidi on myös ei-polaarinen molekyyli.
 
-```{figure} ../images/CO2.npg
+```{figure} ../images/CO2.png
 :label: fig-CO2
 :width: 300px
 :align: center
