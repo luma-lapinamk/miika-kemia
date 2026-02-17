@@ -168,7 +168,9 @@ Lähde <a href="https://ptable.com/#Ominaisuudet/Elektronegatiivisuus" target="_
 | Zirkonium| Zr                 | 1.33                    |
 
 ## {index}`Sidoksen ioniluonne`
-Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1,7 tai enemmän, sidos tulkitaan ionisidokseksi.
+Jos sidoksen muodostumiseen osallistuvien atomien elektronegatiivisuusero on 1.7 tai enemmän, sidos tulkitaan ionisidokseksi.
+
+Jos kovalenttisen sidoksen muodostaneiden atomien elektronegatiivisuusero on alle 0.5, sidos tulkitaan poolittomaksi.
 
 Linus Paulingin mukaan
 
