@@ -32,3 +32,8 @@
 
 $^*z$ = siirtyvien elektronien määrä elektrolyysissä hapettuvaa tai pelkistyvää atomia/molekyyliä kohti
 
+| pH-laskut |  |
+| --- | --- |
+| $pH$ | $pH = -log[H_3O^+]$ |
+| $pOH$ | $pOH = -log[OH^-]$ |
+|  | $pH+pOH = 14$ |
