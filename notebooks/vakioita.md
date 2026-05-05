@@ -14,6 +14,9 @@
 | normaaliolosuhteet | NTP | $20$ C°, $1$ atm |
 | normaalipaine | $p_0$ | $1$ atm = $101 325$ Pa = $101.325$ kPa = $1.01325$ bar |
 
+Toisen asteen yhtälön ratkaisukaava
+$x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$
+
 | Suure | Tunnus | Kaava |
 | --- | --- | --- |
 | tiheys | $\rho$ | $\rho = \frac{m}{V}$ |
@@ -34,6 +37,8 @@ $^*z$ = siirtyvien elektronien määrä elektrolyysissä hapettuvaa tai pelkisty
 
 | pH-laskut |  |
 | --- | --- |
-| $pH$ | $pH = -log[H_3O^+]$ |
-| $pOH$ | $pOH = -log[OH^-]$ |
+| $pH$ | $pH = -log_{10}[H_3O^+]$ |
+| $[H_3O^+]$ | $[H_3O^+] = 10^{-pH}$ |
+| $pOH$ | $pOH = -log_{10}[OH^-]$ |
+| $[OH^-]$ | $[H_3O^+] = 10^{-pOH}$ |
 |  | $pH+pOH = 14$ |
