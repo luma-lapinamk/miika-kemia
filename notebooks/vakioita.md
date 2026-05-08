@@ -16,6 +16,8 @@
 
 **Toisen asteen yhtälön ratkaisukaava**
 
+Yhtälön, joka on muotoa $ax^2+bx+c=0$, ratkaisut ovat
+
 $x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$
 
 | Suure | Tunnus | Kaava |
@@ -38,8 +40,8 @@ $^*z$ = siirtyvien elektronien määrä elektrolyysissä hapettuvaa tai pelkisty
 
 | pH-laskut |  |
 | --- | --- |
-| $pH$ | $pH = -log_{10}[H_3O^+]$ |
-| $[H_3O^+]$ | $[H_3O^+] = 10^{-pH}$ |
-| $pOH$ | $pOH = -log_{10}[OH^-]$ |
-| $[OH^-]$ | $[H_3O^+] = 10^{-pOH}$ |
+|  | $pH = -log_{10}[H_3O^+]$ |
+| jolloin | $[H_3O^+] = 10^{-pH}$ |
+|  | $pOH = -log_{10}[OH^-]$ |
+| jolloin | $[OH^-] = 10^{-pOH}$ |
 |  | $pH+pOH = 14$ |
